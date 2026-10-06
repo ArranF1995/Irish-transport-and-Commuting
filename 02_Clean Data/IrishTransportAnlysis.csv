@@ -1,0 +1,2831 @@
+TLIST(W1),Year,Week Number,Mode of Transport,Passenger Journeys,Data Status,Source
+2019W01,2019,1,Dublin Metro Bus,1987891,Available,THA25
+2019W01,2019,1,"Bus, excluding Dublin Metro",497598,Available,THA25
+2019W01,2019,1,Rail,,Missing,THA25
+2019W01,2019,1,"All public transport, excluding LUAS",2485489,Available,THA25
+2019W02,2019,2,Dublin Metro Bus,2709579,Available,THA25
+2019W02,2019,2,"Bus, excluding Dublin Metro",633764,Available,THA25
+2019W02,2019,2,Rail,,Missing,THA25
+2019W02,2019,2,"All public transport, excluding LUAS",3343343,Available,THA25
+2019W03,2019,3,Dublin Metro Bus,2784678,Available,THA25
+2019W03,2019,3,"Bus, excluding Dublin Metro",678097,Available,THA25
+2019W03,2019,3,Rail,,Missing,THA25
+2019W03,2019,3,"All public transport, excluding LUAS",3462775,Available,THA25
+2019W04,2019,4,Dublin Metro Bus,2858346,Available,THA25
+2019W04,2019,4,"Bus, excluding Dublin Metro",676140,Available,THA25
+2019W04,2019,4,Rail,,Missing,THA25
+2019W04,2019,4,"All public transport, excluding LUAS",3534486,Available,THA25
+2019W05,2019,5,Dublin Metro Bus,2924821,Available,THA25
+2019W05,2019,5,"Bus, excluding Dublin Metro",672440,Available,THA25
+2019W05,2019,5,Rail,,Missing,THA25
+2019W05,2019,5,"All public transport, excluding LUAS",3597261,Available,THA25
+2019W06,2019,6,Dublin Metro Bus,2979960,Available,THA25
+2019W06,2019,6,"Bus, excluding Dublin Metro",696573,Available,THA25
+2019W06,2019,6,Rail,,Missing,THA25
+2019W06,2019,6,"All public transport, excluding LUAS",3676533,Available,THA25
+2019W07,2019,7,Dublin Metro Bus,3053710,Available,THA25
+2019W07,2019,7,"Bus, excluding Dublin Metro",736594,Available,THA25
+2019W07,2019,7,Rail,,Missing,THA25
+2019W07,2019,7,"All public transport, excluding LUAS",3790304,Available,THA25
+2019W08,2019,8,Dublin Metro Bus,2927041,Available,THA25
+2019W08,2019,8,"Bus, excluding Dublin Metro",677931,Available,THA25
+2019W08,2019,8,Rail,,Missing,THA25
+2019W08,2019,8,"All public transport, excluding LUAS",3604972,Available,THA25
+2019W09,2019,9,Dublin Metro Bus,2989171,Available,THA25
+2019W09,2019,9,"Bus, excluding Dublin Metro",706297,Available,THA25
+2019W09,2019,9,Rail,,Missing,THA25
+2019W09,2019,9,"All public transport, excluding LUAS",3695468,Available,THA25
+2019W10,2019,10,Dublin Metro Bus,3065148,Available,THA25
+2019W10,2019,10,"Bus, excluding Dublin Metro",718505,Available,THA25
+2019W10,2019,10,Rail,,Missing,THA25
+2019W10,2019,10,"All public transport, excluding LUAS",3783653,Available,THA25
+2019W11,2019,11,Dublin Metro Bus,2998440,Available,THA25
+2019W11,2019,11,"Bus, excluding Dublin Metro",731042,Available,THA25
+2019W11,2019,11,Rail,,Missing,THA25
+2019W11,2019,11,"All public transport, excluding LUAS",3729482,Available,THA25
+2019W12,2019,12,Dublin Metro Bus,2742468,Available,THA25
+2019W12,2019,12,"Bus, excluding Dublin Metro",665202,Available,THA25
+2019W12,2019,12,Rail,,Missing,THA25
+2019W12,2019,12,"All public transport, excluding LUAS",3407670,Available,THA25
+2019W13,2019,13,Dublin Metro Bus,3136873,Available,THA25
+2019W13,2019,13,"Bus, excluding Dublin Metro",749734,Available,THA25
+2019W13,2019,13,Rail,,Missing,THA25
+2019W13,2019,13,"All public transport, excluding LUAS",3886607,Available,THA25
+2019W14,2019,14,Dublin Metro Bus,3087216,Available,THA25
+2019W14,2019,14,"Bus, excluding Dublin Metro",725196,Available,THA25
+2019W14,2019,14,Rail,,Missing,THA25
+2019W14,2019,14,"All public transport, excluding LUAS",3812412,Available,THA25
+2019W15,2019,15,Dublin Metro Bus,3101074,Available,THA25
+2019W15,2019,15,"Bus, excluding Dublin Metro",717874,Available,THA25
+2019W15,2019,15,Rail,,Missing,THA25
+2019W15,2019,15,"All public transport, excluding LUAS",3818948,Available,THA25
+2019W16,2019,16,Dublin Metro Bus,2723661,Available,THA25
+2019W16,2019,16,"Bus, excluding Dublin Metro",636735,Available,THA25
+2019W16,2019,16,Rail,,Missing,THA25
+2019W16,2019,16,"All public transport, excluding LUAS",3360396,Available,THA25
+2019W17,2019,17,Dublin Metro Bus,2535513,Available,THA25
+2019W17,2019,17,"Bus, excluding Dublin Metro",601236,Available,THA25
+2019W17,2019,17,Rail,,Missing,THA25
+2019W17,2019,17,"All public transport, excluding LUAS",3136749,Available,THA25
+2019W18,2019,18,Dublin Metro Bus,2990676,Available,THA25
+2019W18,2019,18,"Bus, excluding Dublin Metro",727961,Available,THA25
+2019W18,2019,18,Rail,,Missing,THA25
+2019W18,2019,18,"All public transport, excluding LUAS",3718637,Available,THA25
+2019W19,2019,19,Dublin Metro Bus,2719955,Available,THA25
+2019W19,2019,19,"Bus, excluding Dublin Metro",650874,Available,THA25
+2019W19,2019,19,Rail,,Missing,THA25
+2019W19,2019,19,"All public transport, excluding LUAS",3370829,Available,THA25
+2019W20,2019,20,Dublin Metro Bus,2960967,Available,THA25
+2019W20,2019,20,"Bus, excluding Dublin Metro",691221,Available,THA25
+2019W20,2019,20,Rail,,Missing,THA25
+2019W20,2019,20,"All public transport, excluding LUAS",3652188,Available,THA25
+2019W21,2019,21,Dublin Metro Bus,2938021,Available,THA25
+2019W21,2019,21,"Bus, excluding Dublin Metro",701342,Available,THA25
+2019W21,2019,21,Rail,,Missing,THA25
+2019W21,2019,21,"All public transport, excluding LUAS",3639363,Available,THA25
+2019W22,2019,22,Dublin Metro Bus,2900323,Available,THA25
+2019W22,2019,22,"Bus, excluding Dublin Metro",681399,Available,THA25
+2019W22,2019,22,Rail,,Missing,THA25
+2019W22,2019,22,"All public transport, excluding LUAS",3581722,Available,THA25
+2019W23,2019,23,Dublin Metro Bus,2591616,Available,THA25
+2019W23,2019,23,"Bus, excluding Dublin Metro",617748,Available,THA25
+2019W23,2019,23,Rail,,Missing,THA25
+2019W23,2019,23,"All public transport, excluding LUAS",3209364,Available,THA25
+2019W24,2019,24,Dublin Metro Bus,2844409,Available,THA25
+2019W24,2019,24,"Bus, excluding Dublin Metro",669882,Available,THA25
+2019W24,2019,24,Rail,,Missing,THA25
+2019W24,2019,24,"All public transport, excluding LUAS",3514291,Available,THA25
+2019W25,2019,25,Dublin Metro Bus,2826773,Available,THA25
+2019W25,2019,25,"Bus, excluding Dublin Metro",680777,Available,THA25
+2019W25,2019,25,Rail,,Missing,THA25
+2019W25,2019,25,"All public transport, excluding LUAS",3507550,Available,THA25
+2019W26,2019,26,Dublin Metro Bus,2840156,Available,THA25
+2019W26,2019,26,"Bus, excluding Dublin Metro",686867,Available,THA25
+2019W26,2019,26,Rail,,Missing,THA25
+2019W26,2019,26,"All public transport, excluding LUAS",3527023,Available,THA25
+2019W27,2019,27,Dublin Metro Bus,2953254,Available,THA25
+2019W27,2019,27,"Bus, excluding Dublin Metro",705163,Available,THA25
+2019W27,2019,27,Rail,,Missing,THA25
+2019W27,2019,27,"All public transport, excluding LUAS",3658417,Available,THA25
+2019W28,2019,28,Dublin Metro Bus,2954091,Available,THA25
+2019W28,2019,28,"Bus, excluding Dublin Metro",713037,Available,THA25
+2019W28,2019,28,Rail,,Missing,THA25
+2019W28,2019,28,"All public transport, excluding LUAS",3667128,Available,THA25
+2019W29,2019,29,Dublin Metro Bus,2895372,Available,THA25
+2019W29,2019,29,"Bus, excluding Dublin Metro",701340,Available,THA25
+2019W29,2019,29,Rail,,Missing,THA25
+2019W29,2019,29,"All public transport, excluding LUAS",3596712,Available,THA25
+2019W30,2019,30,Dublin Metro Bus,2939485,Available,THA25
+2019W30,2019,30,"Bus, excluding Dublin Metro",713657,Available,THA25
+2019W30,2019,30,Rail,,Missing,THA25
+2019W30,2019,30,"All public transport, excluding LUAS",3653142,Available,THA25
+2019W31,2019,31,Dublin Metro Bus,2725260,Available,THA25
+2019W31,2019,31,"Bus, excluding Dublin Metro",680616,Available,THA25
+2019W31,2019,31,Rail,,Missing,THA25
+2019W31,2019,31,"All public transport, excluding LUAS",3405876,Available,THA25
+2019W32,2019,32,Dublin Metro Bus,2547806,Available,THA25
+2019W32,2019,32,"Bus, excluding Dublin Metro",616761,Available,THA25
+2019W32,2019,32,Rail,,Missing,THA25
+2019W32,2019,32,"All public transport, excluding LUAS",3164567,Available,THA25
+2019W33,2019,33,Dublin Metro Bus,2724875,Available,THA25
+2019W33,2019,33,"Bus, excluding Dublin Metro",697890,Available,THA25
+2019W33,2019,33,Rail,,Missing,THA25
+2019W33,2019,33,"All public transport, excluding LUAS",3422765,Available,THA25
+2019W34,2019,34,Dublin Metro Bus,2793023,Available,THA25
+2019W34,2019,34,"Bus, excluding Dublin Metro",689702,Available,THA25
+2019W34,2019,34,Rail,,Missing,THA25
+2019W34,2019,34,"All public transport, excluding LUAS",3482725,Available,THA25
+2019W35,2019,35,Dublin Metro Bus,2872215,Available,THA25
+2019W35,2019,35,"Bus, excluding Dublin Metro",695388,Available,THA25
+2019W35,2019,35,Rail,,Missing,THA25
+2019W35,2019,35,"All public transport, excluding LUAS",3567603,Available,THA25
+2019W36,2019,36,Dublin Metro Bus,2999569,Available,THA25
+2019W36,2019,36,"Bus, excluding Dublin Metro",744038,Available,THA25
+2019W36,2019,36,Rail,,Missing,THA25
+2019W36,2019,36,"All public transport, excluding LUAS",3743607,Available,THA25
+2019W37,2019,37,Dublin Metro Bus,3109763,Available,THA25
+2019W37,2019,37,"Bus, excluding Dublin Metro",820112,Available,THA25
+2019W37,2019,37,Rail,,Missing,THA25
+2019W37,2019,37,"All public transport, excluding LUAS",3929875,Available,THA25
+2019W38,2019,38,Dublin Metro Bus,3182473,Available,THA25
+2019W38,2019,38,"Bus, excluding Dublin Metro",828356,Available,THA25
+2019W38,2019,38,Rail,,Missing,THA25
+2019W38,2019,38,"All public transport, excluding LUAS",4010829,Available,THA25
+2019W39,2019,39,Dublin Metro Bus,3204042,Available,THA25
+2019W39,2019,39,"Bus, excluding Dublin Metro",814190,Available,THA25
+2019W39,2019,39,Rail,,Missing,THA25
+2019W39,2019,39,"All public transport, excluding LUAS",4018232,Available,THA25
+2019W40,2019,40,Dublin Metro Bus,3139165,Available,THA25
+2019W40,2019,40,"Bus, excluding Dublin Metro",776594,Available,THA25
+2019W40,2019,40,Rail,,Missing,THA25
+2019W40,2019,40,"All public transport, excluding LUAS",3915759,Available,THA25
+2019W41,2019,41,Dublin Metro Bus,3243670,Available,THA25
+2019W41,2019,41,"Bus, excluding Dublin Metro",824314,Available,THA25
+2019W41,2019,41,Rail,,Missing,THA25
+2019W41,2019,41,"All public transport, excluding LUAS",4067984,Available,THA25
+2019W42,2019,42,Dublin Metro Bus,3238993,Available,THA25
+2019W42,2019,42,"Bus, excluding Dublin Metro",805498,Available,THA25
+2019W42,2019,42,Rail,,Missing,THA25
+2019W42,2019,42,"All public transport, excluding LUAS",4044491,Available,THA25
+2019W43,2019,43,Dublin Metro Bus,3170924,Available,THA25
+2019W43,2019,43,"Bus, excluding Dublin Metro",824331,Available,THA25
+2019W43,2019,43,Rail,,Missing,THA25
+2019W43,2019,43,"All public transport, excluding LUAS",3995255,Available,THA25
+2019W44,2019,44,Dublin Metro Bus,2708101,Available,THA25
+2019W44,2019,44,"Bus, excluding Dublin Metro",655906,Available,THA25
+2019W44,2019,44,Rail,,Missing,THA25
+2019W44,2019,44,"All public transport, excluding LUAS",3364007,Available,THA25
+2019W45,2019,45,Dublin Metro Bus,3130443,Available,THA25
+2019W45,2019,45,"Bus, excluding Dublin Metro",775922,Available,THA25
+2019W45,2019,45,Rail,,Missing,THA25
+2019W45,2019,45,"All public transport, excluding LUAS",3906365,Available,THA25
+2019W46,2019,46,Dublin Metro Bus,3206894,Available,THA25
+2019W46,2019,46,"Bus, excluding Dublin Metro",783830,Available,THA25
+2019W46,2019,46,Rail,,Missing,THA25
+2019W46,2019,46,"All public transport, excluding LUAS",3990724,Available,THA25
+2019W47,2019,47,Dublin Metro Bus,3192052,Available,THA25
+2019W47,2019,47,"Bus, excluding Dublin Metro",772760,Available,THA25
+2019W47,2019,47,Rail,,Missing,THA25
+2019W47,2019,47,"All public transport, excluding LUAS",3964812,Available,THA25
+2019W48,2019,48,Dublin Metro Bus,3251721,Available,THA25
+2019W48,2019,48,"Bus, excluding Dublin Metro",794233,Available,THA25
+2019W48,2019,48,Rail,,Missing,THA25
+2019W48,2019,48,"All public transport, excluding LUAS",4045954,Available,THA25
+2019W49,2019,49,Dublin Metro Bus,3215990,Available,THA25
+2019W49,2019,49,"Bus, excluding Dublin Metro",773085,Available,THA25
+2019W49,2019,49,Rail,,Missing,THA25
+2019W49,2019,49,"All public transport, excluding LUAS",3989075,Available,THA25
+2019W50,2019,50,Dublin Metro Bus,3271738,Available,THA25
+2019W50,2019,50,"Bus, excluding Dublin Metro",768340,Available,THA25
+2019W50,2019,50,Rail,,Missing,THA25
+2019W50,2019,50,"All public transport, excluding LUAS",4040078,Available,THA25
+2019W51,2019,51,Dublin Metro Bus,3166707,Available,THA25
+2019W51,2019,51,"Bus, excluding Dublin Metro",900418,Available,THA25
+2019W51,2019,51,Rail,,Missing,THA25
+2019W51,2019,51,"All public transport, excluding LUAS",4067125,Available,THA25
+2019W52,2019,52,Dublin Metro Bus,1599369,Available,THA25
+2019W52,2019,52,"Bus, excluding Dublin Metro",397160,Available,THA25
+2019W52,2019,52,Rail,,Missing,THA25
+2019W52,2019,52,"All public transport, excluding LUAS",1996529,Available,THA25
+2019W53,2019,53,Dublin Metro Bus,,Missing,THA25
+2019W53,2019,53,"Bus, excluding Dublin Metro",,Missing,THA25
+2019W53,2019,53,Rail,,Missing,THA25
+2019W53,2019,53,"All public transport, excluding LUAS",,Missing,THA25
+2020W01,2020,1,Dublin Metro Bus,1970550,Available,THA25
+2020W01,2020,1,"Bus, excluding Dublin Metro",523817,Available,THA25
+2020W01,2020,1,Rail,697954,Available,THA25
+2020W01,2020,1,"All public transport, excluding LUAS",3192321,Available,THA25
+2020W02,2020,2,Dublin Metro Bus,2830713,Available,THA25
+2020W02,2020,2,"Bus, excluding Dublin Metro",652672,Available,THA25
+2020W02,2020,2,Rail,899175,Available,THA25
+2020W02,2020,2,"All public transport, excluding LUAS",4382560,Available,THA25
+2020W03,2020,3,Dublin Metro Bus,2907797,Available,THA25
+2020W03,2020,3,"Bus, excluding Dublin Metro",693102,Available,THA25
+2020W03,2020,3,Rail,925257,Available,THA25
+2020W03,2020,3,"All public transport, excluding LUAS",4526156,Available,THA25
+2020W04,2020,4,Dublin Metro Bus,3076009,Available,THA25
+2020W04,2020,4,"Bus, excluding Dublin Metro",747531,Available,THA25
+2020W04,2020,4,Rail,959703,Available,THA25
+2020W04,2020,4,"All public transport, excluding LUAS",4783243,Available,THA25
+2020W05,2020,5,Dublin Metro Bus,3152056,Available,THA25
+2020W05,2020,5,"Bus, excluding Dublin Metro",755189,Available,THA25
+2020W05,2020,5,Rail,1019494,Available,THA25
+2020W05,2020,5,"All public transport, excluding LUAS",4926739,Available,THA25
+2020W06,2020,6,Dublin Metro Bus,3104689,Available,THA25
+2020W06,2020,6,"Bus, excluding Dublin Metro",748401,Available,THA25
+2020W06,2020,6,Rail,1041672,Available,THA25
+2020W06,2020,6,"All public transport, excluding LUAS",4894762,Available,THA25
+2020W07,2020,7,Dublin Metro Bus,3097986,Available,THA25
+2020W07,2020,7,"Bus, excluding Dublin Metro",729974,Available,THA25
+2020W07,2020,7,Rail,908680,Available,THA25
+2020W07,2020,7,"All public transport, excluding LUAS",4736640,Available,THA25
+2020W08,2020,8,Dublin Metro Bus,3046425,Available,THA25
+2020W08,2020,8,"Bus, excluding Dublin Metro",728267,Available,THA25
+2020W08,2020,8,Rail,954421,Available,THA25
+2020W08,2020,8,"All public transport, excluding LUAS",4729113,Available,THA25
+2020W09,2020,9,Dublin Metro Bus,3145979,Available,THA25
+2020W09,2020,9,"Bus, excluding Dublin Metro",738222,Available,THA25
+2020W09,2020,9,Rail,946324,Available,THA25
+2020W09,2020,9,"All public transport, excluding LUAS",4830525,Available,THA25
+2020W10,2020,10,Dublin Metro Bus,3103704,Available,THA25
+2020W10,2020,10,"Bus, excluding Dublin Metro",755581,Available,THA25
+2020W10,2020,10,Rail,851347,Available,THA25
+2020W10,2020,10,"All public transport, excluding LUAS",4710632,Available,THA25
+2020W11,2020,11,Dublin Metro Bus,2451496,Available,THA25
+2020W11,2020,11,"Bus, excluding Dublin Metro",585892,Available,THA25
+2020W11,2020,11,Rail,907046,Available,THA25
+2020W11,2020,11,"All public transport, excluding LUAS",3944434,Available,THA25
+2020W12,2020,12,Dublin Metro Bus,828756,Available,THA25
+2020W12,2020,12,"Bus, excluding Dublin Metro",189509,Available,THA25
+2020W12,2020,12,Rail,627170,Available,THA25
+2020W12,2020,12,"All public transport, excluding LUAS",1645435,Available,THA25
+2020W13,2020,13,Dublin Metro Bus,593463,Available,THA25
+2020W13,2020,13,"Bus, excluding Dublin Metro",143429,Available,THA25
+2020W13,2020,13,Rail,77149,Available,THA25
+2020W13,2020,13,"All public transport, excluding LUAS",814041,Available,THA25
+2020W14,2020,14,Dublin Metro Bus,365560,Available,THA25
+2020W14,2020,14,"Bus, excluding Dublin Metro",85598,Available,THA25
+2020W14,2020,14,Rail,26302,Available,THA25
+2020W14,2020,14,"All public transport, excluding LUAS",477460,Available,THA25
+2020W15,2020,15,Dublin Metro Bus,374262,Available,THA25
+2020W15,2020,15,"Bus, excluding Dublin Metro",91529,Available,THA25
+2020W15,2020,15,Rail,23231,Available,THA25
+2020W15,2020,15,"All public transport, excluding LUAS",489022,Available,THA25
+2020W16,2020,16,Dublin Metro Bus,361266,Available,THA25
+2020W16,2020,16,"Bus, excluding Dublin Metro",85871,Available,THA25
+2020W16,2020,16,Rail,28071,Available,THA25
+2020W16,2020,16,"All public transport, excluding LUAS",475208,Available,THA25
+2020W17,2020,17,Dublin Metro Bus,408826,Available,THA25
+2020W17,2020,17,"Bus, excluding Dublin Metro",100755,Available,THA25
+2020W17,2020,17,Rail,32787,Available,THA25
+2020W17,2020,17,"All public transport, excluding LUAS",542368,Available,THA25
+2020W18,2020,18,Dublin Metro Bus,433369,Available,THA25
+2020W18,2020,18,"Bus, excluding Dublin Metro",106193,Available,THA25
+2020W18,2020,18,Rail,35354,Available,THA25
+2020W18,2020,18,"All public transport, excluding LUAS",574916,Available,THA25
+2020W19,2020,19,Dublin Metro Bus,449887,Available,THA25
+2020W19,2020,19,"Bus, excluding Dublin Metro",110131,Available,THA25
+2020W19,2020,19,Rail,38142,Available,THA25
+2020W19,2020,19,"All public transport, excluding LUAS",598160,Available,THA25
+2020W20,2020,20,Dublin Metro Bus,504279,Available,THA25
+2020W20,2020,20,"Bus, excluding Dublin Metro",122686,Available,THA25
+2020W20,2020,20,Rail,44431,Available,THA25
+2020W20,2020,20,"All public transport, excluding LUAS",671396,Available,THA25
+2020W21,2020,21,Dublin Metro Bus,631921,Available,THA25
+2020W21,2020,21,"Bus, excluding Dublin Metro",149607,Available,THA25
+2020W21,2020,21,Rail,69766,Available,THA25
+2020W21,2020,21,"All public transport, excluding LUAS",851294,Available,THA25
+2020W22,2020,22,Dublin Metro Bus,740034,Available,THA25
+2020W22,2020,22,"Bus, excluding Dublin Metro",171072,Available,THA25
+2020W22,2020,22,Rail,98967,Available,THA25
+2020W22,2020,22,"All public transport, excluding LUAS",1010073,Available,THA25
+2020W23,2020,23,Dublin Metro Bus,717292,Available,THA25
+2020W23,2020,23,"Bus, excluding Dublin Metro",169871,Available,THA25
+2020W23,2020,23,Rail,101021,Available,THA25
+2020W23,2020,23,"All public transport, excluding LUAS",988184,Available,THA25
+2020W24,2020,24,Dublin Metro Bus,885658,Available,THA25
+2020W24,2020,24,"Bus, excluding Dublin Metro",219384,Available,THA25
+2020W24,2020,24,Rail,138791,Available,THA25
+2020W24,2020,24,"All public transport, excluding LUAS",1243833,Available,THA25
+2020W25,2020,25,Dublin Metro Bus,1004952,Available,THA25
+2020W25,2020,25,"Bus, excluding Dublin Metro",250295,Available,THA25
+2020W25,2020,25,Rail,170670,Available,THA25
+2020W25,2020,25,"All public transport, excluding LUAS",1425917,Available,THA25
+2020W26,2020,26,Dublin Metro Bus,1050419,Available,THA25
+2020W26,2020,26,"Bus, excluding Dublin Metro",259592,Available,THA25
+2020W26,2020,26,Rail,199508,Available,THA25
+2020W26,2020,26,"All public transport, excluding LUAS",1509519,Available,THA25
+2020W27,2020,27,Dublin Metro Bus,1215359,Available,THA25
+2020W27,2020,27,"Bus, excluding Dublin Metro",305350,Available,THA25
+2020W27,2020,27,Rail,261970,Available,THA25
+2020W27,2020,27,"All public transport, excluding LUAS",1782679,Available,THA25
+2020W28,2020,28,Dublin Metro Bus,1301584,Available,THA25
+2020W28,2020,28,"Bus, excluding Dublin Metro",338931,Available,THA25
+2020W28,2020,28,Rail,261970,Available,THA25
+2020W28,2020,28,"All public transport, excluding LUAS",1902485,Available,THA25
+2020W29,2020,29,Dublin Metro Bus,1317821,Available,THA25
+2020W29,2020,29,"Bus, excluding Dublin Metro",347104,Available,THA25
+2020W29,2020,29,Rail,278033,Available,THA25
+2020W29,2020,29,"All public transport, excluding LUAS",1942958,Available,THA25
+2020W30,2020,30,Dublin Metro Bus,1345580,Available,THA25
+2020W30,2020,30,"Bus, excluding Dublin Metro",358836,Available,THA25
+2020W30,2020,30,Rail,286232,Available,THA25
+2020W30,2020,30,"All public transport, excluding LUAS",1990648,Available,THA25
+2020W31,2020,31,Dublin Metro Bus,1390530,Available,THA25
+2020W31,2020,31,"Bus, excluding Dublin Metro",369536,Available,THA25
+2020W31,2020,31,Rail,305731,Available,THA25
+2020W31,2020,31,"All public transport, excluding LUAS",2065797,Available,THA25
+2020W32,2020,32,Dublin Metro Bus,1340117,Available,THA25
+2020W32,2020,32,"Bus, excluding Dublin Metro",357425,Available,THA25
+2020W32,2020,32,Rail,323489,Available,THA25
+2020W32,2020,32,"All public transport, excluding LUAS",2021031,Available,THA25
+2020W33,2020,33,Dublin Metro Bus,1404722,Available,THA25
+2020W33,2020,33,"Bus, excluding Dublin Metro",382286,Available,THA25
+2020W33,2020,33,Rail,295557,Available,THA25
+2020W33,2020,33,"All public transport, excluding LUAS",2082565,Available,THA25
+2020W34,2020,34,Dublin Metro Bus,1369602,Available,THA25
+2020W34,2020,34,"Bus, excluding Dublin Metro",354355,Available,THA25
+2020W34,2020,34,Rail,258999,Available,THA25
+2020W34,2020,34,"All public transport, excluding LUAS",1982956,Available,THA25
+2020W35,2020,35,Dublin Metro Bus,1448462,Available,THA25
+2020W35,2020,35,"Bus, excluding Dublin Metro",390235,Available,THA25
+2020W35,2020,35,Rail,285663,Available,THA25
+2020W35,2020,35,"All public transport, excluding LUAS",2124360,Available,THA25
+2020W36,2020,36,Dublin Metro Bus,1580362,Available,THA25
+2020W36,2020,36,"Bus, excluding Dublin Metro",418714,Available,THA25
+2020W36,2020,36,Rail,332558,Available,THA25
+2020W36,2020,36,"All public transport, excluding LUAS",2331634,Available,THA25
+2020W37,2020,37,Dublin Metro Bus,1642110,Available,THA25
+2020W37,2020,37,"Bus, excluding Dublin Metro",427899,Available,THA25
+2020W37,2020,37,Rail,346681,Available,THA25
+2020W37,2020,37,"All public transport, excluding LUAS",2416690,Available,THA25
+2020W38,2020,38,Dublin Metro Bus,1578521,Available,THA25
+2020W38,2020,38,"Bus, excluding Dublin Metro",432729,Available,THA25
+2020W38,2020,38,Rail,323907,Available,THA25
+2020W38,2020,38,"All public transport, excluding LUAS",2335157,Available,THA25
+2020W39,2020,39,Dublin Metro Bus,1517678,Available,THA25
+2020W39,2020,39,"Bus, excluding Dublin Metro",438357,Available,THA25
+2020W39,2020,39,Rail,289803,Available,THA25
+2020W39,2020,39,"All public transport, excluding LUAS",2245838,Available,THA25
+2020W40,2020,40,Dublin Metro Bus,1489761,Available,THA25
+2020W40,2020,40,"Bus, excluding Dublin Metro",435417,Available,THA25
+2020W40,2020,40,Rail,284420,Available,THA25
+2020W40,2020,40,"All public transport, excluding LUAS",2209598,Available,THA25
+2020W41,2020,41,Dublin Metro Bus,1554561,Available,THA25
+2020W41,2020,41,"Bus, excluding Dublin Metro",405986,Available,THA25
+2020W41,2020,41,Rail,275531,Available,THA25
+2020W41,2020,41,"All public transport, excluding LUAS",2236078,Available,THA25
+2020W42,2020,42,Dublin Metro Bus,1535839,Available,THA25
+2020W42,2020,42,"Bus, excluding Dublin Metro",382078,Available,THA25
+2020W42,2020,42,Rail,263936,Available,THA25
+2020W42,2020,42,"All public transport, excluding LUAS",2181853,Available,THA25
+2020W43,2020,43,Dublin Metro Bus,1297841,Available,THA25
+2020W43,2020,43,"Bus, excluding Dublin Metro",319938,Available,THA25
+2020W43,2020,43,Rail,197097,Available,THA25
+2020W43,2020,43,"All public transport, excluding LUAS",1814876,Available,THA25
+2020W44,2020,44,Dublin Metro Bus,868428,Available,THA25
+2020W44,2020,44,"Bus, excluding Dublin Metro",204748,Available,THA25
+2020W44,2020,44,Rail,118406,Available,THA25
+2020W44,2020,44,"All public transport, excluding LUAS",1191582,Available,THA25
+2020W45,2020,45,Dublin Metro Bus,1163897,Available,THA25
+2020W45,2020,45,"Bus, excluding Dublin Metro",289411,Available,THA25
+2020W45,2020,45,Rail,181839,Available,THA25
+2020W45,2020,45,"All public transport, excluding LUAS",1635147,Available,THA25
+2020W46,2020,46,Dublin Metro Bus,1169742,Available,THA25
+2020W46,2020,46,"Bus, excluding Dublin Metro",291201,Available,THA25
+2020W46,2020,46,Rail,176067,Available,THA25
+2020W46,2020,46,"All public transport, excluding LUAS",1637010,Available,THA25
+2020W47,2020,47,Dublin Metro Bus,1207986,Available,THA25
+2020W47,2020,47,"Bus, excluding Dublin Metro",302115,Available,THA25
+2020W47,2020,47,Rail,197427,Available,THA25
+2020W47,2020,47,"All public transport, excluding LUAS",1707528,Available,THA25
+2020W48,2020,48,Dublin Metro Bus,1241445,Available,THA25
+2020W48,2020,48,"Bus, excluding Dublin Metro",307535,Available,THA25
+2020W48,2020,48,Rail,194005,Available,THA25
+2020W48,2020,48,"All public transport, excluding LUAS",1742985,Available,THA25
+2020W49,2020,49,Dublin Metro Bus,1586454,Available,THA25
+2020W49,2020,49,"Bus, excluding Dublin Metro",407988,Available,THA25
+2020W49,2020,49,Rail,295306,Available,THA25
+2020W49,2020,49,"All public transport, excluding LUAS",2289748,Available,THA25
+2020W50,2020,50,Dublin Metro Bus,1682988,Available,THA25
+2020W50,2020,50,"Bus, excluding Dublin Metro",436740,Available,THA25
+2020W50,2020,50,Rail,315393,Available,THA25
+2020W50,2020,50,"All public transport, excluding LUAS",2435121,Available,THA25
+2020W51,2020,51,Dublin Metro Bus,1745336,Available,THA25
+2020W51,2020,51,"Bus, excluding Dublin Metro",444680,Available,THA25
+2020W51,2020,51,Rail,322484,Available,THA25
+2020W51,2020,51,"All public transport, excluding LUAS",2512500,Available,THA25
+2020W52,2020,52,Dublin Metro Bus,1076018,Available,THA25
+2020W52,2020,52,"Bus, excluding Dublin Metro",272410,Available,THA25
+2020W52,2020,52,Rail,184982,Available,THA25
+2020W52,2020,52,"All public transport, excluding LUAS",1533410,Available,THA25
+2020W53,2020,53,Dublin Metro Bus,707458,Available,THA25
+2020W53,2020,53,"Bus, excluding Dublin Metro",170366,Available,THA25
+2020W53,2020,53,Rail,101951,Available,THA25
+2020W53,2020,53,"All public transport, excluding LUAS",979775,Available,THA25
+2021W01,2021,1,Dublin Metro Bus,747912,Available,THA25
+2021W01,2021,1,"Bus, excluding Dublin Metro",184151,Available,THA25
+2021W01,2021,1,Rail,107227,Available,THA25
+2021W01,2021,1,"All public transport, excluding LUAS",1039290,Available,THA25
+2021W02,2021,2,Dublin Metro Bus,735000,Available,THA25
+2021W02,2021,2,"Bus, excluding Dublin Metro",184333,Available,THA25
+2021W02,2021,2,Rail,90529,Available,THA25
+2021W02,2021,2,"All public transport, excluding LUAS",1009862,Available,THA25
+2021W03,2021,3,Dublin Metro Bus,731273,Available,THA25
+2021W03,2021,3,"Bus, excluding Dublin Metro",184441,Available,THA25
+2021W03,2021,3,Rail,93456,Available,THA25
+2021W03,2021,3,"All public transport, excluding LUAS",1009170,Available,THA25
+2021W04,2021,4,Dublin Metro Bus,742813,Available,THA25
+2021W04,2021,4,"Bus, excluding Dublin Metro",189266,Available,THA25
+2021W04,2021,4,Rail,93322,Available,THA25
+2021W04,2021,4,"All public transport, excluding LUAS",1025401,Available,THA25
+2021W05,2021,5,Dublin Metro Bus,791189,Available,THA25
+2021W05,2021,5,"Bus, excluding Dublin Metro",201849,Available,THA25
+2021W05,2021,5,Rail,105426,Available,THA25
+2021W05,2021,5,"All public transport, excluding LUAS",1098464,Available,THA25
+2021W06,2021,6,Dublin Metro Bus,775491,Available,THA25
+2021W06,2021,6,"Bus, excluding Dublin Metro",198989,Available,THA25
+2021W06,2021,6,Rail,96338,Available,THA25
+2021W06,2021,6,"All public transport, excluding LUAS",1070818,Available,THA25
+2021W07,2021,7,Dublin Metro Bus,849801,Available,THA25
+2021W07,2021,7,"Bus, excluding Dublin Metro",210651,Available,THA25
+2021W07,2021,7,Rail,114588,Available,THA25
+2021W07,2021,7,"All public transport, excluding LUAS",1175040,Available,THA25
+2021W08,2021,8,Dublin Metro Bus,884911,Available,THA25
+2021W08,2021,8,"Bus, excluding Dublin Metro",218084,Available,THA25
+2021W08,2021,8,Rail,127685,Available,THA25
+2021W08,2021,8,"All public transport, excluding LUAS",1230680,Available,THA25
+2021W09,2021,9,Dublin Metro Bus,947256,Available,THA25
+2021W09,2021,9,"Bus, excluding Dublin Metro",240137,Available,THA25
+2021W09,2021,9,Rail,142782,Available,THA25
+2021W09,2021,9,"All public transport, excluding LUAS",1330175,Available,THA25
+2021W10,2021,10,Dublin Metro Bus,945236,Available,THA25
+2021W10,2021,10,"Bus, excluding Dublin Metro",239123,Available,THA25
+2021W10,2021,10,Rail,134132,Available,THA25
+2021W10,2021,10,"All public transport, excluding LUAS",1318491,Available,THA25
+2021W11,2021,11,Dublin Metro Bus,963568,Available,THA25
+2021W11,2021,11,"Bus, excluding Dublin Metro",246289,Available,THA25
+2021W11,2021,11,Rail,144852,Available,THA25
+2021W11,2021,11,"All public transport, excluding LUAS",1354709,Available,THA25
+2021W12,2021,12,Dublin Metro Bus,1015358,Available,THA25
+2021W12,2021,12,"Bus, excluding Dublin Metro",260235,Available,THA25
+2021W12,2021,12,Rail,149153,Available,THA25
+2021W12,2021,12,"All public transport, excluding LUAS",1424746,Available,THA25
+2021W13,2021,13,Dublin Metro Bus,1007971,Available,THA25
+2021W13,2021,13,"Bus, excluding Dublin Metro",259578,Available,THA25
+2021W13,2021,13,Rail,172949,Available,THA25
+2021W13,2021,13,"All public transport, excluding LUAS",1440498,Available,THA25
+2021W14,2021,14,Dublin Metro Bus,911592,Available,THA25
+2021W14,2021,14,"Bus, excluding Dublin Metro",239121,Available,THA25
+2021W14,2021,14,Rail,144048,Available,THA25
+2021W14,2021,14,"All public transport, excluding LUAS",1294761,Available,THA25
+2021W15,2021,15,Dublin Metro Bus,1173468,Available,THA25
+2021W15,2021,15,"Bus, excluding Dublin Metro",310154,Available,THA25
+2021W15,2021,15,Rail,225466,Available,THA25
+2021W15,2021,15,"All public transport, excluding LUAS",1709088,Available,THA25
+2021W16,2021,16,Dublin Metro Bus,1227564,Available,THA25
+2021W16,2021,16,"Bus, excluding Dublin Metro",326905,Available,THA25
+2021W16,2021,16,Rail,264009,Available,THA25
+2021W16,2021,16,"All public transport, excluding LUAS",1818478,Available,THA25
+2021W17,2021,17,Dublin Metro Bus,1218011,Available,THA25
+2021W17,2021,17,"Bus, excluding Dublin Metro",322352,Available,THA25
+2021W17,2021,17,Rail,225261,Available,THA25
+2021W17,2021,17,"All public transport, excluding LUAS",1765624,Available,THA25
+2021W18,2021,18,Dublin Metro Bus,1096020,Available,THA25
+2021W18,2021,18,"Bus, excluding Dublin Metro",287627,Available,THA25
+2021W18,2021,18,Rail,216234,Available,THA25
+2021W18,2021,18,"All public transport, excluding LUAS",1599881,Available,THA25
+2021W19,2021,19,Dublin Metro Bus,1355893,Available,THA25
+2021W19,2021,19,"Bus, excluding Dublin Metro",358853,Available,THA25
+2021W19,2021,19,Rail,269055,Available,THA25
+2021W19,2021,19,"All public transport, excluding LUAS",1983801,Available,THA25
+2021W20,2021,20,Dublin Metro Bus,1471313,Available,THA25
+2021W20,2021,20,"Bus, excluding Dublin Metro",391144,Available,THA25
+2021W20,2021,20,Rail,274137,Available,THA25
+2021W20,2021,20,"All public transport, excluding LUAS",2136594,Available,THA25
+2021W21,2021,21,Dublin Metro Bus,1562407,Available,THA25
+2021W21,2021,21,"Bus, excluding Dublin Metro",418633,Available,THA25
+2021W21,2021,21,Rail,366784,Available,THA25
+2021W21,2021,21,"All public transport, excluding LUAS",2347824,Available,THA25
+2021W22,2021,22,Dublin Metro Bus,1547915,Available,THA25
+2021W22,2021,22,"Bus, excluding Dublin Metro",418168,Available,THA25
+2021W22,2021,22,Rail,393257,Available,THA25
+2021W22,2021,22,"All public transport, excluding LUAS",2359340,Available,THA25
+2021W23,2021,23,Dublin Metro Bus,1527611,Available,THA25
+2021W23,2021,23,"Bus, excluding Dublin Metro",411324,Available,THA25
+2021W23,2021,23,Rail,377568,Available,THA25
+2021W23,2021,23,"All public transport, excluding LUAS",2316503,Available,THA25
+2021W24,2021,24,Dublin Metro Bus,1623456,Available,THA25
+2021W24,2021,24,"Bus, excluding Dublin Metro",446540,Available,THA25
+2021W24,2021,24,Rail,371228,Available,THA25
+2021W24,2021,24,"All public transport, excluding LUAS",2441224,Available,THA25
+2021W25,2021,25,Dublin Metro Bus,1603926,Available,THA25
+2021W25,2021,25,"Bus, excluding Dublin Metro",450941,Available,THA25
+2021W25,2021,25,Rail,368609,Available,THA25
+2021W25,2021,25,"All public transport, excluding LUAS",2423476,Available,THA25
+2021W26,2021,26,Dublin Metro Bus,1586039,Available,THA25
+2021W26,2021,26,"Bus, excluding Dublin Metro",447514,Available,THA25
+2021W26,2021,26,Rail,399131,Available,THA25
+2021W26,2021,26,"All public transport, excluding LUAS",2432684,Available,THA25
+2021W27,2021,27,Dublin Metro Bus,1558866,Available,THA25
+2021W27,2021,27,"Bus, excluding Dublin Metro",441652,Available,THA25
+2021W27,2021,27,Rail,359807,Available,THA25
+2021W27,2021,27,"All public transport, excluding LUAS",2360325,Available,THA25
+2021W28,2021,28,Dublin Metro Bus,1623323,Available,THA25
+2021W28,2021,28,"Bus, excluding Dublin Metro",466323,Available,THA25
+2021W28,2021,28,Rail,455660,Available,THA25
+2021W28,2021,28,"All public transport, excluding LUAS",2545306,Available,THA25
+2021W29,2021,29,Dublin Metro Bus,1629341,Available,THA25
+2021W29,2021,29,"Bus, excluding Dublin Metro",465320,Available,THA25
+2021W29,2021,29,Rail,466402,Available,THA25
+2021W29,2021,29,"All public transport, excluding LUAS",2561063,Available,THA25
+2021W30,2021,30,Dublin Metro Bus,1595175,Available,THA25
+2021W30,2021,30,"Bus, excluding Dublin Metro",449602,Available,THA25
+2021W30,2021,30,Rail,387647,Available,THA25
+2021W30,2021,30,"All public transport, excluding LUAS",2432424,Available,THA25
+2021W31,2021,31,Dublin Metro Bus,1509235,Available,THA25
+2021W31,2021,31,"Bus, excluding Dublin Metro",410910,Available,THA25
+2021W31,2021,31,Rail,386299,Available,THA25
+2021W31,2021,31,"All public transport, excluding LUAS",2306444,Available,THA25
+2021W32,2021,32,Dublin Metro Bus,1636634,Available,THA25
+2021W32,2021,32,"Bus, excluding Dublin Metro",457401,Available,THA25
+2021W32,2021,32,Rail,402833,Available,THA25
+2021W32,2021,32,"All public transport, excluding LUAS",2496868,Available,THA25
+2021W33,2021,33,Dublin Metro Bus,1655260,Available,THA25
+2021W33,2021,33,"Bus, excluding Dublin Metro",459631,Available,THA25
+2021W33,2021,33,Rail,396685,Available,THA25
+2021W33,2021,33,"All public transport, excluding LUAS",2511576,Available,THA25
+2021W34,2021,34,Dublin Metro Bus,1766188,Available,THA25
+2021W34,2021,34,"Bus, excluding Dublin Metro",505692,Available,THA25
+2021W34,2021,34,Rail,475258,Available,THA25
+2021W34,2021,34,"All public transport, excluding LUAS",2747138,Available,THA25
+2021W35,2021,35,Dublin Metro Bus,1849382,Available,THA25
+2021W35,2021,35,"Bus, excluding Dublin Metro",507106,Available,THA25
+2021W35,2021,35,Rail,445064,Available,THA25
+2021W35,2021,35,"All public transport, excluding LUAS",2801552,Available,THA25
+2021W36,2021,36,Dublin Metro Bus,1919743,Available,THA25
+2021W36,2021,36,"Bus, excluding Dublin Metro",527134,Available,THA25
+2021W36,2021,36,Rail,454290,Available,THA25
+2021W36,2021,36,"All public transport, excluding LUAS",2901167,Available,THA25
+2021W37,2021,37,Dublin Metro Bus,1996559,Available,THA25
+2021W37,2021,37,"Bus, excluding Dublin Metro",544763,Available,THA25
+2021W37,2021,37,Rail,430036,Available,THA25
+2021W37,2021,37,"All public transport, excluding LUAS",2971358,Available,THA25
+2021W38,2021,38,Dublin Metro Bus,2133682,Available,THA25
+2021W38,2021,38,"Bus, excluding Dublin Metro",578850,Available,THA25
+2021W38,2021,38,Rail,481469,Available,THA25
+2021W38,2021,38,"All public transport, excluding LUAS",3194001,Available,THA25
+2021W39,2021,39,Dublin Metro Bus,2200701,Available,THA25
+2021W39,2021,39,"Bus, excluding Dublin Metro",604775,Available,THA25
+2021W39,2021,39,Rail,516121,Available,THA25
+2021W39,2021,39,"All public transport, excluding LUAS",3321597,Available,THA25
+2021W40,2021,40,Dublin Metro Bus,2247599,Available,THA25
+2021W40,2021,40,"Bus, excluding Dublin Metro",601080,Available,THA25
+2021W40,2021,40,Rail,523639,Available,THA25
+2021W40,2021,40,"All public transport, excluding LUAS",3372318,Available,THA25
+2021W41,2021,41,Dublin Metro Bus,2247417,Available,THA25
+2021W41,2021,41,"Bus, excluding Dublin Metro",613892,Available,THA25
+2021W41,2021,41,Rail,524870,Available,THA25
+2021W41,2021,41,"All public transport, excluding LUAS",3386179,Available,THA25
+2021W42,2021,42,Dublin Metro Bus,2260213,Available,THA25
+2021W42,2021,42,"Bus, excluding Dublin Metro",609960,Available,THA25
+2021W42,2021,42,Rail,462006,Available,THA25
+2021W42,2021,42,"All public transport, excluding LUAS",3332179,Available,THA25
+2021W43,2021,43,Dublin Metro Bus,1815542,Available,THA25
+2021W43,2021,43,"Bus, excluding Dublin Metro",501525,Available,THA25
+2021W43,2021,43,Rail,440154,Available,THA25
+2021W43,2021,43,"All public transport, excluding LUAS",2757221,Available,THA25
+2021W44,2021,44,Dublin Metro Bus,2239515,Available,THA25
+2021W44,2021,44,"Bus, excluding Dublin Metro",588321,Available,THA25
+2021W44,2021,44,Rail,569327,Available,THA25
+2021W44,2021,44,"All public transport, excluding LUAS",3397163,Available,THA25
+2021W45,2021,45,Dublin Metro Bus,2258734,Available,THA25
+2021W45,2021,45,"Bus, excluding Dublin Metro",592538,Available,THA25
+2021W45,2021,45,Rail,570080,Available,THA25
+2021W45,2021,45,"All public transport, excluding LUAS",3421352,Available,THA25
+2021W46,2021,46,Dublin Metro Bus,2218390,Available,THA25
+2021W46,2021,46,"Bus, excluding Dublin Metro",598813,Available,THA25
+2021W46,2021,46,Rail,509671,Available,THA25
+2021W46,2021,46,"All public transport, excluding LUAS",3326874,Available,THA25
+2021W47,2021,47,Dublin Metro Bus,2159300,Available,THA25
+2021W47,2021,47,"Bus, excluding Dublin Metro",573025,Available,THA25
+2021W47,2021,47,Rail,465963,Available,THA25
+2021W47,2021,47,"All public transport, excluding LUAS",3198288,Available,THA25
+2021W48,2021,48,Dublin Metro Bus,2126792,Available,THA25
+2021W48,2021,48,"Bus, excluding Dublin Metro",545762,Available,THA25
+2021W48,2021,48,Rail,465590,Available,THA25
+2021W48,2021,48,"All public transport, excluding LUAS",3138144,Available,THA25
+2021W49,2021,49,Dublin Metro Bus,1910575,Available,THA25
+2021W49,2021,49,"Bus, excluding Dublin Metro",478897,Available,THA25
+2021W49,2021,49,Rail,417041,Available,THA25
+2021W49,2021,49,"All public transport, excluding LUAS",2806513,Available,THA25
+2021W50,2021,50,Dublin Metro Bus,2173422,Available,THA25
+2021W50,2021,50,"Bus, excluding Dublin Metro",586228,Available,THA25
+2021W50,2021,50,Rail,477149,Available,THA25
+2021W50,2021,50,"All public transport, excluding LUAS",3236799,Available,THA25
+2021W51,2021,51,Dublin Metro Bus,1496396,Available,THA25
+2021W51,2021,51,"Bus, excluding Dublin Metro",396284,Available,THA25
+2021W51,2021,51,Rail,278965,Available,THA25
+2021W51,2021,51,"All public transport, excluding LUAS",2171645,Available,THA25
+2021W52,2021,52,Dublin Metro Bus,1099282,Available,THA25
+2021W52,2021,52,"Bus, excluding Dublin Metro",289588,Available,THA25
+2021W52,2021,52,Rail,243709,Available,THA25
+2021W52,2021,52,"All public transport, excluding LUAS",1632579,Available,THA25
+2021W53,2021,53,Dublin Metro Bus,,Missing,THA25
+2021W53,2021,53,"Bus, excluding Dublin Metro",,Missing,THA25
+2021W53,2021,53,Rail,,Missing,THA25
+2021W53,2021,53,"All public transport, excluding LUAS",,Missing,THA25
+2022W01,2022,1,Dublin Metro Bus,1406243,Available,THA25
+2022W01,2022,1,"Bus, excluding Dublin Metro",365503,Available,THA25
+2022W01,2022,1,Rail,288051,Available,THA25
+2022W01,2022,1,"All public transport, excluding LUAS",2059797,Available,THA25
+2022W02,2022,2,Dublin Metro Bus,1779235,Available,THA25
+2022W02,2022,2,"Bus, excluding Dublin Metro",475432,Available,THA25
+2022W02,2022,2,Rail,357666,Available,THA25
+2022W02,2022,2,"All public transport, excluding LUAS",2612333,Available,THA25
+2022W03,2022,3,Dublin Metro Bus,1966074,Available,THA25
+2022W03,2022,3,"Bus, excluding Dublin Metro",519750,Available,THA25
+2022W03,2022,3,Rail,399947,Available,THA25
+2022W03,2022,3,"All public transport, excluding LUAS",2885771,Available,THA25
+2022W04,2022,4,Dublin Metro Bus,2109953,Available,THA25
+2022W04,2022,4,"Bus, excluding Dublin Metro",550396,Available,THA25
+2022W04,2022,4,Rail,453379,Available,THA25
+2022W04,2022,4,"All public transport, excluding LUAS",3113728,Available,THA25
+2022W05,2022,5,Dublin Metro Bus,2180251,Available,THA25
+2022W05,2022,5,"Bus, excluding Dublin Metro",562335,Available,THA25
+2022W05,2022,5,Rail,524640,Available,THA25
+2022W05,2022,5,"All public transport, excluding LUAS",3267226,Available,THA25
+2022W06,2022,6,Dublin Metro Bus,2222594,Available,THA25
+2022W06,2022,6,"Bus, excluding Dublin Metro",582446,Available,THA25
+2022W06,2022,6,Rail,477140,Available,THA25
+2022W06,2022,6,"All public transport, excluding LUAS",3282180,Available,THA25
+2022W07,2022,7,Dublin Metro Bus,2145226,Available,THA25
+2022W07,2022,7,"Bus, excluding Dublin Metro",527018,Available,THA25
+2022W07,2022,7,Rail,471325,Available,THA25
+2022W07,2022,7,"All public transport, excluding LUAS",3143569,Available,THA25
+2022W08,2022,8,Dublin Metro Bus,2104859,Available,THA25
+2022W08,2022,8,"Bus, excluding Dublin Metro",543279,Available,THA25
+2022W08,2022,8,Rail,533442,Available,THA25
+2022W08,2022,8,"All public transport, excluding LUAS",3181580,Available,THA25
+2022W09,2022,9,Dublin Metro Bus,2393755,Available,THA25
+2022W09,2022,9,"Bus, excluding Dublin Metro",612819,Available,THA25
+2022W09,2022,9,Rail,589825,Available,THA25
+2022W09,2022,9,"All public transport, excluding LUAS",3596399,Available,THA25
+2022W10,2022,10,Dublin Metro Bus,2300757,Available,THA25
+2022W10,2022,10,"Bus, excluding Dublin Metro",572414,Available,THA25
+2022W10,2022,10,Rail,507442,Available,THA25
+2022W10,2022,10,"All public transport, excluding LUAS",3380613,Available,THA25
+2022W11,2022,11,Dublin Metro Bus,2121172,Available,THA25
+2022W11,2022,11,"Bus, excluding Dublin Metro",540807,Available,THA25
+2022W11,2022,11,Rail,580364,Available,THA25
+2022W11,2022,11,"All public transport, excluding LUAS",3242343,Available,THA25
+2022W12,2022,12,Dublin Metro Bus,2432024,Available,THA25
+2022W12,2022,12,"Bus, excluding Dublin Metro",608648,Available,THA25
+2022W12,2022,12,Rail,598637,Available,THA25
+2022W12,2022,12,"All public transport, excluding LUAS",3639309,Available,THA25
+2022W13,2022,13,Dublin Metro Bus,2371286,Available,THA25
+2022W13,2022,13,"Bus, excluding Dublin Metro",591604,Available,THA25
+2022W13,2022,13,Rail,602411,Available,THA25
+2022W13,2022,13,"All public transport, excluding LUAS",3565301,Available,THA25
+2022W14,2022,14,Dublin Metro Bus,2450481,Available,THA25
+2022W14,2022,14,"Bus, excluding Dublin Metro",616574,Available,THA25
+2022W14,2022,14,Rail,581420,Available,THA25
+2022W14,2022,14,"All public transport, excluding LUAS",3648475,Available,THA25
+2022W15,2022,15,Dublin Metro Bus,2266854,Available,THA25
+2022W15,2022,15,"Bus, excluding Dublin Metro",556672,Available,THA25
+2022W15,2022,15,Rail,557169,Available,THA25
+2022W15,2022,15,"All public transport, excluding LUAS",3380695,Available,THA25
+2022W16,2022,16,Dublin Metro Bus,2229079,Available,THA25
+2022W16,2022,16,"Bus, excluding Dublin Metro",570284,Available,THA25
+2022W16,2022,16,Rail,590864,Available,THA25
+2022W16,2022,16,"All public transport, excluding LUAS",3390227,Available,THA25
+2022W17,2022,17,Dublin Metro Bus,2471590,Available,THA25
+2022W17,2022,17,"Bus, excluding Dublin Metro",666915,Available,THA25
+2022W17,2022,17,Rail,599078,Available,THA25
+2022W17,2022,17,"All public transport, excluding LUAS",3737583,Available,THA25
+2022W18,2022,18,Dublin Metro Bus,2335362,Available,THA25
+2022W18,2022,18,"Bus, excluding Dublin Metro",645649,Available,THA25
+2022W18,2022,18,Rail,633863,Available,THA25
+2022W18,2022,18,"All public transport, excluding LUAS",3614874,Available,THA25
+2022W19,2022,19,Dublin Metro Bus,2267822,Available,THA25
+2022W19,2022,19,"Bus, excluding Dublin Metro",681036,Available,THA25
+2022W19,2022,19,Rail,672546,Available,THA25
+2022W19,2022,19,"All public transport, excluding LUAS",3621404,Available,THA25
+2022W20,2022,20,Dublin Metro Bus,2454491,Available,THA25
+2022W20,2022,20,"Bus, excluding Dublin Metro",668361,Available,THA25
+2022W20,2022,20,Rail,650548,Available,THA25
+2022W20,2022,20,"All public transport, excluding LUAS",3773400,Available,THA25
+2022W21,2022,21,Dublin Metro Bus,2449292,Available,THA25
+2022W21,2022,21,"Bus, excluding Dublin Metro",671051,Available,THA25
+2022W21,2022,21,Rail,663418,Available,THA25
+2022W21,2022,21,"All public transport, excluding LUAS",3783761,Available,THA25
+2022W22,2022,22,Dublin Metro Bus,2461534,Available,THA25
+2022W22,2022,22,"Bus, excluding Dublin Metro",675775,Available,THA25
+2022W22,2022,22,Rail,700921,Available,THA25
+2022W22,2022,22,"All public transport, excluding LUAS",3838230,Available,THA25
+2022W23,2022,23,Dublin Metro Bus,2417295,Available,THA25
+2022W23,2022,23,"Bus, excluding Dublin Metro",628508,Available,THA25
+2022W23,2022,23,Rail,646250,Available,THA25
+2022W23,2022,23,"All public transport, excluding LUAS",3692053,Available,THA25
+2022W24,2022,24,Dublin Metro Bus,2297192,Available,THA25
+2022W24,2022,24,"Bus, excluding Dublin Metro",689753,Available,THA25
+2022W24,2022,24,Rail,718874,Available,THA25
+2022W24,2022,24,"All public transport, excluding LUAS",3705819,Available,THA25
+2022W25,2022,25,Dublin Metro Bus,2458431,Available,THA25
+2022W25,2022,25,"Bus, excluding Dublin Metro",672758,Available,THA25
+2022W25,2022,25,Rail,777823,Available,THA25
+2022W25,2022,25,"All public transport, excluding LUAS",3909012,Available,THA25
+2022W26,2022,26,Dublin Metro Bus,2456029,Available,THA25
+2022W26,2022,26,"Bus, excluding Dublin Metro",641014,Available,THA25
+2022W26,2022,26,Rail,723963,Available,THA25
+2022W26,2022,26,"All public transport, excluding LUAS",3821006,Available,THA25
+2022W27,2022,27,Dublin Metro Bus,2455447,Available,THA25
+2022W27,2022,27,"Bus, excluding Dublin Metro",688352,Available,THA25
+2022W27,2022,27,Rail,768799,Available,THA25
+2022W27,2022,27,"All public transport, excluding LUAS",3912598,Available,THA25
+2022W28,2022,28,Dublin Metro Bus,2463379,Available,THA25
+2022W28,2022,28,"Bus, excluding Dublin Metro",693305,Available,THA25
+2022W28,2022,28,Rail,788475,Available,THA25
+2022W28,2022,28,"All public transport, excluding LUAS",3945159,Available,THA25
+2022W29,2022,29,Dublin Metro Bus,2437677,Available,THA25
+2022W29,2022,29,"Bus, excluding Dublin Metro",668149,Available,THA25
+2022W29,2022,29,Rail,780426,Available,THA25
+2022W29,2022,29,"All public transport, excluding LUAS",3886252,Available,THA25
+2022W30,2022,30,Dublin Metro Bus,2428637,Available,THA25
+2022W30,2022,30,"Bus, excluding Dublin Metro",654034,Available,THA25
+2022W30,2022,30,Rail,694529,Available,THA25
+2022W30,2022,30,"All public transport, excluding LUAS",3777200,Available,THA25
+2022W31,2022,31,Dublin Metro Bus,2391497,Available,THA25
+2022W31,2022,31,"Bus, excluding Dublin Metro",599663,Available,THA25
+2022W31,2022,31,Rail,695776,Available,THA25
+2022W31,2022,31,"All public transport, excluding LUAS",3686936,Available,THA25
+2022W32,2022,32,Dublin Metro Bus,2569142,Available,THA25
+2022W32,2022,32,"Bus, excluding Dublin Metro",700075,Available,THA25
+2022W32,2022,32,Rail,776829,Available,THA25
+2022W32,2022,32,"All public transport, excluding LUAS",4046046,Available,THA25
+2022W33,2022,33,Dublin Metro Bus,2555241,Available,THA25
+2022W33,2022,33,"Bus, excluding Dublin Metro",687677,Available,THA25
+2022W33,2022,33,Rail,708368,Available,THA25
+2022W33,2022,33,"All public transport, excluding LUAS",3951286,Available,THA25
+2022W34,2022,34,Dublin Metro Bus,2614443,Available,THA25
+2022W34,2022,34,"Bus, excluding Dublin Metro",719994,Available,THA25
+2022W34,2022,34,Rail,753379,Available,THA25
+2022W34,2022,34,"All public transport, excluding LUAS",4087816,Available,THA25
+2022W35,2022,35,Dublin Metro Bus,2694493,Available,THA25
+2022W35,2022,35,"Bus, excluding Dublin Metro",703280,Available,THA25
+2022W35,2022,35,Rail,674115,Available,THA25
+2022W35,2022,35,"All public transport, excluding LUAS",4071888,Available,THA25
+2022W36,2022,36,Dublin Metro Bus,2770458,Available,THA25
+2022W36,2022,36,"Bus, excluding Dublin Metro",746245,Available,THA25
+2022W36,2022,36,Rail,735395,Available,THA25
+2022W36,2022,36,"All public transport, excluding LUAS",4252098,Available,THA25
+2022W37,2022,37,Dublin Metro Bus,2991127,Available,THA25
+2022W37,2022,37,"Bus, excluding Dublin Metro",823471,Available,THA25
+2022W37,2022,37,Rail,781714,Available,THA25
+2022W37,2022,37,"All public transport, excluding LUAS",4596312,Available,THA25
+2022W38,2022,38,Dublin Metro Bus,3026029,Available,THA25
+2022W38,2022,38,"Bus, excluding Dublin Metro",849445,Available,THA25
+2022W38,2022,38,Rail,777177,Available,THA25
+2022W38,2022,38,"All public transport, excluding LUAS",4652651,Available,THA25
+2022W39,2022,39,Dublin Metro Bus,3092163,Available,THA25
+2022W39,2022,39,"Bus, excluding Dublin Metro",885387,Available,THA25
+2022W39,2022,39,Rail,841960,Available,THA25
+2022W39,2022,39,"All public transport, excluding LUAS",4819510,Available,THA25
+2022W40,2022,40,Dublin Metro Bus,3132650,Available,THA25
+2022W40,2022,40,"Bus, excluding Dublin Metro",896210,Available,THA25
+2022W40,2022,40,Rail,841573,Available,THA25
+2022W40,2022,40,"All public transport, excluding LUAS",4870433,Available,THA25
+2022W41,2022,41,Dublin Metro Bus,3130260,Available,THA25
+2022W41,2022,41,"Bus, excluding Dublin Metro",885730,Available,THA25
+2022W41,2022,41,Rail,814269,Available,THA25
+2022W41,2022,41,"All public transport, excluding LUAS",4830259,Available,THA25
+2022W42,2022,42,Dublin Metro Bus,3096053,Available,THA25
+2022W42,2022,42,"Bus, excluding Dublin Metro",866776,Available,THA25
+2022W42,2022,42,Rail,824247,Available,THA25
+2022W42,2022,42,"All public transport, excluding LUAS",4787076,Available,THA25
+2022W43,2022,43,Dublin Metro Bus,3157869,Available,THA25
+2022W43,2022,43,"Bus, excluding Dublin Metro",891987,Available,THA25
+2022W43,2022,43,Rail,799752,Available,THA25
+2022W43,2022,43,"All public transport, excluding LUAS",4849608,Available,THA25
+2022W44,2022,44,Dublin Metro Bus,2723592,Available,THA25
+2022W44,2022,44,"Bus, excluding Dublin Metro",736242,Available,THA25
+2022W44,2022,44,Rail,767786,Available,THA25
+2022W44,2022,44,"All public transport, excluding LUAS",4227620,Available,THA25
+2022W45,2022,45,Dublin Metro Bus,3157496,Available,THA25
+2022W45,2022,45,"Bus, excluding Dublin Metro",864536,Available,THA25
+2022W45,2022,45,Rail,860900,Available,THA25
+2022W45,2022,45,"All public transport, excluding LUAS",4882932,Available,THA25
+2022W46,2022,46,Dublin Metro Bus,3192643,Available,THA25
+2022W46,2022,46,"Bus, excluding Dublin Metro",891579,Available,THA25
+2022W46,2022,46,Rail,863826,Available,THA25
+2022W46,2022,46,"All public transport, excluding LUAS",4948048,Available,THA25
+2022W47,2022,47,Dublin Metro Bus,3114790,Available,THA25
+2022W47,2022,47,"Bus, excluding Dublin Metro",871810,Available,THA25
+2022W47,2022,47,Rail,810472,Available,THA25
+2022W47,2022,47,"All public transport, excluding LUAS",4797072,Available,THA25
+2022W48,2022,48,Dublin Metro Bus,3147713,Available,THA25
+2022W48,2022,48,"Bus, excluding Dublin Metro",852232,Available,THA25
+2022W48,2022,48,Rail,810146,Available,THA25
+2022W48,2022,48,"All public transport, excluding LUAS",4810091,Available,THA25
+2022W49,2022,49,Dublin Metro Bus,3073856,Available,THA25
+2022W49,2022,49,"Bus, excluding Dublin Metro",840769,Available,THA25
+2022W49,2022,49,Rail,831900,Available,THA25
+2022W49,2022,49,"All public transport, excluding LUAS",4746525,Available,THA25
+2022W50,2022,50,Dublin Metro Bus,3050335,Available,THA25
+2022W50,2022,50,"Bus, excluding Dublin Metro",800708,Available,THA25
+2022W50,2022,50,Rail,805056,Available,THA25
+2022W50,2022,50,"All public transport, excluding LUAS",4656099,Available,THA25
+2022W51,2022,51,Dublin Metro Bus,2741688,Available,THA25
+2022W51,2022,51,"Bus, excluding Dublin Metro",662302,Available,THA25
+2022W51,2022,51,Rail,619257,Available,THA25
+2022W51,2022,51,"All public transport, excluding LUAS",4023247,Available,THA25
+2022W52,2022,52,Dublin Metro Bus,2840848,Available,THA25
+2022W52,2022,52,"Bus, excluding Dublin Metro",478378,Available,THA25
+2022W52,2022,52,Rail,410985,Available,THA25
+2022W52,2022,52,"All public transport, excluding LUAS",3730211,Available,THA25
+2022W53,2022,53,Dublin Metro Bus,,Missing,THA25
+2022W53,2022,53,"Bus, excluding Dublin Metro",,Missing,THA25
+2022W53,2022,53,Rail,,Missing,THA25
+2022W53,2022,53,"All public transport, excluding LUAS",,Missing,THA25
+2023W01,2023,1,Dublin Metro Bus,2325239,Available,THA25
+2023W01,2023,1,"Bus, excluding Dublin Metro",614352,Available,THA25
+2023W01,2023,1,Rail,593351,Available,THA25
+2023W01,2023,1,"All public transport, excluding LUAS",3532942,Available,THA25
+2023W02,2023,2,Dublin Metro Bus,2791337,Available,THA25
+2023W02,2023,2,"Bus, excluding Dublin Metro",742138,Available,THA25
+2023W02,2023,2,Rail,693509,Available,THA25
+2023W02,2023,2,"All public transport, excluding LUAS",4226984,Available,THA25
+2023W03,2023,3,Dublin Metro Bus,2948010,Available,THA25
+2023W03,2023,3,"Bus, excluding Dublin Metro",791800,Available,THA25
+2023W03,2023,3,Rail,737213,Available,THA25
+2023W03,2023,3,"All public transport, excluding LUAS",4477023,Available,THA25
+2023W04,2023,4,Dublin Metro Bus,3166957,Available,THA25
+2023W04,2023,4,"Bus, excluding Dublin Metro",858179,Available,THA25
+2023W04,2023,4,Rail,803814,Available,THA25
+2023W04,2023,4,"All public transport, excluding LUAS",4828950,Available,THA25
+2023W05,2023,5,Dublin Metro Bus,3157789,Available,THA25
+2023W05,2023,5,"Bus, excluding Dublin Metro",867139,Available,THA25
+2023W05,2023,5,Rail,843766,Available,THA25
+2023W05,2023,5,"All public transport, excluding LUAS",4868694,Available,THA25
+2023W06,2023,6,Dublin Metro Bus,2957697,Available,THA25
+2023W06,2023,6,"Bus, excluding Dublin Metro",803293,Available,THA25
+2023W06,2023,6,Rail,783829,Available,THA25
+2023W06,2023,6,"All public transport, excluding LUAS",4544819,Available,THA25
+2023W07,2023,7,Dublin Metro Bus,3095444,Available,THA25
+2023W07,2023,7,"Bus, excluding Dublin Metro",882482,Available,THA25
+2023W07,2023,7,Rail,825296,Available,THA25
+2023W07,2023,7,"All public transport, excluding LUAS",4803222,Available,THA25
+2023W08,2023,8,Dublin Metro Bus,3232516,Available,THA25
+2023W08,2023,8,"Bus, excluding Dublin Metro",885217,Available,THA25
+2023W08,2023,8,Rail,843175,Available,THA25
+2023W08,2023,8,"All public transport, excluding LUAS",4960908,Available,THA25
+2023W09,2023,9,Dublin Metro Bus,3207780,Available,THA25
+2023W09,2023,9,"Bus, excluding Dublin Metro",878491,Available,THA25
+2023W09,2023,9,Rail,860894,Available,THA25
+2023W09,2023,9,"All public transport, excluding LUAS",4947165,Available,THA25
+2023W10,2023,10,Dublin Metro Bus,3133172,Available,THA25
+2023W10,2023,10,"Bus, excluding Dublin Metro",847587,Available,THA25
+2023W10,2023,10,Rail,771731,Available,THA25
+2023W10,2023,10,"All public transport, excluding LUAS",4752490,Available,THA25
+2023W11,2023,11,Dublin Metro Bus,2964999,Available,THA25
+2023W11,2023,11,"Bus, excluding Dublin Metro",819312,Available,THA25
+2023W11,2023,11,Rail,816678,Available,THA25
+2023W11,2023,11,"All public transport, excluding LUAS",4600989,Available,THA25
+2023W12,2023,12,Dublin Metro Bus,3207312,Available,THA25
+2023W12,2023,12,"Bus, excluding Dublin Metro",849417,Available,THA25
+2023W12,2023,12,Rail,851471,Available,THA25
+2023W12,2023,12,"All public transport, excluding LUAS",4908200,Available,THA25
+2023W13,2023,13,Dublin Metro Bus,3274633,Available,THA25
+2023W13,2023,13,"Bus, excluding Dublin Metro",854952,Available,THA25
+2023W13,2023,13,Rail,689730,Available,THA25
+2023W13,2023,13,"All public transport, excluding LUAS",4819315,Available,THA25
+2023W14,2023,14,Dublin Metro Bus,3030252,Available,THA25
+2023W14,2023,14,"Bus, excluding Dublin Metro",815998,Available,THA25
+2023W14,2023,14,Rail,801427,Available,THA25
+2023W14,2023,14,"All public transport, excluding LUAS",4647677,Available,THA25
+2023W15,2023,15,Dublin Metro Bus,2814650,Available,THA25
+2023W15,2023,15,"Bus, excluding Dublin Metro",736415,Available,THA25
+2023W15,2023,15,Rail,731982,Available,THA25
+2023W15,2023,15,"All public transport, excluding LUAS",4283047,Available,THA25
+2023W16,2023,16,Dublin Metro Bus,3267439,Available,THA25
+2023W16,2023,16,"Bus, excluding Dublin Metro",880537,Available,THA25
+2023W16,2023,16,Rail,836941,Available,THA25
+2023W16,2023,16,"All public transport, excluding LUAS",4984917,Available,THA25
+2023W17,2023,17,Dublin Metro Bus,3325827,Available,THA25
+2023W17,2023,17,"Bus, excluding Dublin Metro",883494,Available,THA25
+2023W17,2023,17,Rail,865758,Available,THA25
+2023W17,2023,17,"All public transport, excluding LUAS",5075079,Available,THA25
+2023W18,2023,18,Dublin Metro Bus,3082566,Available,THA25
+2023W18,2023,18,"Bus, excluding Dublin Metro",825877,Available,THA25
+2023W18,2023,18,Rail,872894,Available,THA25
+2023W18,2023,18,"All public transport, excluding LUAS",4781337,Available,THA25
+2023W19,2023,19,Dublin Metro Bus,3207366,Available,THA25
+2023W19,2023,19,"Bus, excluding Dublin Metro",878188,Available,THA25
+2023W19,2023,19,Rail,873808,Available,THA25
+2023W19,2023,19,"All public transport, excluding LUAS",4959362,Available,THA25
+2023W20,2023,20,Dublin Metro Bus,3127899,Available,THA25
+2023W20,2023,20,"Bus, excluding Dublin Metro",862338,Available,THA25
+2023W20,2023,20,Rail,891149,Available,THA25
+2023W20,2023,20,"All public transport, excluding LUAS",4881386,Available,THA25
+2023W21,2023,21,Dublin Metro Bus,3173348,Available,THA25
+2023W21,2023,21,"Bus, excluding Dublin Metro",870042,Available,THA25
+2023W21,2023,21,Rail,890058,Available,THA25
+2023W21,2023,21,"All public transport, excluding LUAS",4933448,Available,THA25
+2023W22,2023,22,Dublin Metro Bus,3200660,Available,THA25
+2023W22,2023,22,"Bus, excluding Dublin Metro",865585,Available,THA25
+2023W22,2023,22,Rail,975543,Available,THA25
+2023W22,2023,22,"All public transport, excluding LUAS",5041788,Available,THA25
+2023W23,2023,23,Dublin Metro Bus,2904610,Available,THA25
+2023W23,2023,23,"Bus, excluding Dublin Metro",781015,Available,THA25
+2023W23,2023,23,Rail,816266,Available,THA25
+2023W23,2023,23,"All public transport, excluding LUAS",4501891,Available,THA25
+2023W24,2023,24,Dublin Metro Bus,3057569,Available,THA25
+2023W24,2023,24,"Bus, excluding Dublin Metro",802039,Available,THA25
+2023W24,2023,24,Rail,880035,Available,THA25
+2023W24,2023,24,"All public transport, excluding LUAS",4739643,Available,THA25
+2023W25,2023,25,Dublin Metro Bus,3057052,Available,THA25
+2023W25,2023,25,"Bus, excluding Dublin Metro",781908,Available,THA25
+2023W25,2023,25,Rail,902728,Available,THA25
+2023W25,2023,25,"All public transport, excluding LUAS",4741688,Available,THA25
+2023W26,2023,26,Dublin Metro Bus,3108755,Available,THA25
+2023W26,2023,26,"Bus, excluding Dublin Metro",760478,Available,THA25
+2023W26,2023,26,Rail,938599,Available,THA25
+2023W26,2023,26,"All public transport, excluding LUAS",4807832,Available,THA25
+2023W27,2023,27,Dublin Metro Bus,3046360,Available,THA25
+2023W27,2023,27,"Bus, excluding Dublin Metro",810830,Available,THA25
+2023W27,2023,27,Rail,858711,Available,THA25
+2023W27,2023,27,"All public transport, excluding LUAS",4715901,Available,THA25
+2023W28,2023,28,Dublin Metro Bus,2939504,Available,THA25
+2023W28,2023,28,"Bus, excluding Dublin Metro",799946,Available,THA25
+2023W28,2023,28,Rail,785124,Available,THA25
+2023W28,2023,28,"All public transport, excluding LUAS",4524574,Available,THA25
+2023W29,2023,29,Dublin Metro Bus,2956246,Available,THA25
+2023W29,2023,29,"Bus, excluding Dublin Metro",799518,Available,THA25
+2023W29,2023,29,Rail,806263,Available,THA25
+2023W29,2023,29,"All public transport, excluding LUAS",4562027,Available,THA25
+2023W30,2023,30,Dublin Metro Bus,2998446,Available,THA25
+2023W30,2023,30,"Bus, excluding Dublin Metro",788301,Available,THA25
+2023W30,2023,30,Rail,814033,Available,THA25
+2023W30,2023,30,"All public transport, excluding LUAS",4600780,Available,THA25
+2023W31,2023,31,Dublin Metro Bus,2907903,Available,THA25
+2023W31,2023,31,"Bus, excluding Dublin Metro",819255,Available,THA25
+2023W31,2023,31,Rail,842625,Available,THA25
+2023W31,2023,31,"All public transport, excluding LUAS",4569783,Available,THA25
+2023W32,2023,32,Dublin Metro Bus,2807912,Available,THA25
+2023W32,2023,32,"Bus, excluding Dublin Metro",752795,Available,THA25
+2023W32,2023,32,Rail,828688,Available,THA25
+2023W32,2023,32,"All public transport, excluding LUAS",4389395,Available,THA25
+2023W33,2023,33,Dublin Metro Bus,2935441,Available,THA25
+2023W33,2023,33,"Bus, excluding Dublin Metro",816489,Available,THA25
+2023W33,2023,33,Rail,850226,Available,THA25
+2023W33,2023,33,"All public transport, excluding LUAS",4602156,Available,THA25
+2023W34,2023,34,Dublin Metro Bus,2989135,Available,THA25
+2023W34,2023,34,"Bus, excluding Dublin Metro",845884,Available,THA25
+2023W34,2023,34,Rail,818169,Available,THA25
+2023W34,2023,34,"All public transport, excluding LUAS",4653188,Available,THA25
+2023W35,2023,35,Dublin Metro Bus,3134289,Available,THA25
+2023W35,2023,35,"Bus, excluding Dublin Metro",835183,Available,THA25
+2023W35,2023,35,Rail,882381,Available,THA25
+2023W35,2023,35,"All public transport, excluding LUAS",4851853,Available,THA25
+2023W36,2023,36,Dublin Metro Bus,3266735,Available,THA25
+2023W36,2023,36,"Bus, excluding Dublin Metro",910823,Available,THA25
+2023W36,2023,36,Rail,948395,Available,THA25
+2023W36,2023,36,"All public transport, excluding LUAS",5125953,Available,THA25
+2023W37,2023,37,Dublin Metro Bus,3332761,Available,THA25
+2023W37,2023,37,"Bus, excluding Dublin Metro",924379,Available,THA25
+2023W37,2023,37,Rail,789208,Available,THA25
+2023W37,2023,37,"All public transport, excluding LUAS",5046348,Available,THA25
+2023W38,2023,38,Dublin Metro Bus,3558455,Available,THA25
+2023W38,2023,38,"Bus, excluding Dublin Metro",984371,Available,THA25
+2023W38,2023,38,Rail,945832,Available,THA25
+2023W38,2023,38,"All public transport, excluding LUAS",5488658,Available,THA25
+2023W39,2023,39,Dublin Metro Bus,3517509,Available,THA25
+2023W39,2023,39,"Bus, excluding Dublin Metro",950613,Available,THA25
+2023W39,2023,39,Rail,932441,Available,THA25
+2023W39,2023,39,"All public transport, excluding LUAS",5400563,Available,THA25
+2023W40,2023,40,Dublin Metro Bus,3595880,Available,THA25
+2023W40,2023,40,"Bus, excluding Dublin Metro",894313,Available,THA25
+2023W40,2023,40,Rail,974332,Available,THA25
+2023W40,2023,40,"All public transport, excluding LUAS",5464525,Available,THA25
+2023W41,2023,41,Dublin Metro Bus,3629045,Available,THA25
+2023W41,2023,41,"Bus, excluding Dublin Metro",923175,Available,THA25
+2023W41,2023,41,Rail,925784,Available,THA25
+2023W41,2023,41,"All public transport, excluding LUAS",5478004,Available,THA25
+2023W42,2023,42,Dublin Metro Bus,3492660,Available,THA25
+2023W42,2023,42,"Bus, excluding Dublin Metro",933376,Available,THA25
+2023W42,2023,42,Rail,912832,Available,THA25
+2023W42,2023,42,"All public transport, excluding LUAS",5338868,Available,THA25
+2023W43,2023,43,Dublin Metro Bus,3504413,Available,THA25
+2023W43,2023,43,"Bus, excluding Dublin Metro",974091,Available,THA25
+2023W43,2023,43,Rail,888050,Available,THA25
+2023W43,2023,43,"All public transport, excluding LUAS",5366554,Available,THA25
+2023W44,2023,44,Dublin Metro Bus,3043578,Available,THA25
+2023W44,2023,44,"Bus, excluding Dublin Metro",811636,Available,THA25
+2023W44,2023,44,Rail,824979,Available,THA25
+2023W44,2023,44,"All public transport, excluding LUAS",4680193,Available,THA25
+2023W45,2023,45,Dublin Metro Bus,3517888,Available,THA25
+2023W45,2023,45,"Bus, excluding Dublin Metro",928383,Available,THA25
+2023W45,2023,45,Rail,959770,Available,THA25
+2023W45,2023,45,"All public transport, excluding LUAS",5406041,Available,THA25
+2023W46,2023,46,Dublin Metro Bus,3311974,Available,THA25
+2023W46,2023,46,"Bus, excluding Dublin Metro",900766,Available,THA25
+2023W46,2023,46,Rail,900707,Available,THA25
+2023W46,2023,46,"All public transport, excluding LUAS",5113447,Available,THA25
+2023W47,2023,47,Dublin Metro Bus,3218635,Available,THA25
+2023W47,2023,47,"Bus, excluding Dublin Metro",895925,Available,THA25
+2023W47,2023,47,Rail,945060,Available,THA25
+2023W47,2023,47,"All public transport, excluding LUAS",5059620,Available,THA25
+2023W48,2023,48,Dublin Metro Bus,3453532,Available,THA25
+2023W48,2023,48,"Bus, excluding Dublin Metro",941393,Available,THA25
+2023W48,2023,48,Rail,942218,Available,THA25
+2023W48,2023,48,"All public transport, excluding LUAS",5337143,Available,THA25
+2023W49,2023,49,Dublin Metro Bus,3387510,Available,THA25
+2023W49,2023,49,"Bus, excluding Dublin Metro",853710,Available,THA25
+2023W49,2023,49,Rail,943246,Available,THA25
+2023W49,2023,49,"All public transport, excluding LUAS",5184466,Available,THA25
+2023W50,2023,50,Dublin Metro Bus,3521338,Available,THA25
+2023W50,2023,50,"Bus, excluding Dublin Metro",913884,Available,THA25
+2023W50,2023,50,Rail,993893,Available,THA25
+2023W50,2023,50,"All public transport, excluding LUAS",5429115,Available,THA25
+2023W51,2023,51,Dublin Metro Bus,3214920,Available,THA25
+2023W51,2023,51,"Bus, excluding Dublin Metro",744809,Available,THA25
+2023W51,2023,51,Rail,833724,Available,THA25
+2023W51,2023,51,"All public transport, excluding LUAS",4793453,Available,THA25
+2023W52,2023,52,Dublin Metro Bus,1728356,Available,THA25
+2023W52,2023,52,"Bus, excluding Dublin Metro",452858,Available,THA25
+2023W52,2023,52,Rail,380576,Available,THA25
+2023W52,2023,52,"All public transport, excluding LUAS",2561790,Available,THA25
+2024W01,2024,1,Dublin Metro Bus,2407676,Available,THA25
+2024W01,2024,1,"Bus, excluding Dublin Metro",648962,Available,THA25
+2024W01,2024,1,Rail,653500,Available,THA25
+2024W01,2024,1,"All public transport, excluding LUAS",3710138,Available,THA25
+2024W02,2024,2,Dublin Metro Bus,3046938,Available,THA25
+2024W02,2024,2,"Bus, excluding Dublin Metro",815591,Available,THA25
+2024W02,2024,2,Rail,802515,Available,THA25
+2024W02,2024,2,"All public transport, excluding LUAS",4665044,Available,THA25
+2024W03,2024,3,Dublin Metro Bus,3106779,Available,THA25
+2024W03,2024,3,"Bus, excluding Dublin Metro",833607,Available,THA25
+2024W03,2024,3,Rail,786188,Available,THA25
+2024W03,2024,3,"All public transport, excluding LUAS",4726574,Available,THA25
+2024W04,2024,4,Dublin Metro Bus,3391539,Available,THA25
+2024W04,2024,4,"Bus, excluding Dublin Metro",897015,Available,THA25
+2024W04,2024,4,Rail,868564,Available,THA25
+2024W04,2024,4,"All public transport, excluding LUAS",5157118,Available,THA25
+2024W05,2024,5,Dublin Metro Bus,3466312,Available,THA25
+2024W05,2024,5,"Bus, excluding Dublin Metro",949900,Available,THA25
+2024W05,2024,5,Rail,892918,Available,THA25
+2024W05,2024,5,"All public transport, excluding LUAS",5309130,Available,THA25
+2024W06,2024,6,Dublin Metro Bus,3233749,Available,THA25
+2024W06,2024,6,"Bus, excluding Dublin Metro",874465,Available,THA25
+2024W06,2024,6,Rail,835335,Available,THA25
+2024W06,2024,6,"All public transport, excluding LUAS",4943549,Available,THA25
+2024W07,2024,7,Dublin Metro Bus,3456551,Available,THA25
+2024W07,2024,7,"Bus, excluding Dublin Metro",932537,Available,THA25
+2024W07,2024,7,Rail,880567,Available,THA25
+2024W07,2024,7,"All public transport, excluding LUAS",5269655,Available,THA25
+2024W08,2024,8,Dublin Metro Bus,3566247,Available,THA25
+2024W08,2024,8,"Bus, excluding Dublin Metro",963043,Available,THA25
+2024W08,2024,8,Rail,964634,Available,THA25
+2024W08,2024,8,"All public transport, excluding LUAS",5493924,Available,THA25
+2024W09,2024,9,Dublin Metro Bus,3422941,Available,THA25
+2024W09,2024,9,"Bus, excluding Dublin Metro",959268,Available,THA25
+2024W09,2024,9,Rail,921238,Available,THA25
+2024W09,2024,9,"All public transport, excluding LUAS",5303447,Available,THA25
+2024W10,2024,10,Dublin Metro Bus,3524464,Available,THA25
+2024W10,2024,10,"Bus, excluding Dublin Metro",949923,Available,THA25
+2024W10,2024,10,Rail,904845,Available,THA25
+2024W10,2024,10,"All public transport, excluding LUAS",5379232,Available,THA25
+2024W11,2024,11,Dublin Metro Bus,3539004,Available,THA25
+2024W11,2024,11,"Bus, excluding Dublin Metro",968879,Available,THA25
+2024W11,2024,11,Rail,963335,Available,THA25
+2024W11,2024,11,"All public transport, excluding LUAS",5471218,Available,THA25
+2024W12,2024,12,Dublin Metro Bus,3258334,Available,THA25
+2024W12,2024,12,"Bus, excluding Dublin Metro",878350,Available,THA25
+2024W12,2024,12,Rail,857954,Available,THA25
+2024W12,2024,12,"All public transport, excluding LUAS",4994638,Available,THA25
+2024W13,2024,13,Dublin Metro Bus,3265310,Available,THA25
+2024W13,2024,13,"Bus, excluding Dublin Metro",844011,Available,THA25
+2024W13,2024,13,Rail,795400,Available,THA25
+2024W13,2024,13,"All public transport, excluding LUAS",4904721,Available,THA25
+2024W14,2024,14,Dublin Metro Bus,3072739,Available,THA25
+2024W14,2024,14,"Bus, excluding Dublin Metro",786255,Available,THA25
+2024W14,2024,14,Rail,807979,Available,THA25
+2024W14,2024,14,"All public transport, excluding LUAS",4666973,Available,THA25
+2024W15,2024,15,Dublin Metro Bus,3579561,Available,THA25
+2024W15,2024,15,"Bus, excluding Dublin Metro",947095,Available,THA25
+2024W15,2024,15,Rail,935577,Available,THA25
+2024W15,2024,15,"All public transport, excluding LUAS",5462233,Available,THA25
+2024W16,2024,16,Dublin Metro Bus,3611498,Available,THA25
+2024W16,2024,16,"Bus, excluding Dublin Metro",979029,Available,THA25
+2024W16,2024,16,Rail,942024,Available,THA25
+2024W16,2024,16,"All public transport, excluding LUAS",5532551,Available,THA25
+2024W17,2024,17,Dublin Metro Bus,3570618,Available,THA25
+2024W17,2024,17,"Bus, excluding Dublin Metro",957431,Available,THA25
+2024W17,2024,17,Rail,851664,Available,THA25
+2024W17,2024,17,"All public transport, excluding LUAS",5379713,Available,THA25
+2024W18,2024,18,Dublin Metro Bus,3549426,Available,THA25
+2024W18,2024,18,"Bus, excluding Dublin Metro",939554,Available,THA25
+2024W18,2024,18,Rail,920220,Available,THA25
+2024W18,2024,18,"All public transport, excluding LUAS",5409200,Available,THA25
+2024W19,2024,19,Dublin Metro Bus,3283577,Available,THA25
+2024W19,2024,19,"Bus, excluding Dublin Metro",900426,Available,THA25
+2024W19,2024,19,Rail,902356,Available,THA25
+2024W19,2024,19,"All public transport, excluding LUAS",5086359,Available,THA25
+2024W20,2024,20,Dublin Metro Bus,3476640,Available,THA25
+2024W20,2024,20,"Bus, excluding Dublin Metro",928977,Available,THA25
+2024W20,2024,20,Rail,920252,Available,THA25
+2024W20,2024,20,"All public transport, excluding LUAS",5325869,Available,THA25
+2024W21,2024,21,Dublin Metro Bus,3386256,Available,THA25
+2024W21,2024,21,"Bus, excluding Dublin Metro",905073,Available,THA25
+2024W21,2024,21,Rail,869213,Available,THA25
+2024W21,2024,21,"All public transport, excluding LUAS",5160542,Available,THA25
+2024W22,2024,22,Dublin Metro Bus,3447934,Available,THA25
+2024W22,2024,22,"Bus, excluding Dublin Metro",931660,Available,THA25
+2024W22,2024,22,Rail,944432,Available,THA25
+2024W22,2024,22,"All public transport, excluding LUAS",5324026,Available,THA25
+2024W23,2024,23,Dublin Metro Bus,3101568,Available,THA25
+2024W23,2024,23,"Bus, excluding Dublin Metro",841165,Available,THA25
+2024W23,2024,23,Rail,831534,Available,THA25
+2024W23,2024,23,"All public transport, excluding LUAS",4774267,Available,THA25
+2024W24,2024,24,Dublin Metro Bus,3303254,Available,THA25
+2024W24,2024,24,"Bus, excluding Dublin Metro",895751,Available,THA25
+2024W24,2024,24,Rail,854327,Available,THA25
+2024W24,2024,24,"All public transport, excluding LUAS",5053332,Available,THA25
+2024W25,2024,25,Dublin Metro Bus,3342692,Available,THA25
+2024W25,2024,25,"Bus, excluding Dublin Metro",905743,Available,THA25
+2024W25,2024,25,Rail,933009,Available,THA25
+2024W25,2024,25,"All public transport, excluding LUAS",5181444,Available,THA25
+2024W26,2024,26,Dublin Metro Bus,3328878,Available,THA25
+2024W26,2024,26,"Bus, excluding Dublin Metro",897215,Available,THA25
+2024W26,2024,26,Rail,1005579,Available,THA25
+2024W26,2024,26,"All public transport, excluding LUAS",5231672,Available,THA25
+2024W27,2024,27,Dublin Metro Bus,3273760,Available,THA25
+2024W27,2024,27,"Bus, excluding Dublin Metro",875176,Available,THA25
+2024W27,2024,27,Rail,950951,Available,THA25
+2024W27,2024,27,"All public transport, excluding LUAS",5099887,Available,THA25
+2024W28,2024,28,Dublin Metro Bus,3215134,Available,THA25
+2024W28,2024,28,"Bus, excluding Dublin Metro",886775,Available,THA25
+2024W28,2024,28,Rail,888783,Available,THA25
+2024W28,2024,28,"All public transport, excluding LUAS",4990692,Available,THA25
+2024W29,2024,29,Dublin Metro Bus,3214817,Available,THA25
+2024W29,2024,29,"Bus, excluding Dublin Metro",880765,Available,THA25
+2024W29,2024,29,Rail,877893,Available,THA25
+2024W29,2024,29,"All public transport, excluding LUAS",4973475,Available,THA25
+2024W30,2024,30,Dublin Metro Bus,3229504,Available,THA25
+2024W30,2024,30,"Bus, excluding Dublin Metro",894631,Available,THA25
+2024W30,2024,30,Rail,921598,Available,THA25
+2024W30,2024,30,"All public transport, excluding LUAS",5045733,Available,THA25
+2024W31,2024,31,Dublin Metro Bus,3167600,Available,THA25
+2024W31,2024,31,"Bus, excluding Dublin Metro",877395,Available,THA25
+2024W31,2024,31,Rail,937530,Available,THA25
+2024W31,2024,31,"All public transport, excluding LUAS",4982525,Available,THA25
+2024W32,2024,32,Dublin Metro Bus,2993499,Available,THA25
+2024W32,2024,32,"Bus, excluding Dublin Metro",832984,Available,THA25
+2024W32,2024,32,Rail,848797,Available,THA25
+2024W32,2024,32,"All public transport, excluding LUAS",4675280,Available,THA25
+2024W33,2024,33,Dublin Metro Bus,3219208,Available,THA25
+2024W33,2024,33,"Bus, excluding Dublin Metro",884979,Available,THA25
+2024W33,2024,33,Rail,925615,Available,THA25
+2024W33,2024,33,"All public transport, excluding LUAS",5029802,Available,THA25
+2024W34,2024,34,Dublin Metro Bus,3233460,Available,THA25
+2024W34,2024,34,"Bus, excluding Dublin Metro",880770,Available,THA25
+2024W34,2024,34,Rail,910081,Available,THA25
+2024W34,2024,34,"All public transport, excluding LUAS",5024311,Available,THA25
+2024W35,2024,35,Dublin Metro Bus,3471490,Available,THA25
+2024W35,2024,35,"Bus, excluding Dublin Metro",928814,Available,THA25
+2024W35,2024,35,Rail,989271,Available,THA25
+2024W35,2024,35,"All public transport, excluding LUAS",5389575,Available,THA25
+2024W36,2024,36,Dublin Metro Bus,3537749,Available,THA25
+2024W36,2024,36,"Bus, excluding Dublin Metro",970583,Available,THA25
+2024W36,2024,36,Rail,1002382,Available,THA25
+2024W36,2024,36,"All public transport, excluding LUAS",5510714,Available,THA25
+2024W37,2024,37,Dublin Metro Bus,3706998,Available,THA25
+2024W37,2024,37,"Bus, excluding Dublin Metro",1025239,Available,THA25
+2024W37,2024,37,Rail,944572,Available,THA25
+2024W37,2024,37,"All public transport, excluding LUAS",5676809,Available,THA25
+2024W38,2024,38,Dublin Metro Bus,3794314,Available,THA25
+2024W38,2024,38,"Bus, excluding Dublin Metro",1100942,Available,THA25
+2024W38,2024,38,Rail,1044843,Available,THA25
+2024W38,2024,38,"All public transport, excluding LUAS",5940099,Available,THA25
+2024W39,2024,39,Dublin Metro Bus,3779047,Available,THA25
+2024W39,2024,39,"Bus, excluding Dublin Metro",1050790,Available,THA25
+2024W39,2024,39,Rail,1016204,Available,THA25
+2024W39,2024,39,"All public transport, excluding LUAS",5846041,Available,THA25
+2024W40,2024,40,Dublin Metro Bus,3801095,Available,THA25
+2024W40,2024,40,"Bus, excluding Dublin Metro",1055024,Available,THA25
+2024W40,2024,40,Rail,1061862,Available,THA25
+2024W40,2024,40,"All public transport, excluding LUAS",5917981,Available,THA25
+2024W41,2024,41,Dublin Metro Bus,3874248,Available,THA25
+2024W41,2024,41,"Bus, excluding Dublin Metro",1093954,Available,THA25
+2024W41,2024,41,Rail,1111384,Available,THA25
+2024W41,2024,41,"All public transport, excluding LUAS",6079586,Available,THA25
+2024W42,2024,42,Dublin Metro Bus,3853829,Available,THA25
+2024W42,2024,42,"Bus, excluding Dublin Metro",1054856,Available,THA25
+2024W42,2024,42,Rail,1099977,Available,THA25
+2024W42,2024,42,"All public transport, excluding LUAS",6008662,Available,THA25
+2024W43,2024,43,Dublin Metro Bus,3750530,Available,THA25
+2024W43,2024,43,"Bus, excluding Dublin Metro",1081932,Available,THA25
+2024W43,2024,43,Rail,984519,Available,THA25
+2024W43,2024,43,"All public transport, excluding LUAS",5816981,Available,THA25
+2024W44,2024,44,Dublin Metro Bus,3334027,Available,THA25
+2024W44,2024,44,"Bus, excluding Dublin Metro",924921,Available,THA25
+2024W44,2024,44,Rail,913124,Available,THA25
+2024W44,2024,44,"All public transport, excluding LUAS",5172072,Available,THA25
+2024W45,2024,45,Dublin Metro Bus,3782514,Available,THA25
+2024W45,2024,45,"Bus, excluding Dublin Metro",1054455,Available,THA25
+2024W45,2024,45,Rail,1087992,Available,THA25
+2024W45,2024,45,"All public transport, excluding LUAS",5924961,Available,THA25
+2024W46,2024,46,Dublin Metro Bus,3801077,Available,THA25
+2024W46,2024,46,"Bus, excluding Dublin Metro",1067757,Available,THA25
+2024W46,2024,46,Rail,1068454,Available,THA25
+2024W46,2024,46,"All public transport, excluding LUAS",5937288,Available,THA25
+2024W47,2024,47,Dublin Metro Bus,3690266,Available,THA25
+2024W47,2024,47,"Bus, excluding Dublin Metro",976677,Available,THA25
+2024W47,2024,47,Rail,993364,Available,THA25
+2024W47,2024,47,"All public transport, excluding LUAS",5660307,Available,THA25
+2024W48,2024,48,Dublin Metro Bus,3817764,Available,THA25
+2024W48,2024,48,"Bus, excluding Dublin Metro",1029821,Available,THA25
+2024W48,2024,48,Rail,1061537,Available,THA25
+2024W48,2024,48,"All public transport, excluding LUAS",5909122,Available,THA25
+2024W49,2024,49,Dublin Metro Bus,3658274,Available,THA25
+2024W49,2024,49,"Bus, excluding Dublin Metro",968927,Available,THA25
+2024W49,2024,49,Rail,1035893,Available,THA25
+2024W49,2024,49,"All public transport, excluding LUAS",5663095,Available,THA25
+2024W50,2024,50,Dublin Metro Bus,3770647,Available,THA25
+2024W50,2024,50,"Bus, excluding Dublin Metro",1016649,Available,THA25
+2024W50,2024,50,Rail,1060455,Available,THA25
+2024W50,2024,50,"All public transport, excluding LUAS",5847751,Available,THA25
+2024W51,2024,51,Dublin Metro Bus,3659776,Available,THA25
+2024W51,2024,51,"Bus, excluding Dublin Metro",999340,Available,THA25
+2024W51,2024,51,Rail,993466,Available,THA25
+2024W51,2024,51,"All public transport, excluding LUAS",5652582,Available,THA25
+2024W52,2024,52,Dublin Metro Bus,1980749,Available,THA25
+2024W52,2024,52,"Bus, excluding Dublin Metro",531118,Available,THA25
+2024W52,2024,52,Rail,412344,Available,THA25
+2024W52,2024,52,"All public transport, excluding LUAS",2924211,Available,THA25
+2025W01,2025,1,Dublin Metro Bus,2247403,Available,THA25
+2025W01,2025,1,"Bus, excluding Dublin Metro",584677,Available,THA25
+2025W01,2025,1,Rail,494715,Available,THA25
+2025W01,2025,1,"All public transport, excluding LUAS",3326795,Available,THA25
+2025W02,2025,2,Dublin Metro Bus,2977702,Available,THA25
+2025W02,2025,2,"Bus, excluding Dublin Metro",720340,Available,THA25
+2025W02,2025,2,Rail,737868,Available,THA25
+2025W02,2025,2,"All public transport, excluding LUAS",4435910,Available,THA25
+2025W03,2025,3,Dublin Metro Bus,3325123,Available,THA25
+2025W03,2025,3,"Bus, excluding Dublin Metro",912576,Available,THA25
+2025W03,2025,3,Rail,920086,Available,THA25
+2025W03,2025,3,"All public transport, excluding LUAS",5157785,Available,THA25
+2025W04,2025,4,Dublin Metro Bus,2962432,Available,THA25
+2025W04,2025,4,"Bus, excluding Dublin Metro",796064,Available,THA25
+2025W04,2025,4,Rail,741270,Available,THA25
+2025W04,2025,4,"All public transport, excluding LUAS",4499766,Available,THA25
+2025W05,2025,5,Dublin Metro Bus,3481997,Available,THA25
+2025W05,2025,5,"Bus, excluding Dublin Metro",962300,Available,THA25
+2025W05,2025,5,Rail,989932,Available,THA25
+2025W05,2025,5,"All public transport, excluding LUAS",5434229,Available,THA25
+2025W06,2025,6,Dublin Metro Bus,3238863,Available,THA25
+2025W06,2025,6,"Bus, excluding Dublin Metro",895428,Available,THA25
+2025W06,2025,6,Rail,920443,Available,THA25
+2025W06,2025,6,"All public transport, excluding LUAS",5054734,Available,THA25
+2025W07,2025,7,Dublin Metro Bus,3571351,Available,THA25
+2025W07,2025,7,"Bus, excluding Dublin Metro",971523,Available,THA25
+2025W07,2025,7,Rail,947662,Available,THA25
+2025W07,2025,7,"All public transport, excluding LUAS",5490536,Available,THA25
+2025W08,2025,8,Dublin Metro Bus,3540977,Available,THA25
+2025W08,2025,8,"Bus, excluding Dublin Metro",921586,Available,THA25
+2025W08,2025,8,Rail,991006,Available,THA25
+2025W08,2025,8,"All public transport, excluding LUAS",5453569,Available,THA25
+2025W09,2025,9,Dublin Metro Bus,3715885,Available,THA25
+2025W09,2025,9,"Bus, excluding Dublin Metro",996474,Available,THA25
+2025W09,2025,9,Rail,1035480,Available,THA25
+2025W09,2025,9,"All public transport, excluding LUAS",5747839,Available,THA25
+2025W10,2025,10,Dublin Metro Bus,3768906,Available,THA25
+2025W10,2025,10,"Bus, excluding Dublin Metro",1006537,Available,THA25
+2025W10,2025,10,Rail,1091076,Available,THA25
+2025W10,2025,10,"All public transport, excluding LUAS",5866519,Available,THA25
+2025W11,2025,11,Dublin Metro Bus,3754821,Available,THA25
+2025W11,2025,11,"Bus, excluding Dublin Metro",1041321,Available,THA25
+2025W11,2025,11,Rail,1057447,Available,THA25
+2025W11,2025,11,"All public transport, excluding LUAS",5853589,Available,THA25
+2025W12,2025,12,Dublin Metro Bus,3389409,Available,THA25
+2025W12,2025,12,"Bus, excluding Dublin Metro",924952,Available,THA25
+2025W12,2025,12,Rail,964709,Available,THA25
+2025W12,2025,12,"All public transport, excluding LUAS",5279070,Available,THA25
+2025W13,2025,13,Dublin Metro Bus,3813411,Available,THA25
+2025W13,2025,13,"Bus, excluding Dublin Metro",1019535,Available,THA25
+2025W13,2025,13,Rail,1068813,Available,THA25
+2025W13,2025,13,"All public transport, excluding LUAS",5901759,Available,THA25
+2025W14,2025,14,Dublin Metro Bus,3834102,Available,THA25
+2025W14,2025,14,"Bus, excluding Dublin Metro",1040706,Available,THA25
+2025W14,2025,14,Rail,1141397,Available,THA25
+2025W14,2025,14,"All public transport, excluding LUAS",6016205,Available,THA25
+2025W15,2025,15,Dublin Metro Bus,3681556,Available,THA25
+2025W15,2025,15,"Bus, excluding Dublin Metro",1027000,Available,THA25
+2025W15,2025,15,Rail,1089482,Available,THA25
+2025W15,2025,15,"All public transport, excluding LUAS",5798038,Available,THA25
+2025W16,2025,16,Dublin Metro Bus,3163107,Available,THA25
+2025W16,2025,16,"Bus, excluding Dublin Metro",865958,Available,THA25
+2025W16,2025,16,Rail,841834,Available,THA25
+2025W16,2025,16,"All public transport, excluding LUAS",4870899,Available,THA25
+2025W17,2025,17,Dublin Metro Bus,3071394,Available,THA25
+2025W17,2025,17,"Bus, excluding Dublin Metro",841697,Available,THA25
+2025W17,2025,17,Rail,879256,Available,THA25
+2025W17,2025,17,"All public transport, excluding LUAS",4792347,Available,THA25
+2025W18,2025,18,Dublin Metro Bus,3584621,Available,THA25
+2025W18,2025,18,"Bus, excluding Dublin Metro",1027017,Available,THA25
+2025W18,2025,18,Rail,924926,Available,THA25
+2025W18,2025,18,"All public transport, excluding LUAS",5536564,Available,THA25
+2025W19,2025,19,Dublin Metro Bus,3283855,Available,THA25
+2025W19,2025,19,"Bus, excluding Dublin Metro",934328,Available,THA25
+2025W19,2025,19,Rail,894834,Available,THA25
+2025W19,2025,19,"All public transport, excluding LUAS",5113017,Available,THA25
+2025W20,2025,20,Dublin Metro Bus,3499256,Available,THA25
+2025W20,2025,20,"Bus, excluding Dublin Metro",990602,Available,THA25
+2025W20,2025,20,Rail,767938,Available,THA25
+2025W20,2025,20,"All public transport, excluding LUAS",5257796,Available,THA25
+2025W21,2025,21,Dublin Metro Bus,3403361,Available,THA25
+2025W21,2025,21,"Bus, excluding Dublin Metro",921203,Available,THA25
+2025W21,2025,21,Rail,736592,Available,THA25
+2025W21,2025,21,"All public transport, excluding LUAS",5061156,Available,THA25
+2025W22,2025,22,Dublin Metro Bus,3451510,Available,THA25
+2025W22,2025,22,"Bus, excluding Dublin Metro",902296,Available,THA25
+2025W22,2025,22,Rail,811810,Available,THA25
+2025W22,2025,22,"All public transport, excluding LUAS",5165616,Available,THA25
+2025W23,2025,23,Dublin Metro Bus,3107451,Available,THA25
+2025W23,2025,23,"Bus, excluding Dublin Metro",826702,Available,THA25
+2025W23,2025,23,Rail,812394,Available,THA25
+2025W23,2025,23,"All public transport, excluding LUAS",4746547,Available,THA25
+2025W24,2025,24,Dublin Metro Bus,3243462,Available,THA25
+2025W24,2025,24,"Bus, excluding Dublin Metro",884106,Available,THA25
+2025W24,2025,24,Rail,714534,Available,THA25
+2025W24,2025,24,"All public transport, excluding LUAS",4842102,Available,THA25
+2025W25,2025,25,Dublin Metro Bus,3389319,Available,THA25
+2025W25,2025,25,"Bus, excluding Dublin Metro",960579,Available,THA25
+2025W25,2025,25,Rail,871252,Available,THA25
+2025W25,2025,25,"All public transport, excluding LUAS",5221150,Available,THA25
+2025W26,2025,26,Dublin Metro Bus,3371393,Available,THA25
+2025W26,2025,26,"Bus, excluding Dublin Metro",930106,Available,THA25
+2025W26,2025,26,Rail,821874,Available,THA25
+2025W26,2025,26,"All public transport, excluding LUAS",5123373,Available,THA25
+2025W27,2025,27,Dublin Metro Bus,3322063,Available,THA25
+2025W27,2025,27,"Bus, excluding Dublin Metro",924657,Available,THA25
+2025W27,2025,27,Rail,817204,Available,THA25
+2025W27,2025,27,"All public transport, excluding LUAS",5063924,Available,THA25
+2025W28,2025,28,Dublin Metro Bus,3346121,Available,THA25
+2025W28,2025,28,"Bus, excluding Dublin Metro",973584,Available,THA25
+2025W28,2025,28,Rail,851427,Available,THA25
+2025W28,2025,28,"All public transport, excluding LUAS",5171132,Available,THA25
+2025W29,2025,29,Dublin Metro Bus,3217927,Available,THA25
+2025W29,2025,29,"Bus, excluding Dublin Metro",910978,Available,THA25
+2025W29,2025,29,Rail,830168,Available,THA25
+2025W29,2025,29,"All public transport, excluding LUAS",4959073,Available,THA25
+2025W30,2025,30,Dublin Metro Bus,3201181,Available,THA25
+2025W30,2025,30,"Bus, excluding Dublin Metro",931745,Available,THA25
+2025W30,2025,30,Rail,850472,Available,THA25
+2025W30,2025,30,"All public transport, excluding LUAS",4983398,Available,THA25
+2025W31,2025,31,Dublin Metro Bus,3173673,Available,THA25
+2025W31,2025,31,"Bus, excluding Dublin Metro",675611,Available,THA25
+2025W31,2025,31,Rail,829900,Available,THA25
+2025W31,2025,31,"All public transport, excluding LUAS",4679184,Available,THA25
+2025W32,2025,32,Dublin Metro Bus,2994306,Available,THA25
+2025W32,2025,32,"Bus, excluding Dublin Metro",857508,Available,THA25
+2025W32,2025,32,Rail,909942,Available,THA25
+2025W32,2025,32,"All public transport, excluding LUAS",4761756,Available,THA25
+2025W33,2025,33,Dublin Metro Bus,3231267,Available,THA25
+2025W33,2025,33,"Bus, excluding Dublin Metro",948930,Available,THA25
+2025W33,2025,33,Rail,931048,Available,THA25
+2025W33,2025,33,"All public transport, excluding LUAS",5111245,Available,THA25
+2025W34,2025,34,Dublin Metro Bus,3275554,Available,THA25
+2025W34,2025,34,"Bus, excluding Dublin Metro",947525,Available,THA25
+2025W34,2025,34,Rail,924712,Available,THA25
+2025W34,2025,34,"All public transport, excluding LUAS",5147791,Available,THA25
+2025W35,2025,35,Dublin Metro Bus,3349756,Available,THA25
+2025W35,2025,35,"Bus, excluding Dublin Metro",915769,Available,THA25
+2025W35,2025,35,Rail,739652,Available,THA25
+2025W35,2025,35,"All public transport, excluding LUAS",5005177,Available,THA25
+2025W36,2025,36,Dublin Metro Bus,3488562,Available,THA25
+2025W36,2025,36,"Bus, excluding Dublin Metro",1130405,Available,THA25
+2025W36,2025,36,Rail,760368,Available,THA25
+2025W36,2025,36,"All public transport, excluding LUAS",5379335,Available,THA25
+2025W37,2025,37,Dublin Metro Bus,3651365,Available,THA25
+2025W37,2025,37,"Bus, excluding Dublin Metro",1041321,Available,THA25
+2025W37,2025,37,Rail,714450,Available,THA25
+2025W37,2025,37,"All public transport, excluding LUAS",5407136,Available,THA25
+2025W38,2025,38,Dublin Metro Bus,3780622,Available,THA25
+2025W38,2025,38,"Bus, excluding Dublin Metro",1104500,Available,THA25
+2025W38,2025,38,Rail,809830,Available,THA25
+2025W38,2025,38,"All public transport, excluding LUAS",5694952,Available,THA25
+2025W39,2025,39,Dublin Metro Bus,3782468,Available,THA25
+2025W39,2025,39,"Bus, excluding Dublin Metro",1126931,Available,THA25
+2025W39,2025,39,Rail,820922,Available,THA25
+2025W39,2025,39,"All public transport, excluding LUAS",5730321,Available,THA25
+2025W40,2025,40,Dublin Metro Bus,3642054,Available,THA25
+2025W40,2025,40,"Bus, excluding Dublin Metro",1039347,Available,THA25
+2025W40,2025,40,Rail,823432,Available,THA25
+2025W40,2025,40,"All public transport, excluding LUAS",5504833,Available,THA25
+2025W41,2025,41,Dublin Metro Bus,3809019,Available,THA25
+2025W41,2025,41,"Bus, excluding Dublin Metro",1116489,Available,THA25
+2025W41,2025,41,Rail,794734,Available,THA25
+2025W41,2025,41,"All public transport, excluding LUAS",5720242,Available,THA25
+2025W42,2025,42,Dublin Metro Bus,3737273,Available,THA25
+2025W42,2025,42,"Bus, excluding Dublin Metro",1089392,Available,THA25
+2025W42,2025,42,Rail,799956,Available,THA25
+2025W42,2025,42,"All public transport, excluding LUAS",5626621,Available,THA25
+2025W43,2025,43,Dublin Metro Bus,3631321,Available,THA25
+2025W43,2025,43,"Bus, excluding Dublin Metro",1105330,Available,THA25
+2025W43,2025,43,Rail,791436,Available,THA25
+2025W43,2025,43,"All public transport, excluding LUAS",5528087,Available,THA25
+2025W44,2025,44,Dublin Metro Bus,3207291,Available,THA25
+2025W44,2025,44,"Bus, excluding Dublin Metro",906162,Available,THA25
+2025W44,2025,44,Rail,751206,Available,THA25
+2025W44,2025,44,"All public transport, excluding LUAS",4864659,Available,THA25
+2025W45,2025,45,Dublin Metro Bus,3657695,Available,THA25
+2025W45,2025,45,"Bus, excluding Dublin Metro",1046515,Available,THA25
+2025W45,2025,45,Rail,845664,Available,THA25
+2025W45,2025,45,"All public transport, excluding LUAS",5549874,Available,THA25
+2025W46,2025,46,Dublin Metro Bus,3548508,Available,THA25
+2025W46,2025,46,"Bus, excluding Dublin Metro",1038511,Available,THA25
+2025W46,2025,46,Rail,801208,Available,THA25
+2025W46,2025,46,"All public transport, excluding LUAS",5388227,Available,THA25
+2025W47,2025,47,Dublin Metro Bus,3372060,Available,THA25
+2025W47,2025,47,"Bus, excluding Dublin Metro",1063723,Available,THA25
+2025W47,2025,47,Rail,814432,Available,THA25
+2025W47,2025,47,"All public transport, excluding LUAS",5250215,Available,THA25
+2025W48,2025,48,Dublin Metro Bus,3693422,Available,THA25
+2025W48,2025,48,"Bus, excluding Dublin Metro",1053169,Available,THA25
+2025W48,2025,48,Rail,845590,Available,THA25
+2025W48,2025,48,"All public transport, excluding LUAS",5592181,Available,THA25
+2025W49,2025,49,Dublin Metro Bus,3563075,Available,THA25
+2025W49,2025,49,"Bus, excluding Dublin Metro",1012494,Available,THA25
+2025W49,2025,49,Rail,887104,Available,THA25
+2025W49,2025,49,"All public transport, excluding LUAS",5462673,Available,THA25
+2025W50,2025,50,Dublin Metro Bus,3663181,Available,THA25
+2025W50,2025,50,"Bus, excluding Dublin Metro",909209,Available,THA25
+2025W50,2025,50,Rail,859938,Available,THA25
+2025W50,2025,50,"All public transport, excluding LUAS",5432328,Available,THA25
+2025W51,2025,51,Dublin Metro Bus,3615352,Available,THA25
+2025W51,2025,51,"Bus, excluding Dublin Metro",1036397,Available,THA25
+2025W51,2025,51,Rail,861680,Available,THA25
+2025W51,2025,51,"All public transport, excluding LUAS",5513429,Available,THA25
+2025W52,2025,52,Dublin Metro Bus,2054641,Available,THA25
+2025W52,2025,52,"Bus, excluding Dublin Metro",1286613,Available,THA25
+2025W52,2025,52,Rail,604294,Available,THA25
+2025W52,2025,52,"All public transport, excluding LUAS",3945548,Available,THA25
+2026W01,2026,1,Dublin Metro Bus,3114321,Available,THA25
+2026W01,2026,1,"Bus, excluding Dublin Metro",880639,Available,THA25
+2026W01,2026,1,Rail,865533,Available,THA25
+2026W01,2026,1,"All public transport, excluding LUAS",4860493,Available,THA25
+2026W02,2026,2,Dublin Metro Bus,3373014,Available,THA25
+2026W02,2026,2,"Bus, excluding Dublin Metro",1008985,Available,THA25
+2026W02,2026,2,Rail,955644,Available,THA25
+2026W02,2026,2,"All public transport, excluding LUAS",5337643,Available,THA25
+2026W03,2026,3,Dublin Metro Bus,3465498,Available,THA25
+2026W03,2026,3,"Bus, excluding Dublin Metro",1036404,Available,THA25
+2026W03,2026,3,Rail,966437,Available,THA25
+2026W03,2026,3,"All public transport, excluding LUAS",5468339,Available,THA25
+2026W04,2026,4,Dublin Metro Bus,3544241,Available,THA25
+2026W04,2026,4,"Bus, excluding Dublin Metro",1072366,Available,THA25
+2026W04,2026,4,Rail,913828,Available,THA25
+2026W04,2026,4,"All public transport, excluding LUAS",5530435,Available,THA25
+2026W05,2026,5,Dublin Metro Bus,3234267,Available,THA25
+2026W05,2026,5,"Bus, excluding Dublin Metro",981707,Available,THA25
+2026W05,2026,5,Rail,863033,Available,THA25
+2026W05,2026,5,"All public transport, excluding LUAS",5079007,Available,THA25
+2026W06,2026,6,Dublin Metro Bus,3679192,Available,THA25
+2026W06,2026,6,"Bus, excluding Dublin Metro",1099171,Available,THA25
+2026W06,2026,6,Rail,1061793,Available,THA25
+2026W06,2026,6,"All public transport, excluding LUAS",5840156,Available,THA25
+2026W07,2026,7,Dublin Metro Bus,3535947,Available,THA25
+2026W07,2026,7,"Bus, excluding Dublin Metro",1033959,Available,THA25
+2026W07,2026,7,Rail,989742,Available,THA25
+2026W07,2026,7,"All public transport, excluding LUAS",5559648,Available,THA25
+2026W08,2026,8,Dublin Metro Bus,3674587,Available,THA25
+2026W08,2026,8,"Bus, excluding Dublin Metro",1090796,Available,THA25
+2026W08,2026,8,Rail,1071794,Available,THA25
+2026W08,2026,8,"All public transport, excluding LUAS",5837177,Available,THA25
+2026W09,2026,9,Dublin Metro Bus,3777197,Available,THA25
+2026W09,2026,9,"Bus, excluding Dublin Metro",1131608,Available,THA25
+2026W09,2026,9,Rail,1137331,Available,THA25
+2026W09,2026,9,"All public transport, excluding LUAS",6046136,Available,THA25
+2026W10,2026,10,Dublin Metro Bus,3695046,Available,THA25
+2026W10,2026,10,"Bus, excluding Dublin Metro",1108836,Available,THA25
+2026W10,2026,10,Rail,1099616,Available,THA25
+2026W10,2026,10,"All public transport, excluding LUAS",5903498,Available,THA25
+2026W11,2026,11,Dublin Metro Bus,3430454,Available,THA25
+2026W11,2026,11,"Bus, excluding Dublin Metro",1061599,Available,THA25
+2026W11,2026,11,Rail,1057426,Available,THA25
+2026W11,2026,11,"All public transport, excluding LUAS",5549479,Available,THA25
+2026W12,2026,12,Dublin Metro Bus,3735465,Available,THA25
+2026W12,2026,12,"Bus, excluding Dublin Metro",1105252,Available,THA25
+2026W12,2026,12,Rail,1094310,Available,THA25
+2026W12,2026,12,"All public transport, excluding LUAS",5935027,Available,THA25
+2026W13,2026,13,Dublin Metro Bus,3429999,Available,THA25
+2026W13,2026,13,"Bus, excluding Dublin Metro",999275,Available,THA25
+2026W13,2026,13,Rail,953463,Available,THA25
+2026W13,2026,13,"All public transport, excluding LUAS",5382737,Available,THA25
+2026W14,2026,14,Dublin Metro Bus,2695859,Available,THA25
+2026W14,2026,14,"Bus, excluding Dublin Metro",903232,Available,THA25
+2026W14,2026,14,Rail,1125416,Available,THA25
+2026W14,2026,14,"All public transport, excluding LUAS",4724507,Available,THA25
+2026W15,2026,15,Dublin Metro Bus,3659385,Available,THA25
+2026W15,2026,15,"Bus, excluding Dublin Metro",1107518,Available,THA25
+2026W15,2026,15,Rail,1164078,Available,THA25
+2026W15,2026,15,"All public transport, excluding LUAS",5930981,Available,THA25
+2026W16,2026,16,Dublin Metro Bus,3769942,Available,THA25
+2026W16,2026,16,"Bus, excluding Dublin Metro",1146459,Available,THA25
+2026W16,2026,16,Rail,1199199,Available,THA25
+2026W16,2026,16,"All public transport, excluding LUAS",6115600,Available,THA25
+2026W17,2026,17,Dublin Metro Bus,3730103,Available,THA25
+2026W17,2026,17,"Bus, excluding Dublin Metro",1123605,Available,THA25
+2026W17,2026,17,Rail,1083058,Available,THA25
+2026W17,2026,17,"All public transport, excluding LUAS",5936766,Available,THA25
+2026W18,2026,18,Dublin Metro Bus,3414289,Available,THA25
+2026W18,2026,18,"Bus, excluding Dublin Metro",1035607,Available,THA25
+2026W18,2026,18,Rail,1008684,Available,THA25
+2026W18,2026,18,"All public transport, excluding LUAS",5458580,Available,THA25
+2026W19,2026,19,Dublin Metro Bus,3591877,Available,THA25
+2026W19,2026,19,"Bus, excluding Dublin Metro",1063353,Available,THA25
+2026W19,2026,19,Rail,1089630,Available,THA25
+2026W19,2026,19,"All public transport, excluding LUAS",5744860,Available,THA25
+2026W20,2026,20,Dublin Metro Bus,3633154,Available,THA25
+2026W20,2026,20,"Bus, excluding Dublin Metro",1079194,Available,THA25
+2026W20,2026,20,Rail,1136555,Available,THA25
+2026W20,2026,20,"All public transport, excluding LUAS",5848903,Available,THA25
+2026W21,2026,21,Dublin Metro Bus,3663509,Available,THA25
+2026W21,2026,21,"Bus, excluding Dublin Metro",1105629,Available,THA25
+2026W21,2026,21,Rail,1140330,Available,THA25
+2026W21,2026,21,"All public transport, excluding LUAS",5909468,Available,THA25
+2026W22,2026,22,Dublin Metro Bus,3206563,Available,THA25
+2026W22,2026,22,"Bus, excluding Dublin Metro",949783,Available,THA25
+2026W22,2026,22,Rail,940342,Available,THA25
+2026W22,2026,22,"All public transport, excluding LUAS",5096688,Available,THA25
+2026W23,2026,23,Dublin Metro Bus,3449074,Available,THA25
+2026W23,2026,23,"Bus, excluding Dublin Metro",1046485,Available,THA25
+2026W23,2026,23,Rail,1016348,Available,THA25
+2026W23,2026,23,"All public transport, excluding LUAS",5511907,Available,THA25
+2026W24,2026,24,Dublin Metro Bus,3518886,Available,THA25
+2026W24,2026,24,"Bus, excluding Dublin Metro",1047819,Available,THA25
+2026W24,2026,24,Rail,1134468,Available,THA25
+2026W24,2026,24,"All public transport, excluding LUAS",5701173,Available,THA25
+2026W25,2026,25,Dublin Metro Bus,3543850,Available,THA25
+2026W25,2026,25,"Bus, excluding Dublin Metro",1054882,Available,THA25
+2026W25,2026,25,Rail,1183195,Available,THA25
+2026W25,2026,25,"All public transport, excluding LUAS",5781927,Available,THA25
+2026W26,2026,26,Dublin Metro Bus,3439690,Available,THA25
+2026W26,2026,26,"Bus, excluding Dublin Metro",1026078,Available,THA25
+2026W26,2026,26,Rail,1134102,Available,THA25
+2026W26,2026,26,"All public transport, excluding LUAS",5599870,Available,THA25
+2026W27,2026,27,Dublin Metro Bus,3488322,Available,THA25
+2026W27,2026,27,"Bus, excluding Dublin Metro",1071116,Available,THA25
+2026W27,2026,27,Rail,1200509,Available,THA25
+2026W27,2026,27,"All public transport, excluding LUAS",5759947,Available,THA25
+2026W28,2026,28,Dublin Metro Bus,3454944,Available,THA25
+2026W28,2026,28,"Bus, excluding Dublin Metro",1070370,Available,THA25
+2026W28,2026,28,Rail,1139531,Available,THA25
+2026W28,2026,28,"All public transport, excluding LUAS",5664845,Available,THA25
+2026W29,2026,29,Dublin Metro Bus,3358983,Available,THA25
+2026W29,2026,29,"Bus, excluding Dublin Metro",1038990,Available,THA25
+2026W29,2026,29,Rail,1073549,Available,THA25
+2026W29,2026,29,"All public transport, excluding LUAS",5471522,Available,THA25
+2026W30,2026,30,Dublin Metro Bus,3346193,Available,THA25
+2026W30,2026,30,"Bus, excluding Dublin Metro",1037179,Available,THA25
+2026W30,2026,30,Rail,1065116,Available,THA25
+2026W30,2026,30,"All public transport, excluding LUAS",5448488,Available,THA25
+2026W31,2026,31,Dublin Metro Bus,3163089,Available,THA25
+2026W31,2026,31,"Bus, excluding Dublin Metro",957341,Available,THA25
+2026W31,2026,31,Rail,1043572,Available,THA25
+2026W31,2026,31,"All public transport, excluding LUAS",5164002,Available,THA25
+2026W32,2026,32,Dublin Metro Bus,3344374,Available,THA25
+2026W32,2026,32,"Bus, excluding Dublin Metro",1046936,Available,THA25
+2026W32,2026,32,Rail,1075764,Available,THA25
+2026W32,2026,32,"All public transport, excluding LUAS",5467074,Available,THA25
+2026W33,2026,33,Dublin Metro Bus,3385871,Available,THA25
+2026W33,2026,33,"Bus, excluding Dublin Metro",1035269,Available,THA25
+2026W33,2026,33,Rail,1090557,Available,THA25
+2026W33,2026,33,"All public transport, excluding LUAS",5511697,Available,THA25
+2026W34,2026,34,Dublin Metro Bus,3388636,Available,THA25
+2026W34,2026,34,"Bus, excluding Dublin Metro",1015858,Available,THA25
+2026W34,2026,34,Rail,1077741,Available,THA25
+2026W34,2026,34,"All public transport, excluding LUAS",5482235,Available,THA25
+2026W35,2026,35,Dublin Metro Bus,3631239,Available,THA25
+2026W35,2026,35,"Bus, excluding Dublin Metro",1064708,Available,THA25
+2026W35,2026,35,Rail,1081477,Available,THA25
+2026W35,2026,35,"All public transport, excluding LUAS",5777424,Available,THA25
+2019W01,2019,1,Luas,549533,Available,TII03
+2019W01,2019,1,Red line,274139,Available,TII03
+2019W01,2019,1,Green line,275394,Available,TII03
+2019W02,2019,2,Luas,839022,Available,TII03
+2019W02,2019,2,Red line,408199,Available,TII03
+2019W02,2019,2,Green line,430823,Available,TII03
+2019W03,2019,3,Luas,819359,Available,TII03
+2019W03,2019,3,Red line,376785,Available,TII03
+2019W03,2019,3,Green line,442574,Available,TII03
+2019W04,2019,4,Luas,860745,Available,TII03
+2019W04,2019,4,Red line,405224,Available,TII03
+2019W04,2019,4,Green line,455521,Available,TII03
+2019W05,2019,5,Luas,912795,Available,TII03
+2019W05,2019,5,Red line,441197,Available,TII03
+2019W05,2019,5,Green line,471598,Available,TII03
+2019W06,2019,6,Luas,912612,Available,TII03
+2019W06,2019,6,Red line,449398,Available,TII03
+2019W06,2019,6,Green line,463215,Available,TII03
+2019W07,2019,7,Luas,940476,Available,TII03
+2019W07,2019,7,Red line,466795,Available,TII03
+2019W07,2019,7,Green line,473682,Available,TII03
+2019W08,2019,8,Luas,952291,Available,TII03
+2019W08,2019,8,Red line,480974,Available,TII03
+2019W08,2019,8,Green line,471317,Available,TII03
+2019W09,2019,9,Luas,929391,Available,TII03
+2019W09,2019,9,Red line,468299,Available,TII03
+2019W09,2019,9,Green line,461093,Available,TII03
+2019W10,2019,10,Luas,941919,Available,TII03
+2019W10,2019,10,Red line,475467,Available,TII03
+2019W10,2019,10,Green line,466451,Available,TII03
+2019W11,2019,11,Luas,924998,Available,TII03
+2019W11,2019,11,Red line,442796,Available,TII03
+2019W11,2019,11,Green line,482201,Available,TII03
+2019W12,2019,12,Luas,868205,Available,TII03
+2019W12,2019,12,Red line,440137,Available,TII03
+2019W12,2019,12,Green line,428068,Available,TII03
+2019W13,2019,13,Luas,1003871,Available,TII03
+2019W13,2019,13,Red line,516298,Available,TII03
+2019W13,2019,13,Green line,487573,Available,TII03
+2019W14,2019,14,Luas,933575,Available,TII03
+2019W14,2019,14,Red line,457616,Available,TII03
+2019W14,2019,14,Green line,475959,Available,TII03
+2019W15,2019,15,Luas,945662,Available,TII03
+2019W15,2019,15,Red line,469346,Available,TII03
+2019W15,2019,15,Green line,476316,Available,TII03
+2019W16,2019,16,Luas,842186,Available,TII03
+2019W16,2019,16,Red line,426377,Available,TII03
+2019W16,2019,16,Green line,415809,Available,TII03
+2019W17,2019,17,Luas,801296,Available,TII03
+2019W17,2019,17,Red line,408238,Available,TII03
+2019W17,2019,17,Green line,393058,Available,TII03
+2019W18,2019,18,Luas,919255,Available,TII03
+2019W18,2019,18,Red line,453764,Available,TII03
+2019W18,2019,18,Green line,465491,Available,TII03
+2019W19,2019,19,Luas,817933,Available,TII03
+2019W19,2019,19,Red line,411312,Available,TII03
+2019W19,2019,19,Green line,406621,Available,TII03
+2019W20,2019,20,Luas,904983,Available,TII03
+2019W20,2019,20,Red line,446595,Available,TII03
+2019W20,2019,20,Green line,458388,Available,TII03
+2019W21,2019,21,Luas,902415,Available,TII03
+2019W21,2019,21,Red line,455929,Available,TII03
+2019W21,2019,21,Green line,446486,Available,TII03
+2019W22,2019,22,Luas,973025,Available,TII03
+2019W22,2019,22,Red line,502622,Available,TII03
+2019W22,2019,22,Green line,470403,Available,TII03
+2019W23,2019,23,Luas,826269,Available,TII03
+2019W23,2019,23,Red line,422419,Available,TII03
+2019W23,2019,23,Green line,403850,Available,TII03
+2019W24,2019,24,Luas,925516,Available,TII03
+2019W24,2019,24,Red line,471816,Available,TII03
+2019W24,2019,24,Green line,453700,Available,TII03
+2019W25,2019,25,Luas,883208,Available,TII03
+2019W25,2019,25,Red line,444675,Available,TII03
+2019W25,2019,25,Green line,438533,Available,TII03
+2019W26,2019,26,Luas,905636,Available,TII03
+2019W26,2019,26,Red line,457342,Available,TII03
+2019W26,2019,26,Green line,448295,Available,TII03
+2019W27,2019,27,Luas,982288,Available,TII03
+2019W27,2019,27,Red line,498818,Available,TII03
+2019W27,2019,27,Green line,483470,Available,TII03
+2019W28,2019,28,Luas,919158,Available,TII03
+2019W28,2019,28,Red line,478360,Available,TII03
+2019W28,2019,28,Green line,440798,Available,TII03
+2019W29,2019,29,Luas,903958,Available,TII03
+2019W29,2019,29,Red line,452205,Available,TII03
+2019W29,2019,29,Green line,451753,Available,TII03
+2019W30,2019,30,Luas,926491,Available,TII03
+2019W30,2019,30,Red line,469191,Available,TII03
+2019W30,2019,30,Green line,457300,Available,TII03
+2019W31,2019,31,Luas,832452,Available,TII03
+2019W31,2019,31,Red line,422939,Available,TII03
+2019W31,2019,31,Green line,409513,Available,TII03
+2019W32,2019,32,Luas,807393,Available,TII03
+2019W32,2019,32,Red line,423004,Available,TII03
+2019W32,2019,32,Green line,384389,Available,TII03
+2019W33,2019,33,Luas,868677,Available,TII03
+2019W33,2019,33,Red line,445915,Available,TII03
+2019W33,2019,33,Green line,422762,Available,TII03
+2019W34,2019,34,Luas,862939,Available,TII03
+2019W34,2019,34,Red line,448568,Available,TII03
+2019W34,2019,34,Green line,414371,Available,TII03
+2019W35,2019,35,Luas,897355,Available,TII03
+2019W35,2019,35,Red line,442634,Available,TII03
+2019W35,2019,35,Green line,454721,Available,TII03
+2019W36,2019,36,Luas,933362,Available,TII03
+2019W36,2019,36,Red line,454849,Available,TII03
+2019W36,2019,36,Green line,478513,Available,TII03
+2019W37,2019,37,Luas,969818,Available,TII03
+2019W37,2019,37,Red line,469489,Available,TII03
+2019W37,2019,37,Green line,500329,Available,TII03
+2019W38,2019,38,Luas,990123,Available,TII03
+2019W38,2019,38,Red line,484461,Available,TII03
+2019W38,2019,38,Green line,505662,Available,TII03
+2019W39,2019,39,Luas,1031937,Available,TII03
+2019W39,2019,39,Red line,515967,Available,TII03
+2019W39,2019,39,Green line,515970,Available,TII03
+2019W40,2019,40,Luas,986159,Available,TII03
+2019W40,2019,40,Red line,484015,Available,TII03
+2019W40,2019,40,Green line,502144,Available,TII03
+2019W41,2019,41,Luas,1054749,Available,TII03
+2019W41,2019,41,Red line,534986,Available,TII03
+2019W41,2019,41,Green line,519763,Available,TII03
+2019W42,2019,42,Luas,1014017,Available,TII03
+2019W42,2019,42,Red line,499959,Available,TII03
+2019W42,2019,42,Green line,514057,Available,TII03
+2019W43,2019,43,Luas,1028522,Available,TII03
+2019W43,2019,43,Red line,502241,Available,TII03
+2019W43,2019,43,Green line,526281,Available,TII03
+2019W44,2019,44,Luas,924586,Available,TII03
+2019W44,2019,44,Red line,471553,Available,TII03
+2019W44,2019,44,Green line,453032,Available,TII03
+2019W45,2019,45,Luas,1019705,Available,TII03
+2019W45,2019,45,Red line,497796,Available,TII03
+2019W45,2019,45,Green line,521908,Available,TII03
+2019W46,2019,46,Luas,1038825,Available,TII03
+2019W46,2019,46,Red line,514523,Available,TII03
+2019W46,2019,46,Green line,524302,Available,TII03
+2019W47,2019,47,Luas,1062275,Available,TII03
+2019W47,2019,47,Red line,530882,Available,TII03
+2019W47,2019,47,Green line,531392,Available,TII03
+2019W48,2019,48,Luas,1113668,Available,TII03
+2019W48,2019,48,Red line,544022,Available,TII03
+2019W48,2019,48,Green line,569646,Available,TII03
+2019W49,2019,49,Luas,1080791,Available,TII03
+2019W49,2019,49,Red line,519257,Available,TII03
+2019W49,2019,49,Green line,561534,Available,TII03
+2019W50,2019,50,Luas,1151098,Available,TII03
+2019W50,2019,50,Red line,556229,Available,TII03
+2019W50,2019,50,Green line,594869,Available,TII03
+2019W51,2019,51,Luas,1173473,Available,TII03
+2019W51,2019,51,Red line,550775,Available,TII03
+2019W51,2019,51,Green line,622699,Available,TII03
+2019W52,2019,52,Luas,538511,Available,TII03
+2019W52,2019,52,Red line,259211,Available,TII03
+2019W52,2019,52,Green line,279301,Available,TII03
+2019W53,2019,53,Luas,,Missing,TII03
+2019W53,2019,53,Red line,,Missing,TII03
+2019W53,2019,53,Green line,,Missing,TII03
+2020W01,2020,1,Luas,602998,Available,TII03
+2020W01,2020,1,Red line,304607,Available,TII03
+2020W01,2020,1,Green line,298391,Available,TII03
+2020W02,2020,2,Luas,828455,Available,TII03
+2020W02,2020,2,Red line,401704,Available,TII03
+2020W02,2020,2,Green line,426751,Available,TII03
+2020W03,2020,3,Luas,889804,Available,TII03
+2020W03,2020,3,Red line,436427,Available,TII03
+2020W03,2020,3,Green line,453378,Available,TII03
+2020W04,2020,4,Luas,904841,Available,TII03
+2020W04,2020,4,Red line,438798,Available,TII03
+2020W04,2020,4,Green line,466044,Available,TII03
+2020W05,2020,5,Luas,942828,Available,TII03
+2020W05,2020,5,Red line,460495,Available,TII03
+2020W05,2020,5,Green line,482333,Available,TII03
+2020W06,2020,6,Luas,920121,Available,TII03
+2020W06,2020,6,Red line,460914,Available,TII03
+2020W06,2020,6,Green line,459207,Available,TII03
+2020W07,2020,7,Luas,911461,Available,TII03
+2020W07,2020,7,Red line,448811,Available,TII03
+2020W07,2020,7,Green line,462651,Available,TII03
+2020W08,2020,8,Luas,923869,Available,TII03
+2020W08,2020,8,Red line,461085,Available,TII03
+2020W08,2020,8,Green line,462784,Available,TII03
+2020W09,2020,9,Luas,898856,Available,TII03
+2020W09,2020,9,Red line,437082,Available,TII03
+2020W09,2020,9,Green line,461774,Available,TII03
+2020W10,2020,10,Luas,914613,Available,TII03
+2020W10,2020,10,Red line,472655,Available,TII03
+2020W10,2020,10,Green line,441958,Available,TII03
+2020W11,2020,11,Luas,684508,Available,TII03
+2020W11,2020,11,Red line,347419,Available,TII03
+2020W11,2020,11,Green line,337090,Available,TII03
+2020W12,2020,12,Luas,172062,Available,TII03
+2020W12,2020,12,Red line,94591,Available,TII03
+2020W12,2020,12,Green line,77471,Available,TII03
+2020W13,2020,13,Luas,109378,Available,TII03
+2020W13,2020,13,Red line,64188,Available,TII03
+2020W13,2020,13,Green line,45190,Available,TII03
+2020W14,2020,14,Luas,51655,Available,TII03
+2020W14,2020,14,Red line,30357,Available,TII03
+2020W14,2020,14,Green line,21298,Available,TII03
+2020W15,2020,15,Luas,51695,Available,TII03
+2020W15,2020,15,Red line,31902,Available,TII03
+2020W15,2020,15,Green line,19793,Available,TII03
+2020W16,2020,16,Luas,49393,Available,TII03
+2020W16,2020,16,Red line,29666,Available,TII03
+2020W16,2020,16,Green line,19727,Available,TII03
+2020W17,2020,17,Luas,55246,Available,TII03
+2020W17,2020,17,Red line,33589,Available,TII03
+2020W17,2020,17,Green line,21657,Available,TII03
+2020W18,2020,18,Luas,53321,Available,TII03
+2020W18,2020,18,Red line,30363,Available,TII03
+2020W18,2020,18,Green line,22958,Available,TII03
+2020W19,2020,19,Luas,62327,Available,TII03
+2020W19,2020,19,Red line,37373,Available,TII03
+2020W19,2020,19,Green line,24953,Available,TII03
+2020W20,2020,20,Luas,70288,Available,TII03
+2020W20,2020,20,Red line,42233,Available,TII03
+2020W20,2020,20,Green line,28056,Available,TII03
+2020W21,2020,21,Luas,97318,Available,TII03
+2020W21,2020,21,Red line,57828,Available,TII03
+2020W21,2020,21,Green line,39490,Available,TII03
+2020W22,2020,22,Luas,121645,Available,TII03
+2020W22,2020,22,Red line,70711,Available,TII03
+2020W22,2020,22,Green line,50934,Available,TII03
+2020W23,2020,23,Luas,116454,Available,TII03
+2020W23,2020,23,Red line,66098,Available,TII03
+2020W23,2020,23,Green line,50356,Available,TII03
+2020W24,2020,24,Luas,162187,Available,TII03
+2020W24,2020,24,Red line,91498,Available,TII03
+2020W24,2020,24,Green line,70689,Available,TII03
+2020W25,2020,25,Luas,198036,Available,TII03
+2020W25,2020,25,Red line,104738,Available,TII03
+2020W25,2020,25,Green line,93298,Available,TII03
+2020W26,2020,26,Luas,212109,Available,TII03
+2020W26,2020,26,Red line,111503,Available,TII03
+2020W26,2020,26,Green line,100606,Available,TII03
+2020W27,2020,27,Luas,260302,Available,TII03
+2020W27,2020,27,Red line,132545,Available,TII03
+2020W27,2020,27,Green line,127756,Available,TII03
+2020W28,2020,28,Luas,272181,Available,TII03
+2020W28,2020,28,Red line,144676,Available,TII03
+2020W28,2020,28,Green line,127505,Available,TII03
+2020W29,2020,29,Luas,281255,Available,TII03
+2020W29,2020,29,Red line,147109,Available,TII03
+2020W29,2020,29,Green line,134146,Available,TII03
+2020W30,2020,30,Luas,299837,Available,TII03
+2020W30,2020,30,Red line,153043,Available,TII03
+2020W30,2020,30,Green line,146794,Available,TII03
+2020W31,2020,31,Luas,329979,Available,TII03
+2020W31,2020,31,Red line,175329,Available,TII03
+2020W31,2020,31,Green line,154650,Available,TII03
+2020W32,2020,32,Luas,324687,Available,TII03
+2020W32,2020,32,Red line,173546,Available,TII03
+2020W32,2020,32,Green line,151141,Available,TII03
+2020W33,2020,33,Luas,327981,Available,TII03
+2020W33,2020,33,Red line,166560,Available,TII03
+2020W33,2020,33,Green line,161421,Available,TII03
+2020W34,2020,34,Luas,332762,Available,TII03
+2020W34,2020,34,Red line,176256,Available,TII03
+2020W34,2020,34,Green line,156507,Available,TII03
+2020W35,2020,35,Luas,352046,Available,TII03
+2020W35,2020,35,Red line,183972,Available,TII03
+2020W35,2020,35,Green line,168074,Available,TII03
+2020W36,2020,36,Luas,364177,Available,TII03
+2020W36,2020,36,Red line,181996,Available,TII03
+2020W36,2020,36,Green line,182181,Available,TII03
+2020W37,2020,37,Luas,385884,Available,TII03
+2020W37,2020,37,Red line,196461,Available,TII03
+2020W37,2020,37,Green line,189424,Available,TII03
+2020W38,2020,38,Luas,359756,Available,TII03
+2020W38,2020,38,Red line,183897,Available,TII03
+2020W38,2020,38,Green line,175859,Available,TII03
+2020W39,2020,39,Luas,322384,Available,TII03
+2020W39,2020,39,Red line,158777,Available,TII03
+2020W39,2020,39,Green line,163607,Available,TII03
+2020W40,2020,40,Luas,334649,Available,TII03
+2020W40,2020,40,Red line,167616,Available,TII03
+2020W40,2020,40,Green line,167033,Available,TII03
+2020W41,2020,41,Luas,350028,Available,TII03
+2020W41,2020,41,Red line,174748,Available,TII03
+2020W41,2020,41,Green line,175280,Available,TII03
+2020W42,2020,42,Luas,338183,Available,TII03
+2020W42,2020,42,Red line,164088,Available,TII03
+2020W42,2020,42,Green line,174095,Available,TII03
+2020W43,2020,43,Luas,283638,Available,TII03
+2020W43,2020,43,Red line,145295,Available,TII03
+2020W43,2020,43,Green line,138343,Available,TII03
+2020W44,2020,44,Luas,186287,Available,TII03
+2020W44,2020,44,Red line,102521,Available,TII03
+2020W44,2020,44,Green line,83766,Available,TII03
+2020W45,2020,45,Luas,227605,Available,TII03
+2020W45,2020,45,Red line,118170,Available,TII03
+2020W45,2020,45,Green line,109435,Available,TII03
+2020W46,2020,46,Luas,237979,Available,TII03
+2020W46,2020,46,Red line,124527,Available,TII03
+2020W46,2020,46,Green line,113452,Available,TII03
+2020W47,2020,47,Luas,244276,Available,TII03
+2020W47,2020,47,Red line,129443,Available,TII03
+2020W47,2020,47,Green line,114833,Available,TII03
+2020W48,2020,48,Luas,259772,Available,TII03
+2020W48,2020,48,Red line,133829,Available,TII03
+2020W48,2020,48,Green line,125944,Available,TII03
+2020W49,2020,49,Luas,394613,Available,TII03
+2020W49,2020,49,Red line,195204,Available,TII03
+2020W49,2020,49,Green line,199409,Available,TII03
+2020W50,2020,50,Luas,443719,Available,TII03
+2020W50,2020,50,Red line,214437,Available,TII03
+2020W50,2020,50,Green line,229282,Available,TII03
+2020W51,2020,51,Luas,460029,Available,TII03
+2020W51,2020,51,Red line,223291,Available,TII03
+2020W51,2020,51,Green line,236739,Available,TII03
+2020W52,2020,52,Luas,276844,Available,TII03
+2020W52,2020,52,Red line,135020,Available,TII03
+2020W52,2020,52,Green line,141825,Available,TII03
+2020W53,2020,53,Luas,141651,Available,TII03
+2020W53,2020,53,Red line,71440,Available,TII03
+2020W53,2020,53,Green line,70211,Available,TII03
+2021W01,2021,1,Luas,154882,Available,TII03
+2021W01,2021,1,Red line,86518,Available,TII03
+2021W01,2021,1,Green line,68364,Available,TII03
+2021W02,2021,2,Luas,147908,Available,TII03
+2021W02,2021,2,Red line,83202,Available,TII03
+2021W02,2021,2,Green line,64705,Available,TII03
+2021W03,2021,3,Luas,150280,Available,TII03
+2021W03,2021,3,Red line,84576,Available,TII03
+2021W03,2021,3,Green line,65704,Available,TII03
+2021W04,2021,4,Luas,148633,Available,TII03
+2021W04,2021,4,Red line,84355,Available,TII03
+2021W04,2021,4,Green line,64278,Available,TII03
+2021W05,2021,5,Luas,156469,Available,TII03
+2021W05,2021,5,Red line,87285,Available,TII03
+2021W05,2021,5,Green line,69184,Available,TII03
+2021W06,2021,6,Luas,154595,Available,TII03
+2021W06,2021,6,Red line,86266,Available,TII03
+2021W06,2021,6,Green line,68329,Available,TII03
+2021W07,2021,7,Luas,158958,Available,TII03
+2021W07,2021,7,Red line,85601,Available,TII03
+2021W07,2021,7,Green line,73357,Available,TII03
+2021W08,2021,8,Luas,173458,Available,TII03
+2021W08,2021,8,Red line,95896,Available,TII03
+2021W08,2021,8,Green line,77563,Available,TII03
+2021W09,2021,9,Luas,182546,Available,TII03
+2021W09,2021,9,Red line,99907,Available,TII03
+2021W09,2021,9,Green line,82639,Available,TII03
+2021W10,2021,10,Luas,182343,Available,TII03
+2021W10,2021,10,Red line,100098,Available,TII03
+2021W10,2021,10,Green line,82245,Available,TII03
+2021W11,2021,11,Luas,184592,Available,TII03
+2021W11,2021,11,Red line,97816,Available,TII03
+2021W11,2021,11,Green line,86775,Available,TII03
+2021W12,2021,12,Luas,194458,Available,TII03
+2021W12,2021,12,Red line,103504,Available,TII03
+2021W12,2021,12,Green line,90954,Available,TII03
+2021W13,2021,13,Luas,193222,Available,TII03
+2021W13,2021,13,Red line,104351,Available,TII03
+2021W13,2021,13,Green line,88872,Available,TII03
+2021W14,2021,14,Luas,175429,Available,TII03
+2021W14,2021,14,Red line,94942,Available,TII03
+2021W14,2021,14,Green line,80488,Available,TII03
+2021W15,2021,15,Luas,232495,Available,TII03
+2021W15,2021,15,Red line,118595,Available,TII03
+2021W15,2021,15,Green line,113900,Available,TII03
+2021W16,2021,16,Luas,240221,Available,TII03
+2021W16,2021,16,Red line,126802,Available,TII03
+2021W16,2021,16,Green line,113419,Available,TII03
+2021W17,2021,17,Luas,237120,Available,TII03
+2021W17,2021,17,Red line,125669,Available,TII03
+2021W17,2021,17,Green line,111451,Available,TII03
+2021W18,2021,18,Luas,216926,Available,TII03
+2021W18,2021,18,Red line,112233,Available,TII03
+2021W18,2021,18,Green line,104694,Available,TII03
+2021W19,2021,19,Luas,304059,Available,TII03
+2021W19,2021,19,Red line,157788,Available,TII03
+2021W19,2021,19,Green line,146271,Available,TII03
+2021W20,2021,20,Luas,356075,Available,TII03
+2021W20,2021,20,Red line,181324,Available,TII03
+2021W20,2021,20,Green line,174751,Available,TII03
+2021W21,2021,21,Luas,388279,Available,TII03
+2021W21,2021,21,Red line,202202,Available,TII03
+2021W21,2021,21,Green line,186077,Available,TII03
+2021W22,2021,22,Luas,381468,Available,TII03
+2021W22,2021,22,Red line,210560,Available,TII03
+2021W22,2021,22,Green line,170908,Available,TII03
+2021W23,2021,23,Luas,376282,Available,TII03
+2021W23,2021,23,Red line,196288,Available,TII03
+2021W23,2021,23,Green line,179995,Available,TII03
+2021W24,2021,24,Luas,414980,Available,TII03
+2021W24,2021,24,Red line,219396,Available,TII03
+2021W24,2021,24,Green line,195584,Available,TII03
+2021W25,2021,25,Luas,413187,Available,TII03
+2021W25,2021,25,Red line,218088,Available,TII03
+2021W25,2021,25,Green line,195099,Available,TII03
+2021W26,2021,26,Luas,408603,Available,TII03
+2021W26,2021,26,Red line,218863,Available,TII03
+2021W26,2021,26,Green line,189741,Available,TII03
+2021W27,2021,27,Luas,403259,Available,TII03
+2021W27,2021,27,Red line,216285,Available,TII03
+2021W27,2021,27,Green line,186974,Available,TII03
+2021W28,2021,28,Luas,417819,Available,TII03
+2021W28,2021,28,Red line,225848,Available,TII03
+2021W28,2021,28,Green line,191971,Available,TII03
+2021W29,2021,29,Luas,416359,Available,TII03
+2021W29,2021,29,Red line,228641,Available,TII03
+2021W29,2021,29,Green line,187718,Available,TII03
+2021W30,2021,30,Luas,391588,Available,TII03
+2021W30,2021,30,Red line,201734,Available,TII03
+2021W30,2021,30,Green line,189854,Available,TII03
+2021W31,2021,31,Luas,386208,Available,TII03
+2021W31,2021,31,Red line,203388,Available,TII03
+2021W31,2021,31,Green line,182820,Available,TII03
+2021W32,2021,32,Luas,430283,Available,TII03
+2021W32,2021,32,Red line,231872,Available,TII03
+2021W32,2021,32,Green line,198411,Available,TII03
+2021W33,2021,33,Luas,441304,Available,TII03
+2021W33,2021,33,Red line,235705,Available,TII03
+2021W33,2021,33,Green line,205599,Available,TII03
+2021W34,2021,34,Luas,462372,Available,TII03
+2021W34,2021,34,Red line,239564,Available,TII03
+2021W34,2021,34,Green line,222808,Available,TII03
+2021W35,2021,35,Luas,456687,Available,TII03
+2021W35,2021,35,Red line,230456,Available,TII03
+2021W35,2021,35,Green line,226231,Available,TII03
+2021W36,2021,36,Luas,490349,Available,TII03
+2021W36,2021,36,Red line,245380,Available,TII03
+2021W36,2021,36,Green line,244968,Available,TII03
+2021W37,2021,37,Luas,505786,Available,TII03
+2021W37,2021,37,Red line,249168,Available,TII03
+2021W37,2021,37,Green line,256618,Available,TII03
+2021W38,2021,38,Luas,552233,Available,TII03
+2021W38,2021,38,Red line,268040,Available,TII03
+2021W38,2021,38,Green line,284193,Available,TII03
+2021W39,2021,39,Luas,551254,Available,TII03
+2021W39,2021,39,Red line,270932,Available,TII03
+2021W39,2021,39,Green line,280322,Available,TII03
+2021W40,2021,40,Luas,592664,Available,TII03
+2021W40,2021,40,Red line,290380,Available,TII03
+2021W40,2021,40,Green line,302283,Available,TII03
+2021W41,2021,41,Luas,575688,Available,TII03
+2021W41,2021,41,Red line,262502,Available,TII03
+2021W41,2021,41,Green line,313186,Available,TII03
+2021W42,2021,42,Luas,606775,Available,TII03
+2021W42,2021,42,Red line,301424,Available,TII03
+2021W42,2021,42,Green line,305350,Available,TII03
+2021W43,2021,43,Luas,546048,Available,TII03
+2021W43,2021,43,Red line,279174,Available,TII03
+2021W43,2021,43,Green line,266874,Available,TII03
+2021W44,2021,44,Luas,616810,Available,TII03
+2021W44,2021,44,Red line,308166,Available,TII03
+2021W44,2021,44,Green line,308644,Available,TII03
+2021W45,2021,45,Luas,630247,Available,TII03
+2021W45,2021,45,Red line,310262,Available,TII03
+2021W45,2021,45,Green line,319985,Available,TII03
+2021W46,2021,46,Luas,617761,Available,TII03
+2021W46,2021,46,Red line,306977,Available,TII03
+2021W46,2021,46,Green line,310783,Available,TII03
+2021W47,2021,47,Luas,613392,Available,TII03
+2021W47,2021,47,Red line,309178,Available,TII03
+2021W47,2021,47,Green line,304214,Available,TII03
+2021W48,2021,48,Luas,597259,Available,TII03
+2021W48,2021,48,Red line,300053,Available,TII03
+2021W48,2021,48,Green line,297205,Available,TII03
+2021W49,2021,49,Luas,550174,Available,TII03
+2021W49,2021,49,Red line,281430,Available,TII03
+2021W49,2021,49,Green line,268744,Available,TII03
+2021W50,2021,50,Luas,649573,Available,TII03
+2021W50,2021,50,Red line,327777,Available,TII03
+2021W50,2021,50,Green line,321796,Available,TII03
+2021W51,2021,51,Luas,403994,Available,TII03
+2021W51,2021,51,Red line,202322,Available,TII03
+2021W51,2021,51,Green line,201673,Available,TII03
+2021W52,2021,52,Luas,278203,Available,TII03
+2021W52,2021,52,Red line,148925,Available,TII03
+2021W52,2021,52,Green line,129279,Available,TII03
+2021W53,2021,53,Luas,,Missing,TII03
+2021W53,2021,53,Red line,,Missing,TII03
+2021W53,2021,53,Green line,,Missing,TII03
+2022W01,2022,1,Luas,345593,Available,TII03
+2022W01,2022,1,Red line,184047,Available,TII03
+2022W01,2022,1,Green line,161546,Available,TII03
+2022W02,2022,2,Luas,433914,Available,TII03
+2022W02,2022,2,Red line,225426,Available,TII03
+2022W02,2022,2,Green line,208488,Available,TII03
+2022W03,2022,3,Luas,462831,Available,TII03
+2022W03,2022,3,Red line,241094,Available,TII03
+2022W03,2022,3,Green line,221737,Available,TII03
+2022W04,2022,4,Luas,537929,Available,TII03
+2022W04,2022,4,Red line,274293,Available,TII03
+2022W04,2022,4,Green line,263636,Available,TII03
+2022W05,2022,5,Luas,571873,Available,TII03
+2022W05,2022,5,Red line,293209,Available,TII03
+2022W05,2022,5,Green line,278664,Available,TII03
+2022W06,2022,6,Luas,586898,Available,TII03
+2022W06,2022,6,Red line,298548,Available,TII03
+2022W06,2022,6,Green line,288350,Available,TII03
+2022W07,2022,7,Luas,579835,Available,TII03
+2022W07,2022,7,Red line,295635,Available,TII03
+2022W07,2022,7,Green line,284200,Available,TII03
+2022W08,2022,8,Luas,577293,Available,TII03
+2022W08,2022,8,Red line,302427,Available,TII03
+2022W08,2022,8,Green line,274866,Available,TII03
+2022W09,2022,9,Luas,607075,Available,TII03
+2022W09,2022,9,Red line,319517,Available,TII03
+2022W09,2022,9,Green line,287557,Available,TII03
+2022W10,2022,10,Luas,590952,Available,TII03
+2022W10,2022,10,Red line,316221,Available,TII03
+2022W10,2022,10,Green line,274731,Available,TII03
+2022W11,2022,11,Luas,576609,Available,TII03
+2022W11,2022,11,Red line,314256,Available,TII03
+2022W11,2022,11,Green line,262354,Available,TII03
+2022W12,2022,12,Luas,603392,Available,TII03
+2022W12,2022,12,Red line,310281,Available,TII03
+2022W12,2022,12,Green line,293111,Available,TII03
+2022W13,2022,13,Luas,632821,Available,TII03
+2022W13,2022,13,Red line,337105,Available,TII03
+2022W13,2022,13,Green line,295716,Available,TII03
+2022W14,2022,14,Luas,640207,Available,TII03
+2022W14,2022,14,Red line,333218,Available,TII03
+2022W14,2022,14,Green line,306988,Available,TII03
+2022W15,2022,15,Luas,619031,Available,TII03
+2022W15,2022,15,Red line,345061,Available,TII03
+2022W15,2022,15,Green line,273971,Available,TII03
+2022W16,2022,16,Luas,617520,Available,TII03
+2022W16,2022,16,Red line,340040,Available,TII03
+2022W16,2022,16,Green line,277480,Available,TII03
+2022W17,2022,17,Luas,642988,Available,TII03
+2022W17,2022,17,Red line,326313,Available,TII03
+2022W17,2022,17,Green line,316675,Available,TII03
+2022W18,2022,18,Luas,650527,Available,TII03
+2022W18,2022,18,Red line,336415,Available,TII03
+2022W18,2022,18,Green line,314112,Available,TII03
+2022W19,2022,19,Luas,701703,Available,TII03
+2022W19,2022,19,Red line,367620,Available,TII03
+2022W19,2022,19,Green line,334083,Available,TII03
+2022W20,2022,20,Luas,702050,Available,TII03
+2022W20,2022,20,Red line,364591,Available,TII03
+2022W20,2022,20,Green line,337459,Available,TII03
+2022W21,2022,21,Luas,736455,Available,TII03
+2022W21,2022,21,Red line,400252,Available,TII03
+2022W21,2022,21,Green line,336203,Available,TII03
+2022W22,2022,22,Luas,748966,Available,TII03
+2022W22,2022,22,Red line,414633,Available,TII03
+2022W22,2022,22,Green line,334333,Available,TII03
+2022W23,2022,23,Luas,654577,Available,TII03
+2022W23,2022,23,Red line,351030,Available,TII03
+2022W23,2022,23,Green line,303546,Available,TII03
+2022W24,2022,24,Luas,746758,Available,TII03
+2022W24,2022,24,Red line,403216,Available,TII03
+2022W24,2022,24,Green line,343542,Available,TII03
+2022W25,2022,25,Luas,768947,Available,TII03
+2022W25,2022,25,Red line,425115,Available,TII03
+2022W25,2022,25,Green line,343832,Available,TII03
+2022W26,2022,26,Luas,779963,Available,TII03
+2022W26,2022,26,Red line,401680,Available,TII03
+2022W26,2022,26,Green line,378283,Available,TII03
+2022W27,2022,27,Luas,761521,Available,TII03
+2022W27,2022,27,Red line,402776,Available,TII03
+2022W27,2022,27,Green line,358745,Available,TII03
+2022W28,2022,28,Luas,739605,Available,TII03
+2022W28,2022,28,Red line,384792,Available,TII03
+2022W28,2022,28,Green line,354813,Available,TII03
+2022W29,2022,29,Luas,739584,Available,TII03
+2022W29,2022,29,Red line,386315,Available,TII03
+2022W29,2022,29,Green line,353269,Available,TII03
+2022W30,2022,30,Luas,723458,Available,TII03
+2022W30,2022,30,Red line,381066,Available,TII03
+2022W30,2022,30,Green line,342392,Available,TII03
+2022W31,2022,31,Luas,689408,Available,TII03
+2022W31,2022,31,Red line,370788,Available,TII03
+2022W31,2022,31,Green line,318620,Available,TII03
+2022W32,2022,32,Luas,716924,Available,TII03
+2022W32,2022,32,Red line,385414,Available,TII03
+2022W32,2022,32,Green line,331511,Available,TII03
+2022W33,2022,33,Luas,742734,Available,TII03
+2022W33,2022,33,Red line,394475,Available,TII03
+2022W33,2022,33,Green line,348259,Available,TII03
+2022W34,2022,34,Luas,778106,Available,TII03
+2022W34,2022,34,Red line,407670,Available,TII03
+2022W34,2022,34,Green line,370436,Available,TII03
+2022W35,2022,35,Luas,749341,Available,TII03
+2022W35,2022,35,Red line,394870,Available,TII03
+2022W35,2022,35,Green line,354471,Available,TII03
+2022W36,2022,36,Luas,839027,Available,TII03
+2022W36,2022,36,Red line,441116,Available,TII03
+2022W36,2022,36,Green line,397912,Available,TII03
+2022W37,2022,37,Luas,890854,Available,TII03
+2022W37,2022,37,Red line,464639,Available,TII03
+2022W37,2022,37,Green line,426215,Available,TII03
+2022W38,2022,38,Luas,915330,Available,TII03
+2022W38,2022,38,Red line,468498,Available,TII03
+2022W38,2022,38,Green line,446831,Available,TII03
+2022W39,2022,39,Luas,966770,Available,TII03
+2022W39,2022,39,Red line,495114,Available,TII03
+2022W39,2022,39,Green line,471656,Available,TII03
+2022W40,2022,40,Luas,976883,Available,TII03
+2022W40,2022,40,Red line,499121,Available,TII03
+2022W40,2022,40,Green line,477762,Available,TII03
+2022W41,2022,41,Luas,973313,Available,TII03
+2022W41,2022,41,Red line,490773,Available,TII03
+2022W41,2022,41,Green line,482540,Available,TII03
+2022W42,2022,42,Luas,988465,Available,TII03
+2022W42,2022,42,Red line,507315,Available,TII03
+2022W42,2022,42,Green line,481150,Available,TII03
+2022W43,2022,43,Luas,1024107,Available,TII03
+2022W43,2022,43,Red line,527175,Available,TII03
+2022W43,2022,43,Green line,496932,Available,TII03
+2022W44,2022,44,Luas,892530,Available,TII03
+2022W44,2022,44,Red line,472903,Available,TII03
+2022W44,2022,44,Green line,419627,Available,TII03
+2022W45,2022,45,Luas,1027304,Available,TII03
+2022W45,2022,45,Red line,530589,Available,TII03
+2022W45,2022,45,Green line,496715,Available,TII03
+2022W46,2022,46,Luas,1036079,Available,TII03
+2022W46,2022,46,Red line,535652,Available,TII03
+2022W46,2022,46,Green line,500427,Available,TII03
+2022W47,2022,47,Luas,1039314,Available,TII03
+2022W47,2022,47,Red line,535559,Available,TII03
+2022W47,2022,47,Green line,503755,Available,TII03
+2022W48,2022,48,Luas,1038722,Available,TII03
+2022W48,2022,48,Red line,547010,Available,TII03
+2022W48,2022,48,Green line,491713,Available,TII03
+2022W49,2022,49,Luas,1035628,Available,TII03
+2022W49,2022,49,Red line,537455,Available,TII03
+2022W49,2022,49,Green line,498173,Available,TII03
+2022W50,2022,50,Luas,1060205,Available,TII03
+2022W50,2022,50,Red line,526929,Available,TII03
+2022W50,2022,50,Green line,533275,Available,TII03
+2022W51,2022,51,Luas,832231,Available,TII03
+2022W51,2022,51,Red line,420463,Available,TII03
+2022W51,2022,51,Green line,411768,Available,TII03
+2022W52,2022,52,Luas,560483,Available,TII03
+2022W52,2022,52,Red line,289972,Available,TII03
+2022W52,2022,52,Green line,270512,Available,TII03
+2022W53,2022,53,Luas,,Missing,TII03
+2022W53,2022,53,Red line,,Missing,TII03
+2022W53,2022,53,Green line,,Missing,TII03
+2023W01,2023,1,Luas,711191,Available,TII03
+2023W01,2023,1,Red line,371194,Available,TII03
+2023W01,2023,1,Green line,339997,Available,TII03
+2023W02,2023,2,Luas,828385,Available,TII03
+2023W02,2023,2,Red line,430666,Available,TII03
+2023W02,2023,2,Green line,397719,Available,TII03
+2023W03,2023,3,Luas,851892,Available,TII03
+2023W03,2023,3,Red line,440142,Available,TII03
+2023W03,2023,3,Green line,411750,Available,TII03
+2023W04,2023,4,Luas,948591,Available,TII03
+2023W04,2023,4,Red line,486675,Available,TII03
+2023W04,2023,4,Green line,461916,Available,TII03
+2023W05,2023,5,Luas,952736,Available,TII03
+2023W05,2023,5,Red line,489532,Available,TII03
+2023W05,2023,5,Green line,463204,Available,TII03
+2023W06,2023,6,Luas,957284,Available,TII03
+2023W06,2023,6,Red line,497428,Available,TII03
+2023W06,2023,6,Green line,459856,Available,TII03
+2023W07,2023,7,Luas,968927,Available,TII03
+2023W07,2023,7,Red line,500579,Available,TII03
+2023W07,2023,7,Green line,468348,Available,TII03
+2023W08,2023,8,Luas,949241,Available,TII03
+2023W08,2023,8,Red line,491496,Available,TII03
+2023W08,2023,8,Green line,457745,Available,TII03
+2023W09,2023,9,Luas,915330,Available,TII03
+2023W09,2023,9,Red line,468498,Available,TII03
+2023W09,2023,9,Green line,446831,Available,TII03
+2023W10,2023,10,Luas,887706,Available,TII03
+2023W10,2023,10,Red line,479445,Available,TII03
+2023W10,2023,10,Green line,408261,Available,TII03
+2023W11,2023,11,Luas,933919,Available,TII03
+2023W11,2023,11,Red line,502781,Available,TII03
+2023W11,2023,11,Green line,431138,Available,TII03
+2023W12,2023,12,Luas,942682,Available,TII03
+2023W12,2023,12,Red line,505332,Available,TII03
+2023W12,2023,12,Green line,437350,Available,TII03
+2023W13,2023,13,Luas,971374,Available,TII03
+2023W13,2023,13,Red line,507092,Available,TII03
+2023W13,2023,13,Green line,464282,Available,TII03
+2023W14,2023,14,Luas,894947,Available,TII03
+2023W14,2023,14,Red line,482842,Available,TII03
+2023W14,2023,14,Green line,412105,Available,TII03
+2023W15,2023,15,Luas,830253,Available,TII03
+2023W15,2023,15,Red line,476106,Available,TII03
+2023W15,2023,15,Green line,354148,Available,TII03
+2023W16,2023,16,Luas,936981,Available,TII03
+2023W16,2023,16,Red line,493366,Available,TII03
+2023W16,2023,16,Green line,443616,Available,TII03
+2023W17,2023,17,Luas,913737,Available,TII03
+2023W17,2023,17,Red line,495522,Available,TII03
+2023W17,2023,17,Green line,418215,Available,TII03
+2023W18,2023,18,Luas,885361,Available,TII03
+2023W18,2023,18,Red line,483525,Available,TII03
+2023W18,2023,18,Green line,401836,Available,TII03
+2023W19,2023,19,Luas,939287,Available,TII03
+2023W19,2023,19,Red line,496075,Available,TII03
+2023W19,2023,19,Green line,443212,Available,TII03
+2023W20,2023,20,Luas,934041,Available,TII03
+2023W20,2023,20,Red line,487287,Available,TII03
+2023W20,2023,20,Green line,446753,Available,TII03
+2023W21,2023,21,Luas,942106,Available,TII03
+2023W21,2023,21,Red line,598293,Available,TII03
+2023W21,2023,21,Green line,343813,Available,TII03
+2023W22,2023,22,Luas,712764,Available,TII03
+2023W22,2023,22,Red line,383243,Available,TII03
+2023W22,2023,22,Green line,329521,Available,TII03
+2023W23,2023,23,Luas,845530,Available,TII03
+2023W23,2023,23,Red line,465542,Available,TII03
+2023W23,2023,23,Green line,379988,Available,TII03
+2023W24,2023,24,Luas,908491,Available,TII03
+2023W24,2023,24,Red line,482633,Available,TII03
+2023W24,2023,24,Green line,425858,Available,TII03
+2023W25,2023,25,Luas,942501,Available,TII03
+2023W25,2023,25,Red line,510176,Available,TII03
+2023W25,2023,25,Green line,432325,Available,TII03
+2023W26,2023,26,Luas,965830,Available,TII03
+2023W26,2023,26,Red line,525000,Available,TII03
+2023W26,2023,26,Green line,440830,Available,TII03
+2023W27,2023,27,Luas,917233,Available,TII03
+2023W27,2023,27,Red line,501656,Available,TII03
+2023W27,2023,27,Green line,415577,Available,TII03
+2023W28,2023,28,Luas,854628,Available,TII03
+2023W28,2023,28,Red line,458273,Available,TII03
+2023W28,2023,28,Green line,396355,Available,TII03
+2023W29,2023,29,Luas,866913,Available,TII03
+2023W29,2023,29,Red line,463673,Available,TII03
+2023W29,2023,29,Green line,403240,Available,TII03
+2023W30,2023,30,Luas,898925,Available,TII03
+2023W30,2023,30,Red line,490187,Available,TII03
+2023W30,2023,30,Green line,408738,Available,TII03
+2023W31,2023,31,Luas,807150,Available,TII03
+2023W31,2023,31,Red line,466708,Available,TII03
+2023W31,2023,31,Green line,340441,Available,TII03
+2023W32,2023,32,Luas,773935,Available,TII03
+2023W32,2023,32,Red line,437277,Available,TII03
+2023W32,2023,32,Green line,336659,Available,TII03
+2023W33,2023,33,Luas,830665,Available,TII03
+2023W33,2023,33,Red line,449135,Available,TII03
+2023W33,2023,33,Green line,381530,Available,TII03
+2023W34,2023,34,Luas,900531,Available,TII03
+2023W34,2023,34,Red line,495211,Available,TII03
+2023W34,2023,34,Green line,405320,Available,TII03
+2023W35,2023,35,Luas,844129,Available,TII03
+2023W35,2023,35,Red line,432251,Available,TII03
+2023W35,2023,35,Green line,411878,Available,TII03
+2023W36,2023,36,Luas,898741,Available,TII03
+2023W36,2023,36,Red line,465836,Available,TII03
+2023W36,2023,36,Green line,432905,Available,TII03
+2023W37,2023,37,Luas,907481,Available,TII03
+2023W37,2023,37,Red line,462007,Available,TII03
+2023W37,2023,37,Green line,445474,Available,TII03
+2023W38,2023,38,Luas,1031691,Available,TII03
+2023W38,2023,38,Red line,533098,Available,TII03
+2023W38,2023,38,Green line,498593,Available,TII03
+2023W39,2023,39,Luas,1013117,Available,TII03
+2023W39,2023,39,Red line,512536,Available,TII03
+2023W39,2023,39,Green line,500581,Available,TII03
+2023W40,2023,40,Luas,1050425,Available,TII03
+2023W40,2023,40,Red line,534463,Available,TII03
+2023W40,2023,40,Green line,515962,Available,TII03
+2023W41,2023,41,Luas,1045716,Available,TII03
+2023W41,2023,41,Red line,532162,Available,TII03
+2023W41,2023,41,Green line,513554,Available,TII03
+2023W42,2023,42,Luas,1085573,Available,TII03
+2023W42,2023,42,Red line,571365,Available,TII03
+2023W42,2023,42,Green line,514208,Available,TII03
+2023W43,2023,43,Luas,1106246,Available,TII03
+2023W43,2023,43,Red line,578178,Available,TII03
+2023W43,2023,43,Green line,528068,Available,TII03
+2023W44,2023,44,Luas,949071,Available,TII03
+2023W44,2023,44,Red line,502054,Available,TII03
+2023W44,2023,44,Green line,447017,Available,TII03
+2023W45,2023,45,Luas,1080480,Available,TII03
+2023W45,2023,45,Red line,557972,Available,TII03
+2023W45,2023,45,Green line,522508,Available,TII03
+2023W46,2023,46,Luas,1009030,Available,TII03
+2023W46,2023,46,Red line,528422,Available,TII03
+2023W46,2023,46,Green line,480607,Available,TII03
+2023W47,2023,47,Luas,917300,Available,TII03
+2023W47,2023,47,Red line,465137,Available,TII03
+2023W47,2023,47,Green line,452163,Available,TII03
+2023W48,2023,48,Luas,1084541,Available,TII03
+2023W48,2023,48,Red line,556742,Available,TII03
+2023W48,2023,48,Green line,527799,Available,TII03
+2023W49,2023,49,Luas,1068179,Available,TII03
+2023W49,2023,49,Red line,531194,Available,TII03
+2023W49,2023,49,Green line,536986,Available,TII03
+2023W50,2023,50,Luas,1126106,Available,TII03
+2023W50,2023,50,Red line,565057,Available,TII03
+2023W50,2023,50,Green line,561049,Available,TII03
+2023W51,2023,51,Luas,999461,Available,TII03
+2023W51,2023,51,Red line,498469,Available,TII03
+2023W51,2023,51,Green line,500992,Available,TII03
+2023W52,2023,52,Luas,499366,Available,TII03
+2023W52,2023,52,Red line,256060,Available,TII03
+2023W52,2023,52,Green line,243306,Available,TII03
+2024W01,2024,1,Luas,700059,Available,TII03
+2024W01,2024,1,Red line,372152,Available,TII03
+2024W01,2024,1,Green line,327907,Available,TII03
+2024W02,2024,2,Luas,899981,Available,TII03
+2024W02,2024,2,Red line,463244,Available,TII03
+2024W02,2024,2,Green line,436737,Available,TII03
+2024W03,2024,3,Luas,907998,Available,TII03
+2024W03,2024,3,Red line,469301,Available,TII03
+2024W03,2024,3,Green line,438697,Available,TII03
+2024W04,2024,4,Luas,1021385,Available,TII03
+2024W04,2024,4,Red line,523628,Available,TII03
+2024W04,2024,4,Green line,497758,Available,TII03
+2024W05,2024,5,Luas,1038070,Available,TII03
+2024W05,2024,5,Red line,531915,Available,TII03
+2024W05,2024,5,Green line,506155,Available,TII03
+2024W06,2024,6,Luas,959558,Available,TII03
+2024W06,2024,6,Red line,501799,Available,TII03
+2024W06,2024,6,Green line,457759,Available,TII03
+2024W07,2024,7,Luas,1054039,Available,TII03
+2024W07,2024,7,Red line,549879,Available,TII03
+2024W07,2024,7,Green line,504160,Available,TII03
+2024W08,2024,8,Luas,1083395,Available,TII03
+2024W08,2024,8,Red line,570849,Available,TII03
+2024W08,2024,8,Green line,512547,Available,TII03
+2024W09,2024,9,Luas,1037397,Available,TII03
+2024W09,2024,9,Red line,530814,Available,TII03
+2024W09,2024,9,Green line,506583,Available,TII03
+2024W10,2024,10,Luas,1059376,Available,TII03
+2024W10,2024,10,Red line,559868,Available,TII03
+2024W10,2024,10,Green line,499508,Available,TII03
+2024W11,2024,11,Luas,1087684,Available,TII03
+2024W11,2024,11,Red line,563933,Available,TII03
+2024W11,2024,11,Green line,523751,Available,TII03
+2024W12,2024,12,Luas,971136,Available,TII03
+2024W12,2024,12,Red line,509915,Available,TII03
+2024W12,2024,12,Green line,461220,Available,TII03
+2024W13,2024,13,Luas,938701,Available,TII03
+2024W13,2024,13,Red line,496198,Available,TII03
+2024W13,2024,13,Green line,442503,Available,TII03
+2024W14,2024,14,Luas,888258,Available,TII03
+2024W14,2024,14,Red line,467427,Available,TII03
+2024W14,2024,14,Green line,420831,Available,TII03
+2024W15,2024,15,Luas,1068239,Available,TII03
+2024W15,2024,15,Red line,549242,Available,TII03
+2024W15,2024,15,Green line,518997,Available,TII03
+2024W16,2024,16,Luas,1064820,Available,TII03
+2024W16,2024,16,Red line,555880,Available,TII03
+2024W16,2024,16,Green line,508940,Available,TII03
+2024W17,2024,17,Luas,1063398,Available,TII03
+2024W17,2024,17,Red line,559778,Available,TII03
+2024W17,2024,17,Green line,503620,Available,TII03
+2024W18,2024,18,Luas,1076766,Available,TII03
+2024W18,2024,18,Red line,567802,Available,TII03
+2024W18,2024,18,Green line,508964,Available,TII03
+2024W19,2024,19,Luas,946487,Available,TII03
+2024W19,2024,19,Red line,499076,Available,TII03
+2024W19,2024,19,Green line,447411,Available,TII03
+2024W20,2024,20,Luas,1060320,Available,TII03
+2024W20,2024,20,Red line,565635,Available,TII03
+2024W20,2024,20,Green line,494685,Available,TII03
+2024W21,2024,21,Luas,1008790,Available,TII03
+2024W21,2024,21,Red line,530914,Available,TII03
+2024W21,2024,21,Green line,477876,Available,TII03
+2024W22,2024,22,Luas,1033713,Available,TII03
+2024W22,2024,22,Red line,549403,Available,TII03
+2024W22,2024,22,Green line,484310,Available,TII03
+2024W23,2024,23,Luas,909484,Available,TII03
+2024W23,2024,23,Red line,487340,Available,TII03
+2024W23,2024,23,Green line,422143,Available,TII03
+2024W24,2024,24,Luas,1011172,Available,TII03
+2024W24,2024,24,Red line,543407,Available,TII03
+2024W24,2024,24,Green line,467765,Available,TII03
+2024W25,2024,25,Luas,1010897,Available,TII03
+2024W25,2024,25,Red line,541440,Available,TII03
+2024W25,2024,25,Green line,469457,Available,TII03
+2024W26,2024,26,Luas,1062408,Available,TII03
+2024W26,2024,26,Red line,579523,Available,TII03
+2024W26,2024,26,Green line,482885,Available,TII03
+2024W27,2024,27,Luas,1023603,Available,TII03
+2024W27,2024,27,Red line,547290,Available,TII03
+2024W27,2024,27,Green line,476313,Available,TII03
+2024W28,2024,28,Luas,977358,Available,TII03
+2024W28,2024,28,Red line,522093,Available,TII03
+2024W28,2024,28,Green line,455266,Available,TII03
+2024W29,2024,29,Luas,950109,Available,TII03
+2024W29,2024,29,Red line,515679,Available,TII03
+2024W29,2024,29,Green line,434429,Available,TII03
+2024W30,2024,30,Luas,968199,Available,TII03
+2024W30,2024,30,Red line,520262,Available,TII03
+2024W30,2024,30,Green line,447937,Available,TII03
+2024W31,2024,31,Luas,922551,Available,TII03
+2024W31,2024,31,Red line,499416,Available,TII03
+2024W31,2024,31,Green line,423135,Available,TII03
+2024W32,2024,32,Luas,876982,Available,TII03
+2024W32,2024,32,Red line,479410,Available,TII03
+2024W32,2024,32,Green line,397572,Available,TII03
+2024W33,2024,33,Luas,926160,Available,TII03
+2024W33,2024,33,Red line,498974,Available,TII03
+2024W33,2024,33,Green line,427186,Available,TII03
+2024W34,2024,34,Luas,1004736,Available,TII03
+2024W34,2024,34,Red line,550965,Available,TII03
+2024W34,2024,34,Green line,453770,Available,TII03
+2024W35,2024,35,Luas,1073309,Available,TII03
+2024W35,2024,35,Red line,581286,Available,TII03
+2024W35,2024,35,Green line,492022,Available,TII03
+2024W36,2024,36,Luas,1050873,Available,TII03
+2024W36,2024,36,Red line,558201,Available,TII03
+2024W36,2024,36,Green line,492672,Available,TII03
+2024W37,2024,37,Luas,1075730,Available,TII03
+2024W37,2024,37,Red line,560570,Available,TII03
+2024W37,2024,37,Green line,515160,Available,TII03
+2024W38,2024,38,Luas,1161269,Available,TII03
+2024W38,2024,38,Red line,602385,Available,TII03
+2024W38,2024,38,Green line,558883,Available,TII03
+2024W39,2024,39,Luas,1185060,Available,TII03
+2024W39,2024,39,Red line,627769,Available,TII03
+2024W39,2024,39,Green line,557291,Available,TII03
+2024W40,2024,40,Luas,1161123,Available,TII03
+2024W40,2024,40,Red line,609389,Available,TII03
+2024W40,2024,40,Green line,551735,Available,TII03
+2024W41,2024,41,Luas,1216329,Available,TII03
+2024W41,2024,41,Red line,641527,Available,TII03
+2024W41,2024,41,Green line,574802,Available,TII03
+2024W42,2024,42,Luas,1173457,Available,TII03
+2024W42,2024,42,Red line,616286,Available,TII03
+2024W42,2024,42,Green line,557171,Available,TII03
+2024W43,2024,43,Luas,1177447,Available,TII03
+2024W43,2024,43,Red line,612531,Available,TII03
+2024W43,2024,43,Green line,564916,Available,TII03
+2024W44,2024,44,Luas,1054921,Available,TII03
+2024W44,2024,44,Red line,571603,Available,TII03
+2024W44,2024,44,Green line,483318,Available,TII03
+2024W45,2024,45,Luas,1171116,Available,TII03
+2024W45,2024,45,Red line,610177,Available,TII03
+2024W45,2024,45,Green line,560938,Available,TII03
+2024W46,2024,46,Luas,1223973,Available,TII03
+2024W46,2024,46,Red line,651128,Available,TII03
+2024W46,2024,46,Green line,572846,Available,TII03
+2024W47,2024,47,Luas,1172631,Available,TII03
+2024W47,2024,47,Red line,615102,Available,TII03
+2024W47,2024,47,Green line,557529,Available,TII03
+2024W48,2024,48,Luas,1259374,Available,TII03
+2024W48,2024,48,Red line,667517,Available,TII03
+2024W48,2024,48,Green line,591857,Available,TII03
+2024W49,2024,49,Luas,1229041,Available,TII03
+2024W49,2024,49,Red line,653076,Available,TII03
+2024W49,2024,49,Green line,575965,Available,TII03
+2024W50,2024,50,Luas,1251360,Available,TII03
+2024W50,2024,50,Red line,654650,Available,TII03
+2024W50,2024,50,Green line,596710,Available,TII03
+2024W51,2024,51,Luas,1174263,Available,TII03
+2024W51,2024,51,Red line,600256,Available,TII03
+2024W51,2024,51,Green line,574007,Available,TII03
+2024W52,2024,52,Luas,590536,Available,TII03
+2024W52,2024,52,Red line,298465,Available,TII03
+2024W52,2024,52,Green line,292071,Available,TII03
+2025W01,2025,1,Luas,668772,Available,TII03
+2025W01,2025,1,Red line,364755,Available,TII03
+2025W01,2025,1,Green line,304016,Available,TII03
+2025W02,2025,2,Luas,917245,Available,TII03
+2025W02,2025,2,Red line,474539,Available,TII03
+2025W02,2025,2,Green line,442706,Available,TII03
+2025W03,2025,3,Luas,1045626,Available,TII03
+2025W03,2025,3,Red line,543480,Available,TII03
+2025W03,2025,3,Green line,502146,Available,TII03
+2025W04,2025,4,Luas,902930,Available,TII03
+2025W04,2025,4,Red line,465036,Available,TII03
+2025W04,2025,4,Green line,437893,Available,TII03
+2025W05,2025,5,Luas,1154186,Available,TII03
+2025W05,2025,5,Red line,592077,Available,TII03
+2025W05,2025,5,Green line,562109,Available,TII03
+2025W06,2025,6,Luas,1034820,Available,TII03
+2025W06,2025,6,Red line,538613,Available,TII03
+2025W06,2025,6,Green line,496206,Available,TII03
+2025W07,2025,7,Luas,1162702,Available,TII03
+2025W07,2025,7,Red line,604789,Available,TII03
+2025W07,2025,7,Green line,557913,Available,TII03
+2025W08,2025,8,Luas,1158114,Available,TII03
+2025W08,2025,8,Red line,621230,Available,TII03
+2025W08,2025,8,Green line,536884,Available,TII03
+2025W09,2025,9,Luas,1163522,Available,TII03
+2025W09,2025,9,Red line,608192,Available,TII03
+2025W09,2025,9,Green line,555330,Available,TII03
+2025W10,2025,10,Luas,1183270,Available,TII03
+2025W10,2025,10,Red line,627026,Available,TII03
+2025W10,2025,10,Green line,556244,Available,TII03
+2025W11,2025,11,Luas,1202814,Available,TII03
+2025W11,2025,11,Red line,642681,Available,TII03
+2025W11,2025,11,Green line,560132,Available,TII03
+2025W12,2025,12,Luas,1059380,Available,TII03
+2025W12,2025,12,Red line,557871,Available,TII03
+2025W12,2025,12,Green line,501509,Available,TII03
+2025W13,2025,13,Luas,1148465,Available,TII03
+2025W13,2025,13,Red line,573543,Available,TII03
+2025W13,2025,13,Green line,574922,Available,TII03
+2025W14,2025,14,Luas,1131438,Available,TII03
+2025W14,2025,14,Red line,561691,Available,TII03
+2025W14,2025,14,Green line,569747,Available,TII03
+2025W15,2025,15,Luas,1132911,Available,TII03
+2025W15,2025,15,Red line,548880,Available,TII03
+2025W15,2025,15,Green line,584031,Available,TII03
+2025W16,2025,16,Luas,959854,Available,TII03
+2025W16,2025,16,Red line,498409,Available,TII03
+2025W16,2025,16,Green line,461446,Available,TII03
+2025W17,2025,17,Luas,934817,Available,TII03
+2025W17,2025,17,Red line,483461,Available,TII03
+2025W17,2025,17,Green line,451356,Available,TII03
+2025W18,2025,18,Luas,1115022,Available,TII03
+2025W18,2025,18,Red line,564754,Available,TII03
+2025W18,2025,18,Green line,550268,Available,TII03
+2025W19,2025,19,Luas,1000972,Available,TII03
+2025W19,2025,19,Red line,516524,Available,TII03
+2025W19,2025,19,Green line,484448,Available,TII03
+2025W20,2025,20,Luas,1088122,Available,TII03
+2025W20,2025,20,Red line,552366,Available,TII03
+2025W20,2025,20,Green line,535756,Available,TII03
+2025W21,2025,21,Luas,1097114,Available,TII03
+2025W21,2025,21,Red line,564860,Available,TII03
+2025W21,2025,21,Green line,532254,Available,TII03
+2025W22,2025,22,Luas,1137869,Available,TII03
+2025W22,2025,22,Red line,589379,Available,TII03
+2025W22,2025,22,Green line,548490,Available,TII03
+2025W23,2025,23,Luas,981701,Available,TII03
+2025W23,2025,23,Red line,515490,Available,TII03
+2025W23,2025,23,Green line,466212,Available,TII03
+2025W24,2025,24,Luas,1027489,Available,TII03
+2025W24,2025,24,Red line,527195,Available,TII03
+2025W24,2025,24,Green line,500294,Available,TII03
+2025W25,2025,25,Luas,1106398,Available,TII03
+2025W25,2025,25,Red line,588039,Available,TII03
+2025W25,2025,25,Green line,518359,Available,TII03
+2025W26,2025,26,Luas,1089204,Available,TII03
+2025W26,2025,26,Red line,567198,Available,TII03
+2025W26,2025,26,Green line,522005,Available,TII03
+2025W27,2025,27,Luas,1084133,Available,TII03
+2025W27,2025,27,Red line,569992,Available,TII03
+2025W27,2025,27,Green line,514141,Available,TII03
+2025W28,2025,28,Luas,1043223,Available,TII03
+2025W28,2025,28,Red line,548638,Available,TII03
+2025W28,2025,28,Green line,494585,Available,TII03
+2025W29,2025,29,Luas,1028146,Available,TII03
+2025W29,2025,29,Red line,535853,Available,TII03
+2025W29,2025,29,Green line,492293,Available,TII03
+2025W30,2025,30,Luas,1041183,Available,TII03
+2025W30,2025,30,Red line,550012,Available,TII03
+2025W30,2025,30,Green line,491171,Available,TII03
+2025W31,2025,31,Luas,987583,Available,TII03
+2025W31,2025,31,Red line,519747,Available,TII03
+2025W31,2025,31,Green line,467836,Available,TII03
+2025W32,2025,32,Luas,920507,Available,TII03
+2025W32,2025,32,Red line,495516,Available,TII03
+2025W32,2025,32,Green line,424991,Available,TII03
+2025W33,2025,33,Luas,1011610,Available,TII03
+2025W33,2025,33,Red line,528418,Available,TII03
+2025W33,2025,33,Green line,483192,Available,TII03
+2025W34,2025,34,Luas,992857,Available,TII03
+2025W34,2025,34,Red line,502555,Available,TII03
+2025W34,2025,34,Green line,490302,Available,TII03
+2025W35,2025,35,Luas,922758,Available,TII03
+2025W35,2025,35,Red line,425756,Available,TII03
+2025W35,2025,35,Green line,497001,Available,TII03
+2025W36,2025,36,Luas,925724,Available,TII03
+2025W36,2025,36,Red line,422181,Available,TII03
+2025W36,2025,36,Green line,503543,Available,TII03
+2025W37,2025,37,Luas,968573,Available,TII03
+2025W37,2025,37,Red line,431535,Available,TII03
+2025W37,2025,37,Green line,537038,Available,TII03
+2025W38,2025,38,Luas,1082179,Available,TII03
+2025W38,2025,38,Red line,483433,Available,TII03
+2025W38,2025,38,Green line,598746,Available,TII03
+2025W39,2025,39,Luas,1096923,Available,TII03
+2025W39,2025,39,Red line,501556,Available,TII03
+2025W39,2025,39,Green line,595368,Available,TII03
+2025W40,2025,40,Luas,1062662,Available,TII03
+2025W40,2025,40,Red line,475477,Available,TII03
+2025W40,2025,40,Green line,587186,Available,TII03
+2025W41,2025,41,Luas,1120082,Available,TII03
+2025W41,2025,41,Red line,510506,Available,TII03
+2025W41,2025,41,Green line,609576,Available,TII03
+2025W42,2025,42,Luas,1124866,Available,TII03
+2025W42,2025,42,Red line,511903,Available,TII03
+2025W42,2025,42,Green line,612963,Available,TII03
+2025W43,2025,43,Luas,1137331,Available,TII03
+2025W43,2025,43,Red line,512516,Available,TII03
+2025W43,2025,43,Green line,624814,Available,TII03
+2025W44,2025,44,Luas,963093,Available,TII03
+2025W44,2025,44,Red line,456430,Available,TII03
+2025W44,2025,44,Green line,506664,Available,TII03
+2025W45,2025,45,Luas,1115484,Available,TII03
+2025W45,2025,45,Red line,510855,Available,TII03
+2025W45,2025,45,Green line,604629,Available,TII03
+2025W46,2025,46,Luas,1076637,Available,TII03
+2025W46,2025,46,Red line,484074,Available,TII03
+2025W46,2025,46,Green line,592563,Available,TII03
+2025W47,2025,47,Luas,1125474,Available,TII03
+2025W47,2025,47,Red line,507071,Available,TII03
+2025W47,2025,47,Green line,618402,Available,TII03
+2025W48,2025,48,Luas,1208599,Available,TII03
+2025W48,2025,48,Red line,574395,Available,TII03
+2025W48,2025,48,Green line,634204,Available,TII03
+2025W49,2025,49,Luas,1264616,Available,TII03
+2025W49,2025,49,Red line,633555,Available,TII03
+2025W49,2025,49,Green line,631061,Available,TII03
+2025W50,2025,50,Luas,1120168,Available,TII03
+2025W50,2025,50,Red line,652166,Available,TII03
+2025W50,2025,50,Green line,468002,Available,TII03
+2025W51,2025,51,Luas,1274310,Available,TII03
+2025W51,2025,51,Red line,640857,Available,TII03
+2025W51,2025,51,Green line,633453,Available,TII03
+2025W52,2025,52,Luas,672463,Available,TII03
+2025W52,2025,52,Red line,329136,Available,TII03
+2025W52,2025,52,Green line,343327,Available,TII03
+2026W01,2026,1,Luas,707972,Available,TII03
+2026W01,2026,1,Red line,381306,Available,TII03
+2026W01,2026,1,Green line,326666,Available,TII03
+2026W02,2026,2,Luas,975131,Available,TII03
+2026W02,2026,2,Red line,492686,Available,TII03
+2026W02,2026,2,Green line,482445,Available,TII03
+2026W03,2026,3,Luas,1066934,Available,TII03
+2026W03,2026,3,Red line,541206,Available,TII03
+2026W03,2026,3,Green line,525728,Available,TII03
+2026W04,2026,4,Luas,1102456,Available,TII03
+2026W04,2026,4,Red line,558183,Available,TII03
+2026W04,2026,4,Green line,544274,Available,TII03
+2026W05,2026,5,Luas,1163779,Available,TII03
+2026W05,2026,5,Red line,585417,Available,TII03
+2026W05,2026,5,Green line,578362,Available,TII03
+2026W06,2026,6,Luas,1035359,Available,TII03
+2026W06,2026,6,Red line,531214,Available,TII03
+2026W06,2026,6,Green line,504145,Available,TII03
+2026W07,2026,7,Luas,1200147,Available,TII03
+2026W07,2026,7,Red line,607472,Available,TII03
+2026W07,2026,7,Green line,592676,Available,TII03
+2026W08,2026,8,Luas,1173787,Available,TII03
+2026W08,2026,8,Red line,609185,Available,TII03
+2026W08,2026,8,Green line,564602,Available,TII03
+2026W09,2026,9,Luas,1188472,Available,TII03
+2026W09,2026,9,Red line,601294,Available,TII03
+2026W09,2026,9,Green line,587178,Available,TII03
+2026W10,2026,10,Luas,1231005,Available,TII03
+2026W10,2026,10,Red line,644317,Available,TII03
+2026W10,2026,10,Green line,586688,Available,TII03
+2026W11,2026,11,Luas,1191842,Available,TII03
+2026W11,2026,11,Red line,610840,Available,TII03
+2026W11,2026,11,Green line,581002,Available,TII03
+2026W12,2026,12,Luas,1094890,Available,TII03
+2026W12,2026,12,Red line,567434,Available,TII03
+2026W12,2026,12,Green line,527457,Available,TII03
+2026W13,2026,13,Luas,1285719,Available,TII03
+2026W13,2026,13,Red line,672324,Available,TII03
+2026W13,2026,13,Green line,613395,Available,TII03
+2026W14,2026,14,Luas,1101261,Available,TII03
+2026W14,2026,14,Red line,579024,Available,TII03
+2026W14,2026,14,Green line,522237,Available,TII03
+2026W15,2026,15,Luas,1075509,Available,TII03
+2026W15,2026,15,Red line,658755,Available,TII03
+2026W15,2026,15,Green line,416754,Available,TII03
+2026W16,2026,16,Luas,1267387,Available,TII03
+2026W16,2026,16,Red line,676394,Available,TII03
+2026W16,2026,16,Green line,590992,Available,TII03
+2026W17,2026,17,Luas,1270845,Available,TII03
+2026W17,2026,17,Red line,676613,Available,TII03
+2026W17,2026,17,Green line,594232,Available,TII03
+2026W18,2026,18,Luas,1166272,Available,TII03
+2026W18,2026,18,Red line,581489,Available,TII03
+2026W18,2026,18,Green line,584783,Available,TII03
+2026W19,2026,19,Luas,1083898,Available,TII03
+2026W19,2026,19,Red line,573831,Available,TII03
+2026W19,2026,19,Green line,510067,Available,TII03
+2026W20,2026,20,Luas,1213828,Available,TII03
+2026W20,2026,20,Red line,648406,Available,TII03
+2026W20,2026,20,Green line,565422,Available,TII03
+2026W21,2026,21,Luas,1222246,Available,TII03
+2026W21,2026,21,Red line,650329,Available,TII03
+2026W21,2026,21,Green line,571917,Available,TII03
+2026W22,2026,22,Luas,1258421,Available,TII03
+2026W22,2026,22,Red line,672046,Available,TII03
+2026W22,2026,22,Green line,586375,Available,TII03
+2026W23,2026,23,Luas,1073495,Available,TII03
+2026W23,2026,23,Red line,583793,Available,TII03
+2026W23,2026,23,Green line,489702,Available,TII03
+2026W24,2026,24,Luas,1150333,Available,TII03
+2026W24,2026,24,Red line,611160,Available,TII03
+2026W24,2026,24,Green line,539173,Available,TII03
+2026W25,2026,25,Luas,1176271,Available,TII03
+2026W25,2026,25,Red line,631215,Available,TII03
+2026W25,2026,25,Green line,545057,Available,TII03
+2026W26,2026,26,Luas,1178832,Available,TII03
+2026W26,2026,26,Red line,632173,Available,TII03
+2026W26,2026,26,Green line,546659,Available,TII03
+2026W27,2026,27,Luas,1192662,Available,TII03
+2026W27,2026,27,Red line,652513,Available,TII03
+2026W27,2026,27,Green line,540149,Available,TII03
+2026W28,2026,28,Luas,1159660,Available,TII03
+2026W28,2026,28,Red line,628410,Available,TII03
+2026W28,2026,28,Green line,531250,Available,TII03
+2026W29,2026,29,Luas,1132729,Available,TII03
+2026W29,2026,29,Red line,608022,Available,TII03
+2026W29,2026,29,Green line,524707,Available,TII03
+2026W30,2026,30,Luas,1114051,Available,TII03
+2026W30,2026,30,Red line,603842,Available,TII03
+2026W30,2026,30,Green line,510209,Available,TII03
+2026W31,2026,31,Luas,1075430,Available,TII03
+2026W31,2026,31,Red line,578984,Available,TII03
+2026W31,2026,31,Green line,496446,Available,TII03
+2026W32,2026,32,Luas,1018393,Available,TII03
+2026W32,2026,32,Red line,568563,Available,TII03
+2026W32,2026,32,Green line,449830,Available,TII03
+2026W33,2026,33,Luas,1093136,Available,TII03
+2026W33,2026,33,Red line,600377,Available,TII03
+2026W33,2026,33,Green line,492759,Available,TII03
+2026W34,2026,34,Luas,1146248,Available,TII03
+2026W34,2026,34,Red line,625120,Available,TII03
+2026W34,2026,34,Green line,521128,Available,TII03
+2026W35,2026,35,Luas,1152517,Available,TII03
+2026W35,2026,35,Red line,623147,Available,TII03
+2026W35,2026,35,Green line,529370,Available,TII03
+2026W36,2026,36,Luas,1189225,Available,TII03
+2026W36,2026,36,Red line,634726,Available,TII03
+2026W36,2026,36,Green line,554499,Available,TII03
+2026W37,2026,37,Luas,1202809,Available,TII03
+2026W37,2026,37,Red line,629556,Available,TII03
+2026W37,2026,37,Green line,573253,Available,TII03
+2026W38,2026,38,Luas,1312465,Available,TII03
+2026W38,2026,38,Red line,675151,Available,TII03
+2026W38,2026,38,Green line,637314,Available,TII03
