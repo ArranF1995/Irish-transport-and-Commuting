@@ -1,49 +1,57 @@
 # Irish Public Transport Trends & Analysis
 
-An end-to-end data analytics project exploring passenger journey trends across Ireland's major public transport modes, including **Bus, Rail and Luas**.
+### Excel | Power Query | SQL | Power BI | DAX
 
-The project uses **Excel, Power Query, SQL, DAX and Power BI** to clean, combine, analyse and visualise weekly passenger journey data from official Irish transport datasets.
+An end-to-end data analytics project examining **public transport passenger journeys across Ireland from 2019 to 2026**, covering Dublin Bus, regional bus services, Rail and Luas.
 
-> **Data coverage:** 2019–2026 YTD  
-> **Note:** 2026 is a partial year and is treated separately from complete-year comparisons.
+The project combines official Irish transport datasets to analyse passenger trends, transport mode performance, post-pandemic recovery and long-term growth.
+
+Using **Excel, Power Query, SQL and Power BI**, I developed a structured analytical dataset and an interactive four-page dashboard to communicate key findings.
+
+**Data Coverage:** 2019–2026 YTD  
+**Dataset Size:** 2,831 records  
+**Reporting Frequency:** Weekly  
+**Latest Complete Year:** 2025
+
+> **Note:** 2026 contains partial-year data and is excluded from complete-year comparisons unless reporting periods are aligned.
 
 ---
 
-## Project Overview
+## Project Objectives
 
-Public transport passenger data is available across multiple official datasets and contains both aggregate totals and component-level categories.
+The main objectives of this project were to:
 
-The aim of this project was to create a consistent analytical dataset and answer:
+- Analyse changes in Irish public transport passenger journeys over time.
+- Compare passenger volumes across major transport modes.
+- Identify long-term growth and recovery patterns.
+- Examine the impact of the 2020–2021 decline in passenger activity.
+- Analyse weekly trends and seasonality.
+- Develop reliable KPIs while preventing double-counting.
+- Build an interactive Power BI dashboard for exploring transport performance.
 
-- How have passenger journeys changed over time?
-- How do passenger volumes differ between transport modes?
-- Which modes have experienced the strongest growth and recovery?
-- How did passenger activity change following the decline in 2020–2021?
-- How do missing values and partial-year data affect comparisons?
-
-The final output is an interactive multi-page **Power BI dashboard** supported by SQL analysis, Excel validation and documented data-cleaning steps.
+The project also focuses on **data quality, validation and analytical accuracy**, particularly when working with overlapping categories and incomplete observations.
 
 ---
 
 ## Tools & Technologies
 
-| Tool | Usage |
+| Tool | Purpose |
 |---|---|
-| **Excel** | Initial data inspection, validation and pivot analysis |
-| **Power Query** | Data cleaning, transformation and dataset combination |
-| **SQL** | Data-quality checks and analytical queries |
-| **Power BI** | Data modelling and dashboard development |
-| **DAX** | KPIs, YoY calculations, growth measures and dynamic reporting |
+| Excel | Data inspection, validation and pivot analysis |
+| Power Query | Data cleaning, transformation and combining datasets |
+| SQL | Data validation, aggregation and trend analysis |
+| Power BI | Data modelling, visualisation and interactive dashboards |
+| DAX | KPI calculations, YoY growth and dynamic measures |
 
 ---
 
 ## Data Sources
 
-The project uses two official Irish public transport datasets:
+The analysis uses two official Irish public transport datasets.
 
 ### THA25 — Passenger Journeys by Public Transport
 
-Published by the **National Transport Authority (NTA)**.
+**Publisher:** National Transport Authority (NTA)
 
 Contains weekly passenger journey data for:
 
@@ -54,7 +62,7 @@ Contains weekly passenger journey data for:
 
 ### TII03 — Passenger Journeys by Luas
 
-Published by **Transport Infrastructure Ireland (TII)**.
+**Publisher:** Transport Infrastructure Ireland (TII)
 
 Contains weekly passenger journey data for:
 
@@ -62,94 +70,66 @@ Contains weekly passenger journey data for:
 - Green Line
 - All Luas Lines
 
-The two datasets were standardised and combined into a single analytical dataset containing **2,831 records**.
+Both datasets were standardised and combined into a single analytical dataset containing **2,831 records**.
 
 ---
 
-## Data Preparation
+## Data Cleaning & Preparation
 
-The raw datasets were preserved unchanged before cleaning.
+The original datasets were preserved before transformation.
 
-Using **Excel and Power Query**, I:
+Using Excel and Power Query, I performed the following steps:
 
-1. Standardised column names across both datasets.
-2. Extracted reporting **Year** and **Week Number**.
-3. Added a **Data Status** field to distinguish available and missing observations.
-4. Added a **Source** field to retain dataset lineage.
-5. Standardised transport-mode naming.
-6. Appended THA25 and TII03 into one analytical table.
-7. Preserved blank observations as missing rather than converting them to zero.
-8. Separated core transport modes from aggregate and component-level categories.
+1. Imported and inspected both datasets.
+2. Standardised column names and data types.
+3. Extracted Year and Week Number from reporting periods.
+4. Created a Data Status column to identify missing observations.
+5. Added source identifiers to preserve data lineage.
+6. Standardised transport mode categories.
+7. Combined the datasets into one analytical table.
+8. Preserved missing observations instead of replacing them with zero.
+9. Classified aggregate, core and component-level transport categories.
+10. Validated the cleaned dataset using Excel and SQL.
 
-The resulting structure supports analysis across:
+The resulting dataset supports analysis by:
 
-`Year → Week → Transport Mode → Passenger Journeys`
+**Year → Week → Transport Mode → Passenger Journeys**
 
----
+### Preventing Double-Counting
 
-## Preventing Double-Counting
-
-One of the most important data-modelling challenges in this project was identifying overlapping categories.
-
-The source datasets contain both **aggregate totals and their underlying components**.
+An important challenge was identifying overlapping categories within the source data.
 
 For example:
 
-```text
-Public Transport
-│
-├── Dublin Metro Bus
-├── Bus, excluding Dublin Metro
-├── Rail
-│
-├── All Public Transport, excluding Luas  ← Aggregate
-│
-└── Luas                                  ← Network total
-    ├── Red Line                          ← Component
-    └── Green Line                        ← Component
-```
+- All public transport, excluding Luas, is an aggregate category.
+- Red Line and Green Line are components of the Luas network.
+- All Luas Lines represents the overall Luas network.
 
-Adding every category together would therefore significantly overstate passenger journeys.
+Including both aggregate totals and their underlying components would overstate passenger journeys.
 
-For the main mode-level analysis, I use the following non-overlapping categories:
+To prevent this, the main analysis uses four non-overlapping transport categories:
 
 - Dublin Metro Bus
 - Bus, excluding Dublin Metro
 - Rail
 - Luas
 
-The following are analysed separately:
+Aggregate and component-level categories are analysed separately.
 
-- `All public transport, excluding LUAS` — aggregate category
-- `Red line` — component of Luas
-- `Green line` — component of Luas
-
-This classification prevents aggregate and component records from being counted more than once.
+This ensures the main dashboard KPIs are based on consistent transport classifications.
 
 ---
 
 ## Key Findings
 
-### Bus Outside Dublin
+### 1. Public Transport Recovery
 
-Passenger journeys for **Bus, excluding Dublin Metro** increased by approximately **35.8% between 2019 and 2025**, representing the strongest growth among modes with comparable 2019 data.
+Passenger activity declined sharply during 2020 and 2021 before recovering strongly from 2022 onwards.
 
-### Dublin Metro Bus
+Across the four core transport modes, annual passenger journeys reached approximately:
 
-Dublin Metro Bus passenger journeys increased from approximately **151.7 million in 2019** to **176.9 million in 2025**, an increase of approximately **16.6%**.
-
-### Luas
-
-Luas passenger journeys increased from approximately **48.1 million in 2019** to approximately **55.0 million in 2025**, an increase of approximately **14.2%**.
-
-### Recovery
-
-Passenger activity declined sharply during **2020 and 2021**, followed by a strong recovery beginning in **2022**.
-
-For the four core transport modes, total passenger journeys reached approximately:
-
-| Year | Core Passenger Journeys |
-|---:|---:|
+| Year | Passenger Journeys |
+|---|---:|
 | 2019 | 236.7M* |
 | 2020 | 135.7M |
 | 2021 | 136.0M |
@@ -158,13 +138,35 @@ For the four core transport modes, total passenger journeys reached approximatel
 | 2024 | 327.6M |
 | 2025 | 326.5M |
 
-\* Rail passenger journey values are unavailable for 2019, so the 2019 total is incomplete.
+*2019 excludes Rail because passenger journey observations were unavailable. It is therefore not directly comparable with later four-mode totals.*
+
+### 2. Dublin Metro Bus Remains the Largest Mode
+
+Dublin Metro Bus recorded approximately **176.9 million passenger journeys in 2025**, compared with 151.7 million in 2019.
+
+This represents growth of approximately **16.6%**.
+
+### 3. Strong Growth in Bus Services Outside Dublin
+
+Bus services outside Dublin recorded approximately **35.8% growth between 2019 and 2025**.
+
+This was the strongest growth among transport modes with comparable 2019 baseline data.
+
+### 4. Luas Passenger Growth
+
+Luas passenger journeys increased from approximately **48.1 million in 2019 to 55.0 million in 2025**.
+
+This represents growth of approximately **14.2%**.
+
+### 5. Passenger Activity Stabilised in 2025
+
+Total passenger journeys across the four core modes reached approximately **326.5 million in 2025**, compared with 327.6 million in 2024.
+
+This represents a marginal decrease of approximately **0.3%**, based on the reported annual totals.
 
 ---
 
-## 2025 Mode Comparison
-
-For the latest complete year in the analysis:
+## 2025 Transport Mode Comparison
 
 | Transport Mode | Passenger Journeys |
 |---|---:|
@@ -174,205 +176,248 @@ For the latest complete year in the analysis:
 | Rail | 44.5M |
 | **Total** | **326.5M** |
 
-Dublin Metro Bus accounted for the largest share of passenger journeys among the four core modes.
+Dublin Metro Bus accounted for the largest proportion of journeys across the four core modes in 2025.
 
 ---
 
 ## Power BI Dashboard
 
-The Power BI report is organised into four analytical pages.
+The interactive Power BI dashboard contains four analytical pages designed to explore passenger trends, mode performance and data quality.
 
 ### 1. Public Transport Overview
 
-Provides a high-level view of passenger activity, including:
+![Public Transport Overview](06_Screenshots/Power%20Bi%20-%20Public%20Transport%20Overview.png)
 
-- Passenger journey KPIs
-- Annual trends
-- Year-on-year change
-- Transport mode comparison
-- Key observations
+Provides an overview of public transport activity across Ireland.
+
+**Key Features:**
+
+- Total passenger journey KPIs
+- Annual passenger trends
+- Year-on-year performance
+- Transport mode comparisons
+- Historical recovery analysis
+- Interactive filters
 
 ### 2. Luas Analysis
 
-Focuses specifically on Luas performance:
+![Luas Analysis](06_Screenshots/Power%20Bi%20-%20Luas%20Analysis.png)
 
-- Annual Luas journeys
+Explores Luas passenger performance across the Red and Green Lines.
+
+**Key Features:**
+
+- Annual Luas passenger journeys
 - Weekly passenger trends
-- Red vs Green Line comparison
-- Year-on-year performance
+- Red Line vs Green Line comparison
+- Year-on-year growth
 - Weekly seasonality
+- Historical performance
 
 ### 3. Transport Mode Analysis
 
-Compares the four core transport modes using:
+![Transport Mode Analysis](06_Screenshots/Power%20Bi%20-%20Transport%20Mode%20Analysis.png)
 
-- Passenger journeys by year
-- Mode share
-- Period growth
+Compares passenger activity across the four core transport modes.
+
+**Key Features:**
+
+- Annual passenger journeys by mode
+- Transport mode share
+- Historical growth comparisons
 - Recovery analysis
 - Dynamic year selection
+- Interactive comparisons
 
 ### 4. Data & Methodology
 
-Documents the analytical assumptions behind the dashboard:
+![Data and Methodology](06_Screenshots/Power%20Bi%20-%20Data%20Quality.png)
+
+Documents the assumptions and data-quality considerations supporting the analysis.
+
+**Key Features:**
 
 - Dataset coverage
+- Data source information
 - Missing observations
-- Data sources
-- Aggregation rules
-- Partial-year considerations
-- Methodology
+- Transport mode classifications
+- Aggregation methodology
+- Partial-year reporting limitations
 
 ---
 
-## Example DAX
+## SQL Analysis
 
-A core passenger journey measure was created to prevent overlapping transport categories from being included in totals:
+SQL was used to validate the combined dataset and analyse passenger journey trends.
 
-```DAX
-Core Passenger Journeys =
-CALCULATE(
-    SUM('Public Transport Combined'[Passenger Journeys]),
-    'Public Transport Combined'[Transport Mode] IN {
-        "Dublin Metro Bus",
-        "Bus, excluding Dublin Metro",
-        "Rail",
-        "Luas"
-    }
-)
-```
-
----
-
-## Example SQL
-
-SQL was used to analyse annual passenger journeys by transport mode:
-
-```sql
-SELECT
-    Year,
-    [Transport Mode],
-    SUM([Passenger Journeys]) AS Annual_Journeys
-FROM fact_passenger_journeys
-WHERE [Transport Level] = 'Core Mode'
-GROUP BY
-    Year,
-    [Transport Mode]
-ORDER BY
-    Year,
-    Annual_Journeys DESC;
-```
-
-Additional SQL analysis covers:
+The analysis includes:
 
 - Data-quality checks
-- Annual passenger trends
-- Year-on-year analysis
+- Annual passenger journey totals
 - Transport mode comparisons
-- Weekly seasonality
+- Year-on-year performance
+- Weekly passenger trends
+- Seasonality analysis
+
+### Example: Annual Passenger Journeys by Transport Mode
+
+```sql
+SELECT 
+
+YEAR,
+TRANSPORT_MODE,
+SUM(PASSENGER_JOURNEYS) AS TOTAL_JOURNEYS
+
+FROM FACT_PASSENGER_JOURNEYS
+WHERE DATASTATUS = 'Available'
+
+GROUP BY YEAR,TRANSPORT_MODE
+ORDER BY YEAR,TRANSPORT_MODE;
+```
+
+This query calculates annual passenger journeys by transport mode using observations marked as available, supporting comparisons of passenger activity across different years and transport categories
+
+---
+
+## DAX Measures
+
+DAX was used to create dynamic measures supporting the Power BI dashboard.
+
+Examples include:
+
+- Total Passenger Journeys
+- Previous Year Journeys
+- Year-on-Year Change
+- Year-on-Year Growth %
+- Transport Mode Share %
+
+### Example: Previous Year Journeys
+
+```dax
+Previous Year Journeys = 
+VAR CurrentYear =
+    SELECTEDVALUE('Public_Transport_Combined'[Year])
+
+RETURN
+    CALCULATE(
+        [Total Passenger Journeys],
+        REMOVEFILTERS('Public_Transport_Combined'[Year]),
+        'Public_Transport_Combined'[Year] = CurrentYear - 1
+    )
+```
+
+This measure calculates passenger journeys for the previous year based on the currently selected year, supporting year-on-year comparisons within the Power BI dashboard.
 
 ---
 
 ## Data Quality & Limitations
 
-### Rail 2019
+Several data-quality considerations were addressed during the project.
 
-Rail passenger journey values are unavailable for 2019.
+**Missing Rail Data (2019)**
 
-Rail is therefore excluded from calculations requiring a 2019 baseline.
+Rail passenger journey observations are unavailable for 2019. Rail is therefore excluded from comparisons requiring a 2019 baseline.
 
-### 2026 Partial-Year Data
+**Partial-Year Data (2026)**
 
-2026 is incomplete:
+The 2026 datasets contain different reporting coverage:
 
-- THA25 extends to **Week 35**
-- TII03 extends to **Week 38**
+- THA25: Week 35
+- TII03: Week 38
 
-For this reason, 2026 totals are not directly compared with complete calendar years without aligning the reporting periods.
+As a result, 2026 totals are not directly compared with complete years unless reporting periods are aligned.
 
-### Missing Values
+**Missing Observations**
 
-Blank observations are treated as **missing**, not zero.
+Missing values were preserved as blank rather than converted to zero, preventing unavailable observations from being interpreted as zero passenger activity.
 
-This prevents unavailable data from being incorrectly interpreted as zero passenger activity.
+**Overlapping Transport Categories**
 
-### Passenger Journeys
+Aggregate and component-level categories were excluded from core mode totals to prevent double-counting.
 
-The dataset measures **passenger journeys**, not unique passengers.
+**Passenger Journey Definition**
 
-One individual making multiple trips can therefore contribute multiple passenger journeys.
+The data represents passenger journeys rather than unique passengers. Individuals making multiple trips may therefore be counted more than once.
 
 ---
 
 ## Repository Structure
 
 ```text
-irish-public-transport-analysis/
+irish-transport-and-commuting/
 │
 ├── README.md
-│
-├── data/
-│   ├── raw/
-│   └── cleaned/
-│
-├── sql/
-│   ├── 01_create_database.sql
-│   ├── 02_create_tables.sql
-│   ├── 03_load_data.sql
-│   ├── 04_data_quality.sql
-│   ├── 05_annual_analysis.sql
-│   ├── 06_yoy_analysis.sql
-│   └── 07_seasonality.sql
-│
-├── excel/
-│   └── Irish_Transport_Analysis.xlsx
-│
-├── powerbi/
-│   ├── Irish_Transport_Dashboard.pbix
-│   └── screenshots/
-│
-└── documentation/
-    ├── data_dictionary.md
-    └── methodology.md
+|
+├──01_Raw Data
+|      ├── THA25_Public_Transport_Raw.csv
+|      ├── TII03.Luas Data Raw.csv
+|
+├──02_Clean Data
+|      ├── IrishTransportAnlysis.csv
+|      ├── IrishTransportAnlysis.xlsx
+|      ├── THA25_Public_Transport_Clean.xlsx
+|      ├── TII03.Luas Data Clean.xlsx
+|
+├──03_SQL
+|      ├── Annual Mode Comparison.sql
+|      ├── Average Weekly Journeys.sql
+|      ├── Database Structure.png
+|      ├── Total Journeys by Transport Mode.sql
+|      ├── Total Journeys by Year.sql
+|      ├── Year Over Year Analysis.sql
+|
+├──04_Excel
+|      ├── IrishTransportAnlysis.xlsx
+|
+├──05_Power Bi
+|      ├── Irish transport & Commuting.pbix
+|      ├── Irish Transport.jpg
+|
+├──06_Screenshots
+       ├── Power Bi - Data Quality.png
+       ├── Power Bi - Luas Analysis.png
+       ├── Power Bi - Public Transport Overview.png
+       ├── Power Bi - Transport Mode Analysis.png
 ```
 
 ---
 
 ## Skills Demonstrated
 
-This project demonstrates practical experience with:
+This project demonstrates practical experience in:
 
 - Data cleaning and transformation
-- Power Query
-- SQL querying
-- Excel analysis
-- Data validation
+- Excel and Power Query
+- SQL data analysis
+- Data validation and quality assurance
 - Data modelling
-- DAX
-- Time-series analysis
-- Year-on-year analysis
-- Data-quality assessment
+- DAX measure development
 - Power BI dashboard design
+- Time-series and trend analysis
+- Year-on-year performance analysis
+- Handling incomplete datasets
 - Communicating analytical findings
 
 ---
 
-## Key Learning
+## Key Learnings
 
-A major takeaway from this project was the importance of understanding the **structure and meaning of a dataset before calculating KPIs**.
+This project reinforced the importance of understanding the structure of a dataset before calculating performance metrics.
 
-Identifying the relationship between aggregate totals and their underlying components was essential to preventing double-counting.
+A key challenge was identifying overlapping transport categories and designing calculations that prevent double-counting.
 
-The project also provided practical experience working with missing observations, incomplete reporting periods, weekly time-series data and dynamic DAX measures.
+The analysis also strengthened my experience working with weekly time-series data, missing observations, partial-year reporting periods and dynamic Power BI measures.
+
+Combining Excel, SQL and Power BI provided practical experience across the full analytics workflow, from raw data preparation to communicating findings through interactive dashboards.
 
 ---
+**Data source:** 
+https://data.gov.ie/dataset/tha25-passenger-journeys-by-public-transport
+https://data.gov.ie/dataset/tii03-passenger-journeys-by-luas
 
 ## Author
 
-**Arran Farrell**
-
+**Arran Farrell**  
 Data Analyst
 
-
-
-*This project was created as a portfolio project to demonstrate data analysis, data modelling and business intelligence skills.*
+*This project was developed as a portfolio project to demonstrate practical skills in data analysis, SQL, Power BI, data modelling and business intelligence.*
